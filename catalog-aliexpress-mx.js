@@ -4,7 +4,7 @@
   CATÁLOGO ALIEXPRESS · MÉXICO
 
   Productos únicos: 60.
-  Metadatos reales completados: 5/60.
+  Metadatos reales completados: 7/60.
   Los productos pendientes conservan sus datos provisionales.
 */
 
@@ -13,7 +13,7 @@ window.CATALOG_META_ALIEXPRESS_MX = {
   uniqueProducts: 60,
   duplicatesMerged: 40,
   updatedAt: "2026-07-18",
-  metadataCompleted: 5,
+  metadataCompleted: 7,
   priceMode: "external"
 };
 
@@ -513,12 +513,12 @@ window.CATALOG_ALIEXPRESS_MX = [
   },
   {
     "id": "aliexpress-1005006737907603",
-    "name": "Accesorio para coche o moto 02",
-    "description": "Accesorio para coche o moto 02. Accesorio para coche o moto. Verifica la compatibilidad exacta con tu modelo.",
+    "name": "EJEAS V6 PRO+/PLUS Motorcycle Helmet Bluetooth Walkie Talkie 6 Rider Distance 800 Meters Waterproof IP67",
+    "description": "EJEAS V6 PRO+/PLUS Motorcycle Helmet Bluetooth Walkie Talkie 6 Rider Distance 800 Meters Waterproof IP67. Accesorio para coche o moto. Verifica la compatibilidad exacta con tu modelo.",
     "categories": [
       "Coche/Moto"
     ],
-    "image": "https://placehold.co/900x900/111821/d6ad52?text=Coche%2FMoto+02",
+    "image": "https://ae01.alicdn.com/kf/Sa85dafe8369c48d7aa797adca38dda77N.jpg",
     "featured": false,
     "createdAt": "2026-07-18",
     "offers": [
@@ -529,18 +529,20 @@ window.CATALOG_ALIEXPRESS_MX = [
         "url": "https://s.click.aliexpress.com/e/_c3zqIZ4r",
         "priceSnapshot": "Desde 18,59 USD"
       }
-    ]
+    ],
+    "metadataUpdatedAt": "2026-07-18T19:51:35.295383+00:00",
+    "metadataSource": "Microlink"
   },
   {
     "id": "aliexpress-1005010567441252",
-    "name": "Producto viral seleccionado 04",
-    "description": "Producto viral seleccionado 04. Producto popular seleccionado por Atlas Secreto. Consulta características, variantes y disponibilidad.",
+    "name": "1pcs-5pcs 60W PD USB-C to USB C Fast Charger Cable For Apple iPhone 17 Pro Max 16 15 Plus 14 13 12 11 X XS Type C Quick…",
+    "description": "1pcs-5pcs 60W PD USB-C to USB C Fast Charger Cable For Apple iPhone 17 Pro Max 16 15 Plus 14 13 12 11 X XS Type C Quick Charging",
     "categories": [
       "Virales",
       "Tecnología",
       "Menos de 10"
     ],
-    "image": "https://placehold.co/900x900/111821/d6ad52?text=Virales+04",
+    "image": "https://ae-pic-a1.aliexpress-media.com/kf/S8c721cdebe1c4892ae3198db84d0e7ffZ.jpg_960x960q75.jpg_.avif",
     "featured": true,
     "createdAt": "2026-07-18",
     "offers": [
@@ -551,7 +553,9 @@ window.CATALOG_ALIEXPRESS_MX = [
         "url": "https://s.click.aliexpress.com/e/_c3b2sOgF",
         "priceSnapshot": "Desde 1,40 USD"
       }
-    ]
+    ],
+    "metadataUpdatedAt": "2026-07-18T19:51:43.503360+00:00",
+    "metadataSource": "Microlink"
   },
   {
     "id": "aliexpress-1005005507287645",
