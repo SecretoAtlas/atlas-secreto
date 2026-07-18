@@ -1,1 +1,1896 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
 
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, viewport-fit=cover"
+  >
+
+  <meta
+    name="description"
+    content="Productos útiles, virales y seleccionados por Atlas Secreto en Amazon, AliExpress, Temu y otras tiendas."
+  >
+
+  <meta name="theme-color" content="#080b0f">
+
+  <title>Atlas Secreto | Productos seleccionados</title>
+
+  <style>
+    /* =====================================================
+       DISEÑO GENERAL
+       No necesitas modificar esta sección
+    ===================================================== */
+
+    :root {
+      --background: #080b0f;
+      --background-secondary: #0d1219;
+      --surface: #111821;
+      --surface-light: #17212c;
+      --surface-hover: #1c2835;
+
+      --text: #f5f7fa;
+      --text-secondary: #aab3c0;
+
+      --gold: #d6ad52;
+      --gold-light: #f0d58b;
+      --gold-dark: #987026;
+
+      --border: rgba(255, 255, 255, 0.10);
+      --border-gold: rgba(214, 173, 82, 0.40);
+
+      --amazon: #ff9900;
+      --aliexpress: #e43225;
+      --temu: #ff5b22;
+
+      --success: #57c878;
+      --danger: #e16a6a;
+
+      --radius-small: 10px;
+      --radius-medium: 16px;
+      --radius-large: 24px;
+
+      --shadow:
+        0 22px 60px rgba(0, 0, 0, 0.38);
+
+      --maximum-width: 1180px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      color: var(--text);
+      background:
+        radial-gradient(
+          circle at 15% 5%,
+          rgba(214, 173, 82, 0.14),
+          transparent 28%
+        ),
+        radial-gradient(
+          circle at 90% 18%,
+          rgba(49, 91, 126, 0.18),
+          transparent 27%
+        ),
+        linear-gradient(
+          180deg,
+          #090d12 0%,
+          var(--background) 55%,
+          #06080b 100%
+        );
+
+      font-family:
+        Inter,
+        system-ui,
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        sans-serif;
+
+      line-height: 1.5;
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      z-index: -1;
+      pointer-events: none;
+
+      background-image:
+        linear-gradient(
+          rgba(255, 255, 255, 0.016) 1px,
+          transparent 1px
+        ),
+        linear-gradient(
+          90deg,
+          rgba(255, 255, 255, 0.016) 1px,
+          transparent 1px
+        );
+
+      background-size: 42px 42px;
+      mask-image:
+        linear-gradient(
+          to bottom,
+          rgba(0, 0, 0, 0.8),
+          transparent 75%
+        );
+    }
+
+    a,
+    button,
+    input,
+    select {
+      font: inherit;
+    }
+
+    button,
+    select {
+      cursor: pointer;
+    }
+
+    img {
+      max-width: 100%;
+    }
+
+    .hidden {
+      display: none !important;
+    }
+
+    .screen-reader-only {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+      border: 0;
+    }
+
+    /* =====================================================
+       CABECERA
+    ===================================================== */
+
+    .site-header {
+      width: 100%;
+      border-bottom: 1px solid var(--border);
+      background: rgba(8, 11, 15, 0.78);
+      backdrop-filter: blur(16px);
+    }
+
+    .header-inner {
+      width: min(
+        calc(100% - 32px),
+        var(--maximum-width)
+      );
+
+      margin: 0 auto;
+      padding: 18px 0;
+
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 20px;
+    }
+
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 12px;
+
+      color: var(--text);
+      text-decoration: none;
+    }
+
+    .brand-logo {
+      width: 46px;
+      height: 46px;
+
+      display: grid;
+      place-items: center;
+
+      border: 1px solid var(--border-gold);
+      border-radius: 50%;
+
+      color: var(--gold-light);
+      background:
+        rgba(214, 173, 82, 0.08);
+
+      font-family: Georgia, serif;
+      font-size: 16px;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+    }
+
+    .brand-text strong {
+      display: block;
+      font-size: 1rem;
+      letter-spacing: 0.03em;
+    }
+
+    .brand-text span {
+      display: block;
+      margin-top: 2px;
+
+      color: var(--text-secondary);
+      font-size: 0.73rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+
+    .header-country {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .header-country label {
+      color: var(--text-secondary);
+      font-size: 0.82rem;
+    }
+
+    select {
+      min-height: 42px;
+      padding: 0 36px 0 12px;
+
+      border: 1px solid var(--border);
+      border-radius: var(--radius-small);
+
+      color: var(--text);
+      background-color: var(--surface);
+      outline: none;
+    }
+
+    select:focus {
+      border-color: var(--gold);
+    }
+
+    /* =====================================================
+       HERO
+    ===================================================== */
+
+    .hero {
+      width: min(
+        calc(100% - 32px),
+        900px
+      );
+
+      margin: 0 auto;
+      padding: 72px 0 48px;
+      text-align: center;
+    }
+
+    .hero-label {
+      margin: 0 0 14px;
+
+      color: var(--gold);
+      font-size: 0.72rem;
+      font-weight: 800;
+      letter-spacing: 0.26em;
+      text-transform: uppercase;
+    }
+
+    .hero h1 {
+      margin: 0;
+
+      font-family:
+        Georgia,
+        "Times New Roman",
+        serif;
+
+      font-size:
+        clamp(3rem, 9vw, 6.3rem);
+
+      line-height: 0.96;
+      letter-spacing: -0.045em;
+    }
+
+    .hero-description {
+      max-width: 650px;
+      margin: 24px auto 0;
+
+      color: var(--text-secondary);
+      font-size: clamp(1rem, 2.5vw, 1.14rem);
+      line-height: 1.75;
+    }
+
+    .hero-benefits {
+      margin: 26px auto 0;
+
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 9px;
+    }
+
+    .hero-benefit {
+      padding: 8px 12px;
+
+      border: 1px solid var(--border);
+      border-radius: 999px;
+
+      color: var(--text-secondary);
+      background: rgba(17, 24, 33, 0.65);
+
+      font-size: 0.78rem;
+    }
+
+    /* =====================================================
+       BOTONES DE PROVEEDORES
+    ===================================================== */
+
+    .store-navigation {
+      width: min(
+        calc(100% - 32px),
+        880px
+      );
+
+      margin: 0 auto 42px;
+
+      display: grid;
+      grid-template-columns:
+        repeat(4, minmax(0, 1fr));
+
+      gap: 12px;
+    }
+
+    .store-button {
+      min-height: 58px;
+      padding: 12px;
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 9px;
+
+      border: 1px solid var(--border);
+      border-radius: var(--radius-medium);
+
+      color: var(--text);
+      background: var(--surface);
+
+      font-weight: 800;
+      text-align: center;
+
+      transition:
+        transform 0.2s ease,
+        border-color 0.2s ease,
+        background 0.2s ease;
+    }
+
+    .store-button:hover {
+      transform: translateY(-3px);
+      border-color: var(--border-gold);
+      background: var(--surface-hover);
+    }
+
+    .store-button.active {
+      color: #17120a;
+      border-color: transparent;
+      background:
+        linear-gradient(
+          135deg,
+          var(--gold-light),
+          var(--gold)
+        );
+    }
+
+    .store-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: var(--gold);
+    }
+
+    .store-dot.amazon {
+      background: var(--amazon);
+    }
+
+    .store-dot.aliexpress {
+      background: var(--aliexpress);
+    }
+
+    .store-dot.temu {
+      background: var(--temu);
+    }
+
+    /* =====================================================
+       CONTENIDO PRINCIPAL
+    ===================================================== */
+
+    main {
+      width: min(
+        calc(100% - 32px),
+        var(--maximum-width)
+      );
+
+      margin: 0 auto;
+      padding-bottom: 80px;
+    }
+
+    .affiliate-notice {
+      margin-bottom: 24px;
+      padding: 13px 16px;
+
+      border: 1px solid var(--border);
+      border-radius: var(--radius-medium);
+
+      color: var(--text-secondary);
+      background: rgba(17, 24, 33, 0.72);
+
+      font-size: 0.8rem;
+      line-height: 1.6;
+    }
+
+    /* =====================================================
+       CONTROLES Y FILTROS
+    ===================================================== */
+
+    .controls {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+
+      padding: 14px 0 18px;
+
+      background:
+        linear-gradient(
+          180deg,
+          rgba(8, 11, 15, 0.98) 0%,
+          rgba(8, 11, 15, 0.94) 75%,
+          rgba(8, 11, 15, 0) 100%
+        );
+
+      backdrop-filter: blur(14px);
+    }
+
+    .control-row {
+      display: grid;
+      grid-template-columns:
+        minmax(0, 1fr)
+        minmax(190px, 260px);
+
+      gap: 12px;
+    }
+
+    .search-container {
+      position: relative;
+    }
+
+    .search-container input {
+      width: 100%;
+      min-height: 50px;
+      padding: 0 18px 0 46px;
+
+      border: 1px solid var(--border);
+      border-radius: var(--radius-medium);
+
+      color: var(--text);
+      background: rgba(17, 24, 33, 0.96);
+
+      outline: none;
+    }
+
+    .search-container input:focus {
+      border-color: var(--gold);
+      box-shadow:
+        0 0 0 3px
+        rgba(214, 173, 82, 0.10);
+    }
+
+    .search-icon {
+      position: absolute;
+      top: 50%;
+      left: 17px;
+
+      width: 16px;
+      height: 16px;
+
+      transform: translateY(-50%);
+
+      border: 2px solid var(--text-secondary);
+      border-radius: 50%;
+    }
+
+    .search-icon::after {
+      content: "";
+      position: absolute;
+      right: -5px;
+      bottom: -3px;
+
+      width: 7px;
+      height: 2px;
+
+      background: var(--text-secondary);
+      transform: rotate(45deg);
+    }
+
+    .controls select {
+      width: 100%;
+      min-height: 50px;
+      border-radius: var(--radius-medium);
+    }
+
+    .category-list {
+      margin-top: 12px;
+      padding-bottom: 3px;
+
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+
+      scrollbar-width: none;
+    }
+
+    .category-list::-webkit-scrollbar {
+      display: none;
+    }
+
+    .category-button {
+      flex: 0 0 auto;
+      padding: 9px 14px;
+
+      border: 1px solid var(--border);
+      border-radius: 999px;
+
+      color: var(--text-secondary);
+      background: var(--surface);
+
+      font-size: 0.82rem;
+
+      transition:
+        color 0.2s ease,
+        background 0.2s ease,
+        border-color 0.2s ease;
+    }
+
+    .category-button:hover {
+      color: var(--text);
+      border-color: var(--border-gold);
+    }
+
+    .category-button.active {
+      color: #17120a;
+      border-color: transparent;
+      background: var(--gold-light);
+      font-weight: 800;
+    }
+
+    /* =====================================================
+       TÍTULO DE SECCIÓN
+    ===================================================== */
+
+    .section-heading {
+      margin: 26px 0 20px;
+
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 20px;
+    }
+
+    .section-label {
+      margin: 0 0 7px;
+
+      color: var(--gold);
+      font-size: 0.68rem;
+      font-weight: 800;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+    }
+
+    .section-heading h2 {
+      margin: 0;
+
+      font-family:
+        Georgia,
+        "Times New Roman",
+        serif;
+
+      font-size:
+        clamp(1.8rem, 4.5vw, 2.8rem);
+    }
+
+    .result-count {
+      color: var(--text-secondary);
+      font-size: 0.84rem;
+      white-space: nowrap;
+    }
+
+    /* =====================================================
+       CUADRÍCULA DE PRODUCTOS
+    ===================================================== */
+
+    .product-grid {
+      display: grid;
+      grid-template-columns:
+        repeat(3, minmax(0, 1fr));
+
+      gap: 20px;
+    }
+
+    .product-card {
+      min-width: 0;
+      overflow: hidden;
+
+      display: flex;
+      flex-direction: column;
+
+      border: 1px solid var(--border);
+      border-radius: var(--radius-large);
+
+      background:
+        linear-gradient(
+          180deg,
+          var(--surface-light),
+          var(--surface)
+        );
+
+      box-shadow: var(--shadow);
+
+      transition:
+        transform 0.22s ease,
+        border-color 0.22s ease,
+        box-shadow 0.22s ease;
+    }
+
+    .product-card:hover {
+      transform: translateY(-5px);
+      border-color: var(--border-gold);
+      box-shadow:
+        0 28px 70px
+        rgba(0, 0, 0, 0.48);
+    }
+
+    .product-image-container {
+      position: relative;
+      aspect-ratio: 1 / 1;
+      overflow: hidden;
+      background: #f3f3f3;
+    }
+
+    .product-image {
+      width: 100%;
+      height: 100%;
+      display: block;
+      object-fit: cover;
+
+      transition:
+        transform 0.35s ease;
+    }
+
+    .product-card:hover .product-image {
+      transform: scale(1.035);
+    }
+
+    .featured-label {
+      position: absolute;
+      top: 12px;
+      left: 12px;
+
+      padding: 6px 9px;
+
+      border-radius: 999px;
+
+      color: #17120a;
+      background: var(--gold-light);
+
+      font-size: 0.68rem;
+      font-weight: 900;
+      letter-spacing: 0.03em;
+    }
+
+    .product-content {
+      flex: 1;
+      padding: 17px;
+
+      display: flex;
+      flex-direction: column;
+    }
+
+    .product-meta {
+      margin-bottom: 10px;
+
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+
+      color: var(--text-secondary);
+      font-size: 0.72rem;
+    }
+
+    .product-category {
+      color: var(--gold-light);
+      font-weight: 700;
+    }
+
+    .product-content h3 {
+      margin: 0;
+
+      font-size: 1rem;
+      line-height: 1.45;
+    }
+
+    .product-description {
+      margin: 9px 0 14px;
+
+      color: var(--text-secondary);
+      font-size: 0.82rem;
+      line-height: 1.6;
+    }
+
+    .product-offers {
+      margin-top: auto;
+
+      display: flex;
+      flex-direction: column;
+      gap: 9px;
+    }
+
+    .offer-button {
+      min-height: 46px;
+      padding: 10px 12px;
+
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+
+      border: 1px solid var(--border);
+      border-radius: 12px;
+
+      color: var(--text);
+      background: rgba(8, 11, 15, 0.55);
+
+      text-decoration: none;
+
+      transition:
+        transform 0.18s ease,
+        border-color 0.18s ease,
+        background 0.18s ease;
+    }
+
+    .offer-button:hover {
+      transform: translateX(2px);
+      border-color: var(--border-gold);
+      background: var(--surface-hover);
+    }
+
+    .offer-store {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+
+      font-size: 0.8rem;
+      font-weight: 800;
+    }
+
+    .offer-price {
+      color: var(--gold-light);
+      font-size: 0.78rem;
+      font-weight: 800;
+      text-align: right;
+    }
+
+    .offer-country {
+      display: block;
+      margin-top: 2px;
+
+      color: var(--text-secondary);
+      font-size: 0.64rem;
+      font-weight: 500;
+    }
+
+    .unavailable {
+      margin-top: auto;
+      padding: 12px;
+
+      border: 1px dashed var(--border);
+      border-radius: 12px;
+
+      color: var(--text-secondary);
+      text-align: center;
+      font-size: 0.78rem;
+    }
+
+    .empty-state {
+      padding: 70px 20px;
+
+      border: 1px dashed var(--border);
+      border-radius: var(--radius-large);
+
+      color: var(--text-secondary);
+      text-align: center;
+    }
+
+    .empty-state strong {
+      display: block;
+      margin-bottom: 8px;
+      color: var(--text);
+      font-size: 1.1rem;
+    }
+
+    /* =====================================================
+       PIE DE PÁGINA
+    ===================================================== */
+
+    footer {
+      border-top: 1px solid var(--border);
+      background: rgba(5, 7, 10, 0.58);
+    }
+
+    .footer-inner {
+      width: min(
+        calc(100% - 32px),
+        900px
+      );
+
+      margin: 0 auto;
+      padding: 38px 0 50px;
+
+      color: var(--text-secondary);
+      text-align: center;
+      font-size: 0.78rem;
+      line-height: 1.7;
+    }
+
+    .footer-links {
+      margin-bottom: 16px;
+
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .footer-links a {
+      padding: 8px 11px;
+
+      border: 1px solid var(--border);
+      border-radius: 999px;
+
+      color: var(--text-secondary);
+      text-decoration: none;
+    }
+
+    .footer-links a:hover {
+      color: var(--text);
+      border-color: var(--border-gold);
+    }
+
+    /* =====================================================
+       RESPONSIVE
+    ===================================================== */
+
+    @media (max-width: 900px) {
+      .product-grid {
+        grid-template-columns:
+          repeat(2, minmax(0, 1fr));
+      }
+
+      .store-navigation {
+        grid-template-columns:
+          repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 620px) {
+      .header-inner {
+        align-items: flex-start;
+      }
+
+      .brand-text span {
+        display: none;
+      }
+
+      .header-country {
+        flex-direction: column;
+        align-items: flex-end;
+        gap: 4px;
+      }
+
+      .header-country label {
+        font-size: 0.67rem;
+      }
+
+      .header-country select {
+        max-width: 155px;
+      }
+
+      .hero {
+        padding-top: 48px;
+      }
+
+      .store-navigation {
+        grid-template-columns: 1fr 1fr;
+      }
+
+      .control-row {
+        grid-template-columns: 1fr;
+      }
+
+      .section-heading {
+        align-items: flex-start;
+      }
+
+      .product-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .product-image-container {
+        aspect-ratio: 1.2 / 1;
+      }
+    }
+
+    @media (max-width: 410px) {
+      .header-inner {
+        width: min(
+          calc(100% - 20px),
+          var(--maximum-width)
+        );
+      }
+
+      .brand-logo {
+        width: 40px;
+        height: 40px;
+      }
+
+      .brand-text strong {
+        font-size: 0.9rem;
+      }
+
+      .header-country select {
+        max-width: 135px;
+        padding-left: 8px;
+      }
+
+      .store-navigation {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- =====================================================
+       CABECERA
+  ====================================================== -->
+
+  <header class="site-header">
+    <div class="header-inner">
+
+      <a class="brand" href="#">
+        <div class="brand-logo">AS</div>
+
+        <div class="brand-text">
+          <strong>Atlas Secreto</strong>
+          <span>Selección de productos</span>
+        </div>
+      </a>
+
+      <div class="header-country">
+        <label for="country-selector">
+          Tu país
+        </label>
+
+        <select id="country-selector">
+          <option value="GLOBAL">Todos</option>
+          <option value="ES">España</option>
+          <option value="MX">México</option>
+          <option value="CO">Colombia</option>
+          <option value="CL">Chile</option>
+          <option value="AR">Argentina</option>
+          <option value="PE">Perú</option>
+          <option value="EC">Ecuador</option>
+          <option value="UY">Uruguay</option>
+          <option value="US">Estados Unidos</option>
+          <option value="LATAM">Otros países de LATAM</option>
+        </select>
+      </div>
+
+    </div>
+  </header>
+
+  <!-- =====================================================
+       PRESENTACIÓN
+  ====================================================== -->
+
+  <section class="hero">
+
+    <p class="hero-label">
+      Productos seleccionados
+    </p>
+
+    <h1>
+      Atlas Secreto
+    </h1>
+
+    <p class="hero-description">
+      Una selección de productos útiles, curiosos y virales
+      disponibles en Amazon, AliExpress, Temu y otras tiendas.
+      Elige tu país y compara las opciones disponibles.
+    </p>
+
+    <div class="hero-benefits">
+      <span class="hero-benefit">
+        Selección independiente
+      </span>
+
+      <span class="hero-benefit">
+        Varias plataformas
+      </span>
+
+      <span class="hero-benefit">
+        Diferentes países
+      </span>
+    </div>
+
+  </section>
+
+  <!-- =====================================================
+       FILTROS DE TIENDAS
+  ====================================================== -->
+
+  <nav
+    id="store-navigation"
+    class="store-navigation"
+    aria-label="Filtrar por tienda"
+  >
+    <button
+      class="store-button active"
+      data-store="Todas"
+      type="button"
+    >
+      <span class="store-dot"></span>
+      Todas
+    </button>
+
+    <button
+      class="store-button"
+      data-store="Amazon"
+      type="button"
+    >
+      <span class="store-dot amazon"></span>
+      Amazon
+    </button>
+
+    <button
+      class="store-button"
+      data-store="AliExpress"
+      type="button"
+    >
+      <span class="store-dot aliexpress"></span>
+      AliExpress
+    </button>
+
+    <button
+      class="store-button"
+      data-store="Temu"
+      type="button"
+    >
+      <span class="store-dot temu"></span>
+      Temu
+    </button>
+  </nav>
+
+  <!-- =====================================================
+       CONTENIDO
+  ====================================================== -->
+
+  <main id="productos">
+
+    <div class="affiliate-notice">
+      <strong>Aviso de afiliación:</strong>
+      algunos enlaces de esta página son enlaces de afiliado.
+      Atlas Secreto puede recibir una comisión si realizas una
+      compra, sin que el precio aumente para ti.
+    </div>
+
+    <section class="controls">
+
+      <div class="control-row">
+
+        <label class="search-container">
+          <span class="screen-reader-only">
+            Buscar productos
+          </span>
+
+          <span
+            class="search-icon"
+            aria-hidden="true"
+          ></span>
+
+          <input
+            id="search-input"
+            type="search"
+            placeholder="Buscar productos..."
+            autocomplete="off"
+          >
+        </label>
+
+        <label>
+          <span class="screen-reader-only">
+            Ordenar productos
+          </span>
+
+          <select id="sort-selector">
+            <option value="featured">
+              Recomendados primero
+            </option>
+
+            <option value="name">
+              Orden alfabético
+            </option>
+
+            <option value="newest">
+              Más recientes
+            </option>
+          </select>
+        </label>
+
+      </div>
+
+      <div
+        id="category-list"
+        class="category-list"
+        aria-label="Categorías"
+      ></div>
+
+    </section>
+
+    <div class="section-heading">
+
+      <div>
+        <p class="section-label">
+          Recomendaciones
+        </p>
+
+        <h2>
+          Productos seleccionados
+        </h2>
+      </div>
+
+      <span
+        id="result-count"
+        class="result-count"
+      ></span>
+
+    </div>
+
+    <section
+      id="product-grid"
+      class="product-grid"
+      aria-live="polite"
+    ></section>
+
+    <div
+      id="empty-state"
+      class="empty-state hidden"
+    >
+      <strong>
+        No hay productos disponibles
+      </strong>
+
+      Prueba otra búsqueda, categoría, tienda o país.
+    </div>
+
+  </main>
+
+  <!-- =====================================================
+       PIE DE PÁGINA
+  ====================================================== -->
+
+  <footer>
+    <div class="footer-inner">
+
+      <div class="footer-links">
+        <a
+          href="https://www.instagram.com/elatlasecreto/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Instagram
+        </a>
+
+        <a
+          href="https://www.tiktok.com/@elatlasecreto"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          TikTok
+        </a>
+
+        <a
+          href="https://www.amazon.es/shop/elatlasecreto"
+          target="_blank"
+          rel="nofollow sponsored noopener"
+        >
+          Amazon
+        </a>
+      </div>
+
+      <p>
+        Los precios, la disponibilidad y las condiciones de
+        envío pueden cambiar en las plataformas externas.
+      </p>
+
+      <p>
+        © <span id="current-year"></span>
+        Atlas Secreto.
+      </p>
+
+    </div>
+  </footer>
+
+  <script>
+    /* =====================================================
+       CONFIGURACIÓN GENERAL
+
+       En el futuro solo tendrás que editar el catálogo
+       situado unas líneas más abajo para añadir productos.
+    ====================================================== */
+
+    const COUNTRY_NAMES = {
+      GLOBAL: "Todos los países",
+      ES: "España",
+      MX: "México",
+      CO: "Colombia",
+      CL: "Chile",
+      AR: "Argentina",
+      PE: "Perú",
+      EC: "Ecuador",
+      UY: "Uruguay",
+      US: "Estados Unidos",
+      LATAM: "Latinoamérica"
+    };
+
+    /* =====================================================
+       CATÁLOGO DE PRODUCTOS
+
+       Para añadir otro producto:
+       1. Copia un bloque completo.
+       2. Pégalo después del anterior.
+       3. Cambia nombre, imagen, categoría y ofertas.
+       4. Mantén la coma entre productos.
+
+       Cada oferta puede tener:
+       - store: Amazon, AliExpress, Temu...
+       - country: ES, MX, GLOBAL, LATAM...
+       - price: precio visible
+       - url: tu enlace de afiliado
+    ====================================================== */
+
+    const CATALOG = [
+
+      {
+        id: "mochila-tactica",
+        name: "Mochila táctica impermeable 25L/50L",
+        description:
+          "Mochila resistente con múltiples compartimentos para viajes, actividades al aire libre y uso diario.",
+
+        category: "Aventura",
+
+        image:
+          "https://placehold.co/900x900/111821/d6ad52?text=Mochila+tactica",
+
+        featured: true,
+        createdAt: "2026-07-18",
+
+        offers: [
+          {
+            store: "AliExpress",
+            country: "GLOBAL",
+            price: "Desde 22,74 USD",
+            url: "PON_AQUI_TU_ENLACE_DE_ALIEXPRESS"
+          }
+        ]
+      },
+
+      {
+        id: "linterna-cob",
+        name: "Linterna LED COB recargable por USB",
+        description:
+          "Linterna portátil articulada con base magnética para coche, bricolaje, camping y emergencias.",
+
+        category: "Tecnología",
+
+        image:
+          "https://placehold.co/900x900/111821/d6ad52?text=Linterna+COB",
+
+        featured: true,
+        createdAt: "2026-07-18",
+
+        offers: [
+          {
+            store: "AliExpress",
+            country: "GLOBAL",
+            price: "Desde 2,53 USD",
+            url: "PON_AQUI_TU_ENLACE_DE_ALIEXPRESS"
+          }
+        ]
+      },
+
+      {
+        id: "mini-linterna",
+        name: "Minilinterna de llavero recargable",
+        description:
+          "Luz compacta de alta intensidad para llevar en las llaves, la mochila o el coche.",
+
+        category: "Tecnología",
+
+        image:
+          "https://placehold.co/900x900/111821/d6ad52?text=Mini+linterna",
+
+        featured: false,
+        createdAt: "2026-07-18",
+
+        offers: [
+          {
+            store: "AliExpress",
+            country: "GLOBAL",
+            price: "Desde 2,82 USD",
+            url: "PON_AQUI_TU_ENLACE_DE_ALIEXPRESS"
+          }
+        ]
+      },
+
+      {
+        id: "productos-amazon",
+        name: "Selección completa de Amazon",
+        description:
+          "Accede al escaparate de Atlas Secreto con productos recomendados disponibles en Amazon España.",
+
+        category: "Destacados",
+
+        image:
+          "https://placehold.co/900x900/232f3e/ff9900?text=Amazon",
+
+        featured: true,
+        createdAt: "2026-07-18",
+
+        offers: [
+          {
+            store: "Amazon",
+            country: "ES",
+            price: "Ver escaparate",
+            url: "https://www.amazon.es/shop/elatlasecreto"
+          }
+        ]
+      },
+
+      {
+        id: "ejemplo-temu",
+        name: "Selección de productos virales en Temu",
+        description:
+          "Productos económicos, prácticos y populares disponibles dentro del escaparate de Temu.",
+
+        category: "Virales",
+
+        image:
+          "https://placehold.co/900x900/ff5b22/ffffff?text=Temu",
+
+        featured: false,
+        createdAt: "2026-07-18",
+
+        offers: [
+          {
+            store: "Temu",
+            country: "GLOBAL",
+            price: "Ver productos",
+            url: "PON_AQUI_TU_ENLACE_DE_TEMU"
+          }
+        ]
+      }
+
+    ];
+
+    /* =====================================================
+       FUNCIONAMIENTO DE LA WEB
+       No necesitas modificar esta sección
+    ====================================================== */
+
+    const state = {
+      country: getInitialCountry(),
+      store: "Todas",
+      category: "Todas",
+      query: "",
+      sort: "featured"
+    };
+
+    const countrySelector =
+      document.getElementById("country-selector");
+
+    const storeNavigation =
+      document.getElementById("store-navigation");
+
+    const categoryList =
+      document.getElementById("category-list");
+
+    const searchInput =
+      document.getElementById("search-input");
+
+    const sortSelector =
+      document.getElementById("sort-selector");
+
+    const productGrid =
+      document.getElementById("product-grid");
+
+    const resultCount =
+      document.getElementById("result-count");
+
+    const emptyState =
+      document.getElementById("empty-state");
+
+    document.getElementById("current-year").textContent =
+      new Date().getFullYear();
+
+    countrySelector.value = state.country;
+
+    function getInitialCountry() {
+      const savedCountry =
+        localStorage.getItem("atlas-country");
+
+      if (
+        savedCountry &&
+        Object.prototype.hasOwnProperty.call(
+          COUNTRY_NAMES,
+          savedCountry
+        )
+      ) {
+        return savedCountry;
+      }
+
+      const locale =
+        navigator.language ||
+        navigator.userLanguage ||
+        "";
+
+      const region =
+        locale.split("-")[1]?.toUpperCase();
+
+      if (
+        region &&
+        Object.prototype.hasOwnProperty.call(
+          COUNTRY_NAMES,
+          region
+        )
+      ) {
+        return region;
+      }
+
+      return "GLOBAL";
+    }
+
+    function escapeHtml(value) {
+      return String(value)
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+    }
+
+    function validAffiliateUrl(url) {
+      if (!url) {
+        return false;
+      }
+
+      if (
+        url.startsWith("PON_AQUI") ||
+        url.startsWith("TU_ENLACE")
+      ) {
+        return false;
+      }
+
+      try {
+        const parsedUrl = new URL(url);
+
+        return (
+          parsedUrl.protocol === "https:" ||
+          parsedUrl.protocol === "http:"
+        );
+      } catch {
+        return false;
+      }
+    }
+
+    function getCountryOffers(product) {
+      if (state.country === "GLOBAL") {
+        return product.offers;
+      }
+
+      return product.offers.filter((offer) => {
+        return (
+          offer.country === state.country ||
+          offer.country === "GLOBAL" ||
+          (
+            offer.country === "LATAM" &&
+            state.country !== "ES" &&
+            state.country !== "US"
+          )
+        );
+      });
+    }
+
+    function getVisibleOffers(product) {
+      let offers =
+        getCountryOffers(product);
+
+      if (state.store !== "Todas") {
+        offers = offers.filter(
+          (offer) =>
+            offer.store === state.store
+        );
+      }
+
+      return offers;
+    }
+
+    function getCategories() {
+      return [
+        "Todas",
+        ...new Set(
+          CATALOG.map(
+            (product) => product.category
+          )
+        )
+      ];
+    }
+
+    function renderCategories() {
+      categoryList.innerHTML =
+        getCategories()
+          .map((category) => {
+            const active =
+              state.category === category
+                ? "active"
+                : "";
+
+            return `
+              <button
+                type="button"
+                class="category-button ${active}"
+                data-category="${escapeHtml(category)}"
+              >
+                ${escapeHtml(category)}
+              </button>
+            `;
+          })
+          .join("");
+    }
+
+    function filteredProducts() {
+      const normalizedQuery =
+        state.query
+          .trim()
+          .toLowerCase();
+
+      const products =
+        CATALOG.filter((product) => {
+          const offers =
+            getVisibleOffers(product);
+
+          if (offers.length === 0) {
+            return false;
+          }
+
+          const categoryMatches =
+            state.category === "Todas" ||
+            product.category ===
+              state.category;
+
+          const text =
+            [
+              product.name,
+              product.description,
+              product.category,
+              ...product.offers.map(
+                (offer) => offer.store
+              )
+            ]
+              .join(" ")
+              .toLowerCase();
+
+          const queryMatches =
+            !normalizedQuery ||
+            text.includes(normalizedQuery);
+
+          return (
+            categoryMatches &&
+            queryMatches
+          );
+        });
+
+      return products.sort((a, b) => {
+        if (state.sort === "name") {
+          return a.name.localeCompare(
+            b.name,
+            "es"
+          );
+        }
+
+        if (state.sort === "newest") {
+          return (
+            new Date(b.createdAt) -
+            new Date(a.createdAt)
+          );
+        }
+
+        return (
+          Number(b.featured) -
+          Number(a.featured)
+        );
+      });
+    }
+
+    function storeClass(store) {
+      return store
+        .toLowerCase()
+        .replaceAll(" ", "-");
+    }
+
+    function renderOffer(offer) {
+      const countryName =
+        COUNTRY_NAMES[offer.country] ||
+        offer.country;
+
+      const isValid =
+        validAffiliateUrl(offer.url);
+
+      if (!isValid) {
+        return `
+          <div class="unavailable">
+            Añade el enlace de afiliado de
+            ${escapeHtml(offer.store)}
+          </div>
+        `;
+      }
+
+      return `
+        <a
+          class="offer-button"
+          href="${escapeHtml(offer.url)}"
+          target="_blank"
+          rel="nofollow sponsored noopener noreferrer"
+        >
+          <span class="offer-store">
+            <span
+              class="store-dot ${storeClass(offer.store)}"
+            ></span>
+
+            <span>
+              ${escapeHtml(offer.store)}
+
+              <small class="offer-country">
+                ${escapeHtml(countryName)}
+              </small>
+            </span>
+          </span>
+
+          <span class="offer-price">
+            ${escapeHtml(offer.price)}
+          </span>
+        </a>
+      `;
+    }
+
+    function renderProduct(product) {
+      const offers =
+        getVisibleOffers(product);
+
+      const featuredLabel =
+        product.featured
+          ? `
+            <span class="featured-label">
+              Recomendado
+            </span>
+          `
+          : "";
+
+      const offersHtml =
+        offers.length > 0
+          ? offers
+              .map(renderOffer)
+              .join("")
+          : `
+            <div class="unavailable">
+              No disponible actualmente
+              para el país seleccionado.
+            </div>
+          `;
+
+      return `
+        <article class="product-card">
+
+          <div class="product-image-container">
+
+            <img
+              class="product-image"
+              src="${escapeHtml(product.image)}"
+              alt="${escapeHtml(product.name)}"
+              loading="lazy"
+              onerror="
+                this.onerror = null;
+                this.src =
+                'https://placehold.co/900x900/111821/d6ad52?text=Atlas+Secreto';
+              "
+            >
+
+            ${featuredLabel}
+
+          </div>
+
+          <div class="product-content">
+
+            <div class="product-meta">
+
+              <span class="product-category">
+                ${escapeHtml(product.category)}
+              </span>
+
+              <span>
+                ${
+                  offers.length
+                }
+                ${
+                  offers.length === 1
+                    ? "opción"
+                    : "opciones"
+                }
+              </span>
+
+            </div>
+
+            <h3>
+              ${escapeHtml(product.name)}
+            </h3>
+
+            <p class="product-description">
+              ${escapeHtml(
+                product.description
+              )}
+            </p>
+
+            <div class="product-offers">
+              ${offersHtml}
+            </div>
+
+          </div>
+
+        </article>
+      `;
+    }
+
+    function renderProducts() {
+      const products =
+        filteredProducts();
+
+      productGrid.innerHTML =
+        products
+          .map(renderProduct)
+          .join("");
+
+      resultCount.textContent =
+        `${products.length} ` +
+        (
+          products.length === 1
+            ? "producto"
+            : "productos"
+        );
+
+      emptyState.classList.toggle(
+        "hidden",
+        products.length !== 0
+      );
+    }
+
+    countrySelector.addEventListener(
+      "change",
+      () => {
+        state.country =
+          countrySelector.value;
+
+        localStorage.setItem(
+          "atlas-country",
+          state.country
+        );
+
+        renderProducts();
+      }
+    );
+
+    storeNavigation.addEventListener(
+      "click",
+      (event) => {
+        const button =
+          event.target.closest(
+            "[data-store]"
+          );
+
+        if (!button) {
+          return;
+        }
+
+        state.store =
+          button.dataset.store;
+
+        document
+          .querySelectorAll(
+            ".store-button"
+          )
+          .forEach((storeButton) => {
+            storeButton.classList.toggle(
+              "active",
+              storeButton === button
+            );
+          });
+
+        renderProducts();
+
+        document
+          .getElementById("productos")
+          .scrollIntoView({
+            behavior: "smooth",
+            block: "start"
+          });
+      }
+    );
+
+    categoryList.addEventListener(
+      "click",
+      (event) => {
+        const button =
+          event.target.closest(
+            "[data-category]"
+          );
+
+        if (!button) {
+          return;
+        }
+
+        state.category =
+          button.dataset.category;
+
+        renderCategories();
+        renderProducts();
+      }
+    );
+
+    searchInput.addEventListener(
+      "input",
+      () => {
+        state.query =
+          searchInput.value;
+
+        renderProducts();
+      }
+    );
+
+    sortSelector.addEventListener(
+      "change",
+      () => {
+        state.sort =
+          sortSelector.value;
+
+        renderProducts();
+      }
+    );
+
+    renderCategories();
+    renderProducts();
+  </script>
+
+</body>
+</html>
