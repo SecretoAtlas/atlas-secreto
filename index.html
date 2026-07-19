@@ -10,7 +10,7 @@
 
   <meta
     name="description"
-    content="Productos seleccionados por Atlas Secreto en Amazon, AliExpress y Vinted, organizados por país y categoría."
+    content="Productos seleccionados por Atlas Secreto en Amazon, AliExpress, Temu y Vinted, organizados por país y categoría."
   >
 
   <meta name="theme-color" content="#080b0f">
@@ -1822,6 +1822,616 @@
       }
     }
 
+  
+    /* =====================================================
+       NAVEGACIÓN SUPERIOR Y HERO COMPACTO · 2026-07-19
+    ===================================================== */
+
+    html {
+      scroll-padding-top: 190px;
+    }
+
+    .site-header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+
+      border-bottom: 1px solid var(--border);
+      background: rgba(7, 10, 14, 0.94);
+      backdrop-filter: blur(20px);
+      box-shadow: 0 12px 30px rgba(0, 0, 0, 0.26);
+    }
+
+    .header-shell {
+      width: min(
+        calc(100% - 28px),
+        var(--maximum-width)
+      );
+      margin: 0 auto;
+      padding: 10px 0 9px;
+    }
+
+    .header-primary {
+      display: grid;
+      grid-template-columns:
+        minmax(210px, auto)
+        minmax(260px, 1fr)
+        auto;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .brand-menu-button {
+      min-width: 0;
+      padding: 0;
+      border: 0;
+      background: transparent;
+      text-align: left;
+    }
+
+    .brand-menu-button:hover .brand-text strong {
+      color: var(--gold-light);
+    }
+
+    .menu-icon {
+      width: 22px;
+      height: 18px;
+      flex: 0 0 auto;
+
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .menu-icon span {
+      width: 100%;
+      height: 2px;
+      border-radius: 999px;
+      background: var(--gold-light);
+    }
+
+    .header-search {
+      width: 100%;
+    }
+
+    .header-search input {
+      width: 100%;
+      min-height: 44px;
+      padding: 0 16px 0 44px;
+
+      border: 1px solid var(--border);
+      border-radius: 999px;
+
+      color: var(--text);
+      background: rgba(17, 24, 33, 0.90);
+      outline: none;
+    }
+
+    .header-search input:focus {
+      border-color: var(--gold);
+      box-shadow: 0 0 0 3px rgba(214, 173, 82, 0.10);
+    }
+
+    .header-country {
+      gap: 8px;
+    }
+
+    .header-country label {
+      white-space: nowrap;
+    }
+
+    .header-country select {
+      min-height: 44px;
+      max-width: 185px;
+      border-radius: 999px;
+    }
+
+    .top-category-list {
+      margin: 9px 0 0;
+
+      display: flex;
+      padding: 0 0 2px;
+
+      flex-wrap: nowrap;
+      gap: 6px;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+
+    .top-category-list::-webkit-scrollbar {
+      display: none;
+    }
+
+    .top-category-list .category-button {
+      min-height: 32px;
+      padding: 6px 11px;
+      background: rgba(17, 24, 33, 0.78);
+    }
+
+    .compact-store-navigation {
+      width: 100%;
+      margin: 7px 0 0;
+
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      overflow-x: auto;
+
+      scrollbar-width: none;
+    }
+
+    .compact-store-navigation::-webkit-scrollbar {
+      display: none;
+    }
+
+    .compact-store-navigation .store-button {
+      flex: 0 0 auto;
+      min-height: 34px;
+      padding: 6px 12px;
+
+      border-radius: 999px;
+      font-size: 0.72rem;
+    }
+
+    .compact-store-navigation .store-button:hover {
+      transform: none;
+    }
+
+    .hero {
+      width: min(
+        calc(100% - 28px),
+        var(--maximum-width)
+      );
+
+      min-height: 280px;
+      margin: 22px auto 20px;
+      padding: 34px 42px;
+
+      display: grid;
+      grid-template-columns:
+        minmax(0, 1fr)
+        minmax(170px, 230px);
+      align-items: center;
+      gap: 34px;
+
+      text-align: left;
+
+      border: 1px solid var(--border-gold);
+      border-radius: 24px;
+
+      background:
+        radial-gradient(
+          circle at 82% 44%,
+          rgba(214, 173, 82, 0.12),
+          transparent 28%
+        ),
+        linear-gradient(
+          135deg,
+          rgba(17, 24, 33, 0.98),
+          rgba(7, 10, 14, 0.98)
+        );
+
+      box-shadow: var(--shadow);
+    }
+
+    .hero::before,
+    .hero::after {
+      display: none;
+    }
+
+    .hero-copy {
+      position: relative;
+      z-index: 1;
+    }
+
+    .hero-label {
+      margin-bottom: 10px;
+      text-shadow: none;
+    }
+
+    .hero h1 {
+      max-width: 760px;
+      font-size: clamp(3rem, 6.5vw, 5.1rem);
+      line-height: 0.95;
+      text-shadow: none;
+    }
+
+    .hero-description {
+      max-width: 720px;
+      margin: 18px 0 0;
+
+      font-size: clamp(0.95rem, 1.7vw, 1.08rem);
+      line-height: 1.65;
+      text-shadow: none;
+    }
+
+    .hero-medallion {
+      width: min(100%, 220px);
+      aspect-ratio: 1 / 1;
+      justify-self: end;
+      overflow: hidden;
+
+      border: 1px solid var(--border-gold);
+      border-radius: 50%;
+
+      background: #070a0e;
+      box-shadow:
+        0 0 0 8px rgba(214, 173, 82, 0.05),
+        0 18px 44px rgba(0, 0, 0, 0.44);
+    }
+
+    .hero-medallion img {
+      width: 100%;
+      height: 100%;
+      display: block;
+      object-fit: cover;
+    }
+
+    main {
+      padding-top: 0;
+    }
+
+    .affiliate-notice {
+      margin-top: 0;
+      margin-bottom: 16px;
+      padding: 10px 14px;
+      font-size: 0.74rem;
+    }
+
+    .section-heading {
+      margin-top: 18px;
+    }
+
+    .category-showcase-heading {
+      align-items: center;
+    }
+
+    .showcase-heading-actions {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .showcase-view-all {
+      min-height: 34px;
+      padding: 6px 12px;
+
+      border: 1px solid var(--border-gold);
+      border-radius: 999px;
+
+      color: var(--gold-light);
+      background: rgba(17, 24, 33, 0.72);
+
+      font-size: 0.7rem;
+      font-weight: 800;
+      white-space: nowrap;
+    }
+
+    .showcase-view-all:hover {
+      color: #17120a;
+      background: var(--gold-light);
+    }
+
+    .menu-overlay {
+      position: fixed;
+      inset: 0;
+      z-index: 199;
+
+      background: rgba(0, 0, 0, 0.64);
+      backdrop-filter: blur(3px);
+    }
+
+    .site-menu {
+      position: fixed;
+      inset: 0 auto 0 0;
+      z-index: 200;
+
+      width: min(380px, 90vw);
+      padding: 18px;
+
+      overflow-y: auto;
+
+      border-right: 1px solid var(--border-gold);
+      background:
+        linear-gradient(
+          180deg,
+          rgba(17, 24, 33, 0.99),
+          rgba(7, 10, 14, 0.99)
+        );
+
+      box-shadow: 24px 0 60px rgba(0, 0, 0, 0.48);
+
+      transform: translateX(-105%);
+      transition: transform 0.24s ease;
+    }
+
+    .site-menu.open {
+      transform: translateX(0);
+    }
+
+    body.menu-open {
+      overflow: hidden;
+    }
+
+    .site-menu-header {
+      padding-bottom: 16px;
+
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+
+      border-bottom: 1px solid var(--border);
+    }
+
+    .site-menu-brand {
+      display: flex;
+      align-items: center;
+      gap: 11px;
+    }
+
+    .site-menu-brand strong,
+    .site-menu-brand span {
+      display: block;
+    }
+
+    .site-menu-brand > div > span {
+      margin-top: 2px;
+      color: var(--text-secondary);
+      font-size: 0.72rem;
+    }
+
+    .site-menu-brand .brand-logo {
+      width: 44px;
+      height: 44px;
+      flex: 0 0 auto;
+    }
+
+    .menu-close {
+      width: 38px;
+      height: 38px;
+
+      border: 1px solid var(--border);
+      border-radius: 50%;
+
+      color: var(--text);
+      background: var(--surface);
+
+      font-size: 1.5rem;
+      line-height: 1;
+    }
+
+    .site-menu-content {
+      padding: 10px 0 24px;
+    }
+
+    .site-menu-section-title {
+      margin: 19px 8px 7px;
+
+      color: var(--gold);
+      font-size: 0.63rem;
+      font-weight: 900;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+    }
+
+    .menu-category-list,
+    .menu-store-list {
+      display: grid;
+      gap: 3px;
+    }
+
+    .drawer-link {
+      width: 100%;
+      min-height: 42px;
+      padding: 9px 10px;
+
+      display: flex;
+      align-items: center;
+      gap: 9px;
+
+      border: 0;
+      border-radius: 10px;
+
+      color: var(--text-secondary);
+      background: transparent;
+
+      text-align: left;
+      text-decoration: none;
+    }
+
+    .drawer-link:hover,
+    .drawer-link.active {
+      color: var(--text);
+      background: rgba(214, 173, 82, 0.10);
+    }
+
+    .drawer-link.active {
+      color: var(--gold-light);
+      font-weight: 800;
+    }
+
+    @media (max-width: 900px) {
+      html {
+        scroll-padding-top: 220px;
+      }
+
+      .header-primary {
+        grid-template-columns:
+          minmax(0, 1fr)
+          auto;
+        gap: 10px;
+      }
+
+      .brand-menu-button {
+        grid-column: 1;
+      }
+
+      .header-country {
+        grid-column: 2;
+      }
+
+      .header-search {
+        grid-column: 1 / -1;
+        grid-row: 2;
+      }
+
+      .hero {
+        min-height: 240px;
+        grid-template-columns:
+          minmax(0, 1fr)
+          160px;
+        padding: 28px 30px;
+      }
+
+      .hero h1 {
+        font-size: clamp(2.8rem, 8.8vw, 4.3rem);
+      }
+
+      .hero-medallion {
+        width: 150px;
+      }
+    }
+
+    @media (max-width: 700px) {
+      html {
+        scroll-padding-top: 225px;
+      }
+
+      .header-shell {
+        width: min(
+          calc(100% - 16px),
+          var(--maximum-width)
+        );
+      }
+
+      .brand-logo {
+        width: 40px;
+        height: 40px;
+      }
+
+      .brand-text strong {
+        font-size: 0.85rem;
+      }
+
+      .brand-text span {
+        display: none;
+      }
+
+      .header-country label {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
+      }
+
+      .header-country select {
+        max-width: 128px;
+        min-height: 40px;
+        padding-left: 10px;
+        font-size: 0.74rem;
+      }
+
+      .header-search input {
+        min-height: 42px;
+        font-size: 0.82rem;
+      }
+
+      .top-category-list {
+        margin-top: 7px;
+      }
+
+      .compact-store-navigation {
+        margin-top: 5px;
+      }
+
+      .compact-store-navigation .store-button {
+        min-height: 32px;
+        padding: 5px 10px;
+        font-size: 0.68rem;
+      }
+
+      .hero {
+        position: relative;
+
+        min-height: 220px;
+        grid-template-columns: 1fr;
+        margin-top: 14px;
+        padding: 26px 22px;
+
+        overflow: hidden;
+      }
+
+      .hero-copy {
+        max-width: calc(100% - 46px);
+      }
+
+      .hero h1 {
+        font-size: clamp(2.5rem, 13vw, 3.7rem);
+      }
+
+      .hero-description {
+        margin-top: 13px;
+        font-size: 0.86rem;
+        line-height: 1.5;
+      }
+
+      .hero-medallion {
+        position: absolute;
+        top: 50%;
+        right: -26px;
+
+        width: 128px;
+
+        opacity: 0.24;
+        transform: translateY(-50%);
+        box-shadow: none;
+      }
+
+      .section-heading {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 5px;
+      }
+
+      .category-showcase-heading {
+        align-items: flex-start;
+      }
+
+      .showcase-heading-actions {
+        width: 100%;
+        justify-content: space-between;
+      }
+    }
+
+    @media (max-width: 420px) {
+      .menu-icon {
+        width: 20px;
+      }
+
+      .brand-menu-button {
+        gap: 7px;
+      }
+
+      .brand-logo {
+        width: 36px;
+        height: 36px;
+      }
+
+      .header-country select {
+        max-width: 112px;
+      }
+
+      .hero {
+        padding: 24px 18px;
+      }
+
+      .hero-copy {
+        max-width: calc(100% - 28px);
+      }
+    }
+
   </style>
 </head>
 
@@ -1830,163 +2440,40 @@
   <!-- =====================================================
        CABECERA
   ====================================================== -->
+  <header class="site-header" id="site-header">
+    <div class="header-shell">
 
-  <header class="site-header">
-    <div class="header-inner">
+      <div class="header-primary">
 
-      <a class="brand" href="#">
-        <div class="brand-logo">
-          <img
-            src="images/atlas-profile.webp?v=20260718-1"
-            alt="Atlas Secreto"
-            width="320"
-            height="320"
-          >
-        </div>
+        <button
+          id="menu-toggle"
+          class="brand brand-menu-button"
+          type="button"
+          aria-controls="site-menu"
+          aria-expanded="false"
+        >
+          <span class="menu-icon" aria-hidden="true">
+            <span></span>
+            <span></span>
+            <span></span>
+          </span>
 
-        <div class="brand-text">
-          <strong>Atlas Secreto</strong>
-          <span>Selección de productos</span>
-        </div>
-      </a>
+          <span class="brand-logo">
+            <img
+              src="images/atlas-profile.webp?v=20260718-1"
+              alt=""
+              width="320"
+              height="320"
+            >
+          </span>
 
-      <div class="header-country">
-        <label for="country-selector">
-          Tu país
-        </label>
+          <span class="brand-text">
+            <strong>Atlas Secreto</strong>
+            <span>Selección de productos</span>
+          </span>
+        </button>
 
-        <select id="country-selector">
-          <option value="GLOBAL">Todos</option>
-          <option value="ES">España</option>
-          <option value="MX">México</option>
-          <option value="CO">Colombia</option>
-          <option value="CL">Chile</option>
-          <option value="AR">Argentina</option>
-          <option value="PE">Perú</option>
-          <option value="EC">Ecuador</option>
-          <option value="UY">Uruguay</option>
-          <option value="US">Estados Unidos</option>
-          <option value="LATAM">Otros países de LATAM</option>
-        </select>
-      </div>
-
-    </div>
-  </header>
-
-  <!-- =====================================================
-       PRESENTACIÓN
-  ====================================================== -->
-
-  <section class="hero">
-
-    <p class="hero-label">
-      Productos seleccionados
-    </p>
-
-    <h1>
-      Atlas Secreto
-    </h1>
-
-    <p class="hero-description">
-      Una selección de productos útiles, curiosos y virales
-      disponibles en Amazon, AliExpress, Temu y Vinted.
-      Elige tu país, filtra por categoría y accede a la tienda.
-    </p>
-
-    <div class="hero-benefits">
-      <span class="hero-benefit">
-        Selección independiente
-      </span>
-
-      <span class="hero-benefit">
-        Varias plataformas
-      </span>
-
-      <span class="hero-benefit">
-        Diferentes países
-      </span>
-    </div>
-
-  </section>
-
-  <!-- =====================================================
-       FILTROS DE TIENDAS
-  ====================================================== -->
-
-  <nav
-    id="store-navigation"
-    class="store-navigation"
-    aria-label="Filtrar por tienda"
-  >
-    <button
-      class="store-button active"
-      data-store="Todos"
-      type="button"
-    >
-      <span class="store-dot"></span>
-      Todos
-    </button>
-
-    <button
-      class="store-button"
-      data-store="Amazon"
-      type="button"
-    >
-      <span class="store-dot amazon"></span>
-      Amazon
-    </button>
-
-    <button
-      class="store-button"
-      data-store="AliExpress"
-      type="button"
-    >
-      <span class="store-dot aliexpress"></span>
-      AliExpress
-    </button>
-
-    <button
-      class="store-button"
-      data-store="Temu"
-      type="button"
-    >
-      <span class="store-dot temu"></span>
-      Temu
-    </button>
- <button
-  class="store-button"
-  data-store="Vinted"
-  type="button"
->
-  <span class="store-dot vinted"></span>
-  Vinted
-</button> 
-  </nav>
-
-  <!-- =====================================================
-       CONTENIDO
-  ====================================================== -->
-
-  <main id="productos">
-
-    <div class="affiliate-notice">
-      <strong>Aviso de afiliación:</strong>
-      algunos enlaces de esta página son enlaces de afiliado.
-      Atlas Secreto puede recibir una comisión si realizas una
-      compra, sin que el precio aumente para ti.
-    </div>
-
-    <div
-      id="catalog-status"
-      class="catalog-status"
-      aria-live="polite"
-    ></div>
-
-    <section class="controls">
-
-      <div class="control-row">
-
-        <label class="search-container">
+        <label class="header-search search-container">
           <span class="screen-reader-only">
             Buscar productos
           </span>
@@ -1999,40 +2486,288 @@
           <input
             id="search-input"
             type="search"
-            placeholder="Buscar productos..."
+            placeholder="Buscar productos, categorías o tiendas..."
             autocomplete="off"
           >
         </label>
-</div>
+
+        <div class="header-country">
+          <label for="country-selector">
+            Tu país
+          </label>
+
+          <select id="country-selector">
+            <option value="GLOBAL">Todos</option>
+            <option value="ES">España</option>
+            <option value="MX">México</option>
+            <option value="CO">Colombia</option>
+            <option value="CL">Chile</option>
+            <option value="AR">Argentina</option>
+            <option value="PE">Perú</option>
+            <option value="EC">Ecuador</option>
+            <option value="UY">Uruguay</option>
+            <option value="US">Estados Unidos</option>
+            <option value="LATAM">Otros países de LATAM</option>
+          </select>
+        </div>
+
+      </div>
 
       <div
         id="category-list"
-        class="category-list"
+        class="category-list top-category-list"
         aria-label="Categorías"
       ></div>
 
-      <label class="mobile-category-control">
-        <span>
-          Categoría
+      <nav
+        id="store-navigation"
+        class="store-navigation compact-store-navigation"
+        aria-label="Filtrar por tienda"
+      >
+        <button
+          class="store-button active"
+          data-store="Todos"
+          type="button"
+        >
+          <span class="store-dot"></span>
+          Todos
+        </button>
+
+        <button
+          class="store-button"
+          data-store="Amazon"
+          type="button"
+        >
+          <span class="store-dot amazon"></span>
+          Amazon
+        </button>
+
+        <button
+          class="store-button"
+          data-store="AliExpress"
+          type="button"
+        >
+          <span class="store-dot aliexpress"></span>
+          AliExpress
+        </button>
+
+        <button
+          class="store-button"
+          data-store="Temu"
+          type="button"
+        >
+          <span class="store-dot temu"></span>
+          Temu
+        </button>
+
+        <button
+          class="store-button"
+          data-store="Vinted"
+          type="button"
+        >
+          <span class="store-dot vinted"></span>
+          Vinted
+        </button>
+      </nav>
+
+    </div>
+  </header>
+
+  <div
+    id="menu-overlay"
+    class="menu-overlay"
+    hidden
+  ></div>
+
+  <aside
+    id="site-menu"
+    class="site-menu"
+    aria-hidden="true"
+    aria-label="Menú principal"
+  >
+    <div class="site-menu-header">
+      <div class="site-menu-brand">
+        <span class="brand-logo">
+          <img
+            src="images/atlas-profile.webp?v=20260718-1"
+            alt="Atlas Secreto"
+            width="320"
+            height="320"
+          >
         </span>
 
-        <select
-          id="mobile-category-selector"
-          aria-label="Seleccionar categoría"
-        ></select>
-      </label>
+        <div>
+          <strong>Atlas Secreto</strong>
+          <span>Explora el catálogo</span>
+        </div>
+      </div>
 
-    </section>
+      <button
+        id="menu-close"
+        class="menu-close"
+        type="button"
+        aria-label="Cerrar menú"
+      >
+        ×
+      </button>
+    </div>
 
+    <nav class="site-menu-content">
+      <p class="site-menu-section-title">Navegación</p>
+
+      <button
+        class="drawer-link"
+        data-menu-action="home"
+        type="button"
+      >
+        Inicio
+      </button>
+
+      <button
+        class="drawer-link"
+        data-category="Todos"
+        type="button"
+      >
+        Todos los productos
+      </button>
+
+      <p class="site-menu-section-title">Categorías</p>
+
+      <div
+        id="menu-category-list"
+        class="menu-category-list"
+      ></div>
+
+      <p class="site-menu-section-title">Plataformas</p>
+
+      <div class="menu-store-list">
+        <button class="drawer-link" data-store="Amazon" type="button">
+          <span class="store-dot amazon"></span>
+          Amazon
+        </button>
+
+        <button class="drawer-link" data-store="AliExpress" type="button">
+          <span class="store-dot aliexpress"></span>
+          AliExpress
+        </button>
+
+        <button class="drawer-link" data-store="Temu" type="button">
+          <span class="store-dot temu"></span>
+          Temu
+        </button>
+
+        <button class="drawer-link" data-store="Vinted" type="button">
+          <span class="store-dot vinted"></span>
+          Vinted
+        </button>
+      </div>
+
+      <p class="site-menu-section-title">Atlas Secreto</p>
+
+      <button
+        class="drawer-link"
+        data-menu-action="about"
+        type="button"
+      >
+        Sobre Atlas Secreto
+      </button>
+
+      <button
+        class="drawer-link"
+        data-menu-action="affiliate"
+        type="button"
+      >
+        Aviso de afiliación
+      </button>
+
+      <a
+        class="drawer-link"
+        href="https://www.instagram.com/elatlasecreto/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Instagram
+      </a>
+
+      <a
+        class="drawer-link"
+        href="https://www.tiktok.com/@elatlasecreto"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        TikTok
+      </a>
+    </nav>
+  </aside>
+
+  <!-- =====================================================
+       PRESENTACIÓN
+  ====================================================== -->
+  <section class="hero" id="inicio">
+
+    <div class="hero-copy">
+      <p class="hero-label">
+        Productos seleccionados
+      </p>
+
+      <h1>
+        Atlas Secreto
+      </h1>
+
+      <p class="hero-description">
+        Productos útiles, curiosos y virales seleccionados para ti.
+        Elige tu país, busca lo que necesitas y accede directamente
+        a Amazon, AliExpress, Temu o Vinted.
+      </p>
+    </div>
+
+    <div class="hero-medallion" aria-hidden="true">
+      <img
+        src="images/atlas-profile.webp?v=20260718-1"
+        alt=""
+        width="320"
+        height="320"
+      >
+    </div>
+
+  </section>
+
+  <!-- =====================================================
+       FILTROS DE TIENDAS
+  ====================================================== -->
+
+  
+
+  <!-- =====================================================
+       CONTENIDO
+  ====================================================== -->
+
+  <main id="productos">
+
+    <div id="aviso-afiliacion" class="affiliate-notice">
+      <strong>Aviso de afiliación:</strong>
+      algunos enlaces de esta página son enlaces de afiliado.
+      Atlas Secreto puede recibir una comisión si realizas una
+      compra, sin que el precio aumente para ti.
+    </div>
+
+    <div
+      id="catalog-status"
+      class="catalog-status"
+      aria-live="polite"
+    ></div>
     <div class="section-heading">
 
       <div>
-        <p class="section-label">
-          Catálogo
+        <p
+          id="section-label"
+          class="section-label"
+        >
+          Escaparates
         </p>
 
-        <h2>
-          Productos
+        <h2 id="section-title">
+          Explora por categorías
         </h2>
       </div>
 
@@ -2189,14 +2924,26 @@
         return true;
       }
 
+      const normalizedUrl =
+        url.trim().toLowerCase();
+
+      if (
+        normalizedUrl.includes("placehold.co") ||
+        normalizedUrl.includes("placeholder")
+      ) {
+        return true;
+      }
+
       try {
-        const parsedUrl = new URL(url);
+        const parsedUrl =
+          new URL(url, window.location.href);
+
         return (
           parsedUrl.hostname.includes("placehold.co") ||
           parsedUrl.hostname.includes("placeholder")
         );
       } catch {
-        return true;
+        return false;
       }
     }
 
@@ -2419,14 +3166,29 @@
     const categoryList =
       document.getElementById("category-list");
 
-    const mobileCategorySelector =
-      document.getElementById(
-        "mobile-category-selector"
-      );
-
     const searchInput =
       document.getElementById("search-input");
 
+    const menuToggle =
+      document.getElementById("menu-toggle");
+
+    const menuClose =
+      document.getElementById("menu-close");
+
+    const menuOverlay =
+      document.getElementById("menu-overlay");
+
+    const siteMenu =
+      document.getElementById("site-menu");
+
+    const menuCategoryList =
+      document.getElementById("menu-category-list");
+
+    const sectionLabel =
+      document.getElementById("section-label");
+
+    const sectionTitle =
+      document.getElementById("section-title");
 
     const productGrid =
       document.getElementById("product-grid");
@@ -2658,36 +3420,58 @@ function getProductCategories(product) {
           })
           .join("");
 
-      mobileCategorySelector.innerHTML =
+      menuCategoryList.innerHTML =
         categories
+          .filter(
+            (category) => category !== "Todos"
+          )
           .map((category) => {
+            const active =
+              state.category === category
+                ? "active"
+                : "";
+
             return `
-              <option
-                value="${escapeHtml(category)}"
+              <button
+                type="button"
+                class="drawer-link ${active}"
+                data-category="${escapeHtml(category)}"
               >
                 ${escapeHtml(
                   getCategoryDisplayName(category)
                 )}
-              </option>
+              </button>
             `;
           })
           .join("");
 
-      mobileCategorySelector.value =
-        state.category;
+      document
+        .querySelectorAll(
+          '.site-menu [data-category="Todos"]'
+        )
+        .forEach((button) => {
+          button.classList.toggle(
+            "active",
+            state.category === "Todos"
+          );
+        });
     }
 
     function updateStoreButtons() {
       let selectedStoreIsAvailable = true;
 
       document
-        .querySelectorAll(".store-button")
+        .querySelectorAll("[data-store]")
         .forEach((button) => {
           const store = button.dataset.store;
 
+          /*
+            "Todos" siempre permanece visible.
+            Las demás plataformas solo aparecen cuando existe
+            al menos una oferta disponible para el país actual.
+          */
           const available =
             store === "Todos" ||
-            store === "Temu" ||
             CATALOG.some((product) => {
               return getCountryOffers(product).some(
                 (offer) => offer.store === store
@@ -2714,7 +3498,7 @@ function getProductCategories(product) {
       }
 
       document
-        .querySelectorAll(".store-button")
+        .querySelectorAll("[data-store]")
         .forEach((button) => {
           button.classList.toggle(
             "active",
@@ -3014,11 +3798,32 @@ const categoryMatches =
       `;
     }
 
+    function getShowcaseLimit() {
+      const width = window.innerWidth;
+
+      if (width >= 1240) {
+        return 6;
+      }
+
+      if (width >= 700) {
+        return 4;
+      }
+
+      if (width >= 390) {
+        return 6;
+      }
+
+      return 4;
+    }
+
     function renderGroupedProducts(products) {
       const categories =
         getCategories().filter(
           (category) => category !== "Todos"
         );
+
+      const showcaseLimit =
+        getShowcaseLimit();
 
       return categories
         .map((category) => {
@@ -3032,6 +3837,12 @@ const categoryMatches =
           if (categoryProducts.length === 0) {
             return "";
           }
+
+          const visibleProducts =
+            categoryProducts.slice(
+              0,
+              showcaseLimit
+            );
 
           return `
             <section class="category-showcase">
@@ -3048,18 +3859,34 @@ const categoryMatches =
                   </h2>
                 </div>
 
-                <span class="category-product-count">
-                  ${categoryProducts.length}
+                <div class="showcase-heading-actions">
+                  <span class="category-product-count">
+                    ${categoryProducts.length}
+                    ${
+                      categoryProducts.length === 1
+                        ? "producto"
+                        : "productos"
+                    }
+                  </span>
+
                   ${
-                    categoryProducts.length === 1
-                      ? "producto"
-                      : "productos"
+                    categoryProducts.length > visibleProducts.length
+                      ? `
+                        <button
+                          type="button"
+                          class="showcase-view-all"
+                          data-showcase-category="${escapeHtml(category)}"
+                        >
+                          Ver todos
+                        </button>
+                      `
+                      : ""
                   }
-                </span>
+                </div>
               </div>
 
               <div class="product-grid category-showcase-grid">
-                ${categoryProducts
+                ${visibleProducts
                   .map(renderProduct)
                   .join("")}
               </div>
@@ -3074,12 +3901,27 @@ const categoryMatches =
         filteredProducts();
 
       const groupedView =
-        state.category === "Todos";
+        state.category === "Todos" &&
+        !state.query.trim();
 
       productGrid.classList.toggle(
         "grouped-catalog",
         groupedView
       );
+
+      if (state.query.trim()) {
+        sectionLabel.textContent = "Resultados";
+        sectionTitle.textContent =
+          `Resultados para “${state.query.trim()}”`;
+      } else if (groupedView) {
+        sectionLabel.textContent = "Escaparates";
+        sectionTitle.textContent =
+          "Explora por categorías";
+      } else {
+        sectionLabel.textContent = "Categoría";
+        sectionTitle.textContent =
+          getCategoryDisplayName(state.category);
+      }
 
       if (groupedView) {
         productGrid.innerHTML =
@@ -3101,27 +3943,13 @@ const categoryMatches =
           "hidden"
         );
 
-        if (
-          products.length === 0 &&
-          state.store === "Temu"
-        ) {
-          emptyState.innerHTML = `
-            <strong>
-              Temu estará disponible próximamente
-            </strong>
+        emptyState.innerHTML = `
+          <strong>
+            No hay productos disponibles
+          </strong>
 
-            Todavía no hay productos de Temu cargados
-            para el país seleccionado.
-          `;
-        } else {
-          emptyState.innerHTML = `
-            <strong>
-              No hay productos disponibles
-            </strong>
-
-            Prueba otra búsqueda, categoría, tienda o país.
-          `;
-        }
+          Prueba otra búsqueda, categoría, tienda o país.
+        `;
 
         return;
       }
@@ -3161,27 +3989,13 @@ const categoryMatches =
         products.length !== 0
       );
 
-      if (
-        products.length === 0 &&
-        state.store === "Temu"
-      ) {
-        emptyState.innerHTML = `
-          <strong>
-            Temu estará disponible próximamente
-          </strong>
+      emptyState.innerHTML = `
+        <strong>
+          No hay productos disponibles
+        </strong>
 
-          Todavía no hay productos de Temu cargados
-          para el país seleccionado.
-        `;
-      } else {
-        emptyState.innerHTML = `
-          <strong>
-            No hay productos disponibles
-          </strong>
-
-          Prueba otra búsqueda, categoría, tienda o país.
-        `;
-      }
+        Prueba otra búsqueda, categoría, tienda o país.
+      `;
 
       const remaining =
         Math.max(
@@ -3207,6 +4021,145 @@ const categoryMatches =
         remaining <= pageSize
       );
     }
+
+    function openMenu() {
+      siteMenu.classList.add("open");
+      siteMenu.setAttribute("aria-hidden", "false");
+      menuOverlay.hidden = false;
+      menuToggle.setAttribute("aria-expanded", "true");
+      document.body.classList.add("menu-open");
+    }
+
+    function closeMenu() {
+      siteMenu.classList.remove("open");
+      siteMenu.setAttribute("aria-hidden", "true");
+      menuOverlay.hidden = true;
+      menuToggle.setAttribute("aria-expanded", "false");
+      document.body.classList.remove("menu-open");
+    }
+
+    function applyStore(store, scrollToProducts = true) {
+      state.store = store;
+
+      updateStoreButtons();
+      ensureValidCategory();
+      resetVisibleCount();
+      renderCategories();
+      renderProducts();
+
+      if (scrollToProducts) {
+        document
+          .getElementById("productos")
+          .scrollIntoView({
+            behavior: "smooth",
+            block: "start"
+          });
+      }
+    }
+
+    function applyCategory(category, scrollToProducts = true) {
+      state.category = category;
+
+      resetVisibleCount();
+      renderCategories();
+      renderProducts();
+
+      if (scrollToProducts) {
+        document
+          .getElementById("productos")
+          .scrollIntoView({
+            behavior: "smooth",
+            block: "start"
+          });
+      }
+    }
+
+    menuToggle.addEventListener(
+      "click",
+      openMenu
+    );
+
+    menuClose.addEventListener(
+      "click",
+      closeMenu
+    );
+
+    menuOverlay.addEventListener(
+      "click",
+      closeMenu
+    );
+
+    document.addEventListener(
+      "keydown",
+      (event) => {
+        if (event.key === "Escape") {
+          closeMenu();
+        }
+      }
+    );
+
+    siteMenu.addEventListener(
+      "click",
+      (event) => {
+        const categoryButton =
+          event.target.closest("[data-category]");
+
+        if (categoryButton) {
+          applyCategory(
+            categoryButton.dataset.category
+          );
+          closeMenu();
+          return;
+        }
+
+        const storeButton =
+          event.target.closest("[data-store]");
+
+        if (
+          storeButton &&
+          !storeButton.disabled
+        ) {
+          applyStore(
+            storeButton.dataset.store
+          );
+          closeMenu();
+          return;
+        }
+
+        const actionButton =
+          event.target.closest("[data-menu-action]");
+
+        if (!actionButton) {
+          return;
+        }
+
+        const action =
+          actionButton.dataset.menuAction;
+
+        closeMenu();
+
+        if (
+          action === "home" ||
+          action === "about"
+        ) {
+          document
+            .getElementById("inicio")
+            .scrollIntoView({
+              behavior: "smooth",
+              block: "start"
+            });
+        }
+
+        if (action === "affiliate") {
+          document
+            .getElementById("aviso-afiliacion")
+            .scrollIntoView({
+              behavior: "smooth",
+              block: "center"
+            });
+        }
+      }
+    );
 
     countrySelector.addEventListener(
       "change",
@@ -3243,31 +4196,9 @@ const categoryMatches =
           return;
         }
 
-        state.store =
-          button.dataset.store;
-
-        document
-          .querySelectorAll(
-            ".store-button"
-          )
-          .forEach((storeButton) => {
-            storeButton.classList.toggle(
-              "active",
-              storeButton === button
-            );
-          });
-
-        ensureValidCategory();
-        resetVisibleCount();
-        renderCategories();
-        renderProducts();
-
-        document
-          .getElementById("productos")
-          .scrollIntoView({
-            behavior: "smooth",
-            block: "start"
-          });
+        applyStore(
+          button.dataset.store
+        );
       }
     );
 
@@ -3283,24 +4214,28 @@ const categoryMatches =
           return;
         }
 
-        state.category =
-          button.dataset.category;
-
-        resetVisibleCount();
-        renderCategories();
-        renderProducts();
+        applyCategory(
+          button.dataset.category
+        );
       }
     );
 
-    mobileCategorySelector.addEventListener(
-      "change",
-      () => {
-        state.category =
-          mobileCategorySelector.value;
 
-        resetVisibleCount();
-        renderCategories();
-        renderProducts();
+    productGrid.addEventListener(
+      "click",
+      (event) => {
+        const button =
+          event.target.closest(
+            "[data-showcase-category]"
+          );
+
+        if (!button) {
+          return;
+        }
+
+        applyCategory(
+          button.dataset.showcaseCategory
+        );
       }
     );
 
