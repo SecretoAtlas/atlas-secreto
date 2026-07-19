@@ -10,12 +10,12 @@
 
   <meta
     name="description"
-    content="Productos seleccionados por Atlas Secreto en Amazon, AliExpress, Temu y Vinted, organizados por país y categoría."
+    content="Productos seleccionados por Secret Shop en Amazon, AliExpress, Temu y Vinted, organizados por país y categoría."
   >
 
   <meta name="theme-color" content="#080b0f">
 
-  <title>Atlas Secreto | Productos seleccionados</title>
+  <title>Secret Shop | Productos seleccionados</title>
 
   <link
     rel="icon"
@@ -1946,6 +1946,13 @@
       font-weight: 800;
     }
 
+    @media (min-width: 901px) {
+      .top-category-list {
+        flex-wrap: wrap;
+        overflow: visible;
+      }
+    }
+
     .compact-store-navigation {
       width: 100%;
       margin: 7px 0 0;
@@ -2459,14 +2466,14 @@
           </span>
 
           <span class="brand-text">
-            <strong>Atlas Secreto</strong>
+            <strong>Secret Shop</strong>
             <span>Selección de productos</span>
           </span>
         </button>
 
         <label class="header-search search-container">
           <span class="screen-reader-only">
-            Buscar productos
+            Buscar productos, categorías o plataformas
           </span>
 
           <span
@@ -2477,7 +2484,7 @@
           <input
             id="search-input"
             type="search"
-            placeholder="Buscar productos, categorías o tiendas..."
+            placeholder="Buscar productos, categorías o plataformas..."
             autocomplete="off"
           >
         </label>
@@ -2581,14 +2588,14 @@
         <span class="brand-logo">
           <img
             src="images/atlas-profile.webp?v=20260718-1"
-            alt="Atlas Secreto"
+            alt="Secret Shop"
             width="320"
             height="320"
           >
         </span>
 
         <div>
-          <strong>Atlas Secreto</strong>
+          <strong>Secret Shop</strong>
           <span>Explora el catálogo</span>
         </div>
       </div>
@@ -2622,13 +2629,6 @@
         Todos los productos
       </button>
 
-      <p class="site-menu-section-title">Categorías</p>
-
-      <div
-        id="menu-category-list"
-        class="menu-category-list"
-      ></div>
-
       <p class="site-menu-section-title">Plataformas</p>
 
       <div class="menu-store-list">
@@ -2653,15 +2653,29 @@
         </button>
       </div>
 
-      <p class="site-menu-section-title">Atlas Secreto</p>
+      <p class="site-menu-section-title">Categorías</p>
+
+      <div
+        id="menu-category-list"
+        class="menu-category-list"
+      ></div>
+
+      <p class="site-menu-section-title">Secret Shop</p>
 
       <button
         class="drawer-link"
         data-menu-action="about"
         type="button"
       >
-        Sobre Atlas Secreto
+        Sobre Secret Shop
       </button>
+
+      <a
+        class="drawer-link"
+        href="mailto:secretoatlas@gmail.com?subject=Contacto%20desde%20Secret%20Shop"
+      >
+        Contacto
+      </a>
 
       <a
         class="drawer-link"
@@ -2694,7 +2708,7 @@
       </p>
 
       <h1>
-        Atlas Secreto
+        Secret Shop
       </h1>
 
       <p class="hero-description">
@@ -2830,7 +2844,7 @@
 
       <p>
         © <span id="current-year"></span>
-        Atlas Secreto.
+        Secret Shop.
       </p>
 
     </div>
@@ -2877,7 +2891,7 @@
     ====================================================== */
 
     const DEFAULT_PRODUCT_IMAGE =
-      "https://placehold.co/900x900/111821/d6ad52?text=Atlas+Secreto";
+      "https://placehold.co/900x900/111821/d6ad52?text=Secret+Shop";
 
     function isValidOffer(offer) {
       return Boolean(
@@ -2965,7 +2979,13 @@
         ...product,
         id: product.id.trim(),
         name: product.name.trim(),
-        description: product.description.trim(),
+        description:
+          product.description
+            .trim()
+            .replace(
+              /Atlas Secreto/gi,
+              "Secret Shop"
+            ),
         image: product.image.trim(),
         featured: false,
         createdAt:
@@ -3543,40 +3563,96 @@ function getProductCategories(product) {
       `;
     }
 
+    function normalizeSearchText(value) {
+      return String(value || "")
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .toLowerCase()
+        .replace(/\s+/g, " ")
+        .trim();
+    }
+
+    function getStoreSearchText(store) {
+      if (store === "AliExpress") {
+        return "AliExpress Ali Express Aliexpress Alliexpress";
+      }
+
+      return store;
+    }
+
+    const SOCKS_LAST_CATEGORIES =
+      new Set([
+        "Virales",
+        "Moda mujer",
+        "Moda hombre"
+      ]);
+
+    function isSockProduct(product) {
+      return /\b(calcetin|calcetines|medias|sock|socks)\b/
+        .test(
+          normalizeSearchText(product.name)
+        );
+    }
+
+    function prioritizeCategoryProducts(
+      products,
+      category
+    ) {
+      if (!SOCKS_LAST_CATEGORIES.has(category)) {
+        return [...products];
+      }
+
+      return [...products].sort((a, b) => {
+        return (
+          Number(isSockProduct(a)) -
+          Number(isSockProduct(b))
+        );
+      });
+    }
+
     function filteredProducts() {
       const normalizedQuery =
-        state.query
-          .trim()
-          .toLowerCase();
+        normalizeSearchText(state.query);
+
+      const hasQuery =
+        Boolean(normalizedQuery);
 
       const products =
         CATALOG.filter((product) => {
           const offers =
-            getVisibleOffers(product);
+            hasQuery
+              ? getCountryOffers(product)
+              : getVisibleOffers(product);
 
           if (offers.length === 0) {
             return false;
           }
-const categoryMatches =
-  state.category === "Todos" ||
-  getProductCategories(product).includes(
-    state.category
-  );
-          const text =
-            [
+
+          const categoryMatches =
+            hasQuery ||
+            state.category === "Todos" ||
+            getProductCategories(product).includes(
+              state.category
+            );
+
+          const searchableText =
+            normalizeSearchText([
               product.name,
               product.description,
               ...getProductCategories(product),
-              ...product.offers.map(
-                (offer) => offer.store
-              )
-            ]
-              .join(" ")
-              .toLowerCase();
+              ...getProductCategories(product).map(
+                getCategoryDisplayName
+              ),
+              ...offers.flatMap((offer) => [
+                getStoreSearchText(offer.store),
+                offer.country,
+                COUNTRY_NAMES[offer.country] || ""
+              ])
+            ].join(" "));
 
           const queryMatches =
-            !normalizedQuery ||
-            text.includes(normalizedQuery);
+            !hasQuery ||
+            searchableText.includes(normalizedQuery);
 
           return (
             categoryMatches &&
@@ -3584,7 +3660,8 @@ const categoryMatches =
           );
         });
 
-      return products.sort((a, b) => {
+      const sortedProducts =
+        products.sort((a, b) => {
         const dateDifference =
           new Date(b.createdAt) -
           new Date(a.createdAt);
@@ -3598,6 +3675,11 @@ const categoryMatches =
           "es"
         );
       });
+
+      return prioritizeCategoryProducts(
+        sortedProducts,
+        state.category
+      );
     }
 
     function storeClass(store) {
@@ -3800,10 +3882,13 @@ const categoryMatches =
       return categories
         .map((category) => {
           const categoryProducts =
-            products.filter((product) =>
-              getProductCategories(product).includes(
-                category
-              )
+            prioritizeCategoryProducts(
+              products.filter((product) =>
+                getProductCategories(product).includes(
+                  category
+                )
+              ),
+              category
             );
 
           if (categoryProducts.length === 0) {
@@ -4034,6 +4119,27 @@ const categoryMatches =
       });
     }
 
+    function updateSearchFromInput() {
+      state.query =
+        searchInput.value;
+
+      if (
+        state.query.trim() &&
+        (
+          state.category !== "Todos" ||
+          state.store !== "Todos"
+        )
+      ) {
+        state.category = "Todos";
+        state.store = "Todos";
+        updateStoreButtons();
+        renderCategories();
+      }
+
+      resetVisibleCount();
+      renderProducts();
+    }
+
     function applyStore(store, scrollToProducts = true) {
       state.store = store;
 
@@ -4229,13 +4335,7 @@ const categoryMatches =
 
     searchInput.addEventListener(
       "input",
-      () => {
-        state.query =
-          searchInput.value;
-
-        resetVisibleCount();
-        renderProducts();
-      }
+      updateSearchFromInput
     );
 
     searchInput.addEventListener(
@@ -4247,11 +4347,7 @@ const categoryMatches =
 
         event.preventDefault();
 
-        state.query =
-          searchInput.value;
-
-        resetVisibleCount();
-        renderProducts();
+        updateSearchFromInput();
 
         window.requestAnimationFrame(
           scrollToResults
