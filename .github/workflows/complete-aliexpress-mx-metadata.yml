@@ -25,7 +25,425 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Obtener nombres, descripciones e imágenes
+      - name: Importar productos recopilados
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from datetime import datetime, timezone
+          import csv
+          import json
+          import re
+
+          ROOT = Path(".")
+          DATA = ROOT / "data"
+
+          SOURCE_JSON = DATA / "aliexpress-mx-source.json"
+          SOURCE_CSV = DATA / "aliexpress-mx-source.csv"
+          CACHE = DATA / "aliexpress-mx-metadata-cache.json"
+          ATTEMPTS = DATA / "aliexpress-mx-attempts.json"
+
+          METADATA_FILES = [
+              DATA / "aliexpress-mexico-datos-productos-2026-07-19 (5).csv",
+              DATA / "aliexpress-mexico-datos-productos-2026-07-19 (6).csv",
+              DATA / "aliexpress-mexico-datos-productos-2026-07-19 (7).csv",
+          ]
+
+          PORTALS_FILE = (
+              DATA / "S67f4552628684888a5b9c20e3629634eg.csv"
+          )
+
+          IMPORT_FILES = [*METADATA_FILES, PORTALS_FILE]
+
+          def load_json(path, default):
+              if not path.exists():
+                  return default
+
+              try:
+                  return json.loads(
+                      path.read_text(encoding="utf-8")
+                  )
+              except (OSError, json.JSONDecodeError):
+                  return default
+
+          def save_json(path, value):
+              temporary = path.with_suffix(
+                  path.suffix + ".tmp"
+              )
+
+              temporary.write_text(
+                  json.dumps(
+                      value,
+                      ensure_ascii=False,
+                      indent=2,
+                  ) + "\n",
+                  encoding="utf-8",
+              )
+
+              temporary.replace(path)
+
+          def clean(value):
+              return re.sub(
+                  r"\s+",
+                  " ",
+                  str(value or ""),
+              ).strip()
+
+          def product_id_from_url(url):
+              match = re.search(
+                  r"/item/(\d+)\.html",
+                  str(url or ""),
+              )
+
+              return match.group(1) if match else ""
+
+          def canonical_category(value):
+              category = clean(value)
+
+              mapping = {
+                  "HOGAR": "Hogar",
+                  "VIRALES": "Virales",
+                  "TECNOLOGÍA": "Tecnología",
+                  "TECNOLOGIA": "Tecnología",
+                  "MODA MUJER": "Moda mujer",
+                  "MODA HOMBRE": "Moda hombre",
+                  "ACCESORIOS MUJER": "Accesorios mujer",
+                  "ACCESORIOS HOMBRE": "Accesorios hombre",
+                  "BELLEZA Y CUIDADO": "Belleza y cuidado",
+                  "AVENTURA Y VIAJES": "Aventura y viajes",
+                  "COCHE/MOTO": "Coche/Moto",
+                  "MENOS DE 10": "Menos de 10",
+              }
+
+              return mapping.get(
+                  category.upper(),
+                  category,
+              )
+
+          existing_inputs = [
+              path
+              for path in IMPORT_FILES
+              if path.exists()
+          ]
+
+          if not existing_inputs:
+              print(
+                  "No hay archivos nuevos que importar. "
+                  "Se continúa con el catálogo actual."
+              )
+              raise SystemExit(0)
+
+          missing_inputs = [
+              str(path)
+              for path in IMPORT_FILES
+              if not path.exists()
+          ]
+
+          if missing_inputs:
+              raise RuntimeError(
+                  "Faltan archivos de importación: "
+                  + ", ".join(missing_inputs)
+              )
+
+          metadata_by_id = {}
+
+          for path in METADATA_FILES:
+              with path.open(
+                  "r",
+                  encoding="utf-8-sig",
+                  newline="",
+              ) as handle:
+                  reader = csv.DictReader(handle)
+
+                  for row in reader:
+                      product_id = clean(
+                          row.get("Product ID")
+                      )
+
+                      if not product_id:
+                          continue
+
+                      metadata_by_id[product_id] = row
+
+          affiliate_by_id = {}
+          rejected = []
+
+          with PORTALS_FILE.open(
+              "r",
+              encoding="utf-8-sig",
+              newline="",
+          ) as handle:
+              reader = csv.DictReader(handle)
+
+              for row in reader:
+                  original_url = clean(
+                      row.get("Original URL")
+                  )
+
+                  tracking_url = clean(
+                      row.get("Tracking URL")
+                  )
+
+                  product_id = product_id_from_url(
+                      original_url
+                  )
+
+                  if product_id and tracking_url:
+                      affiliate_by_id[product_id] = {
+                          "original_url": original_url,
+                          "tracking_url": tracking_url,
+                      }
+                  else:
+                      rejected.append(product_id)
+
+          if len(affiliate_by_id) != 79:
+              raise RuntimeError(
+                  "Se esperaban 79 enlaces afiliados "
+                  f"válidos y se encontraron "
+                  f"{len(affiliate_by_id)}."
+              )
+
+          missing_metadata = sorted(
+              set(affiliate_by_id)
+              - set(metadata_by_id)
+          )
+
+          if missing_metadata:
+              raise RuntimeError(
+                  "Faltan metadatos para estos productos: "
+                  + ", ".join(missing_metadata)
+              )
+
+          sources = load_json(SOURCE_JSON, [])
+
+          if not isinstance(sources, list):
+              raise RuntimeError(
+                  "aliexpress-mx-source.json "
+                  "no contiene una lista válida."
+              )
+
+          source_by_id = {
+              clean(source.get("product_id")): source
+              for source in sources
+              if clean(source.get("product_id"))
+          }
+
+          cache = load_json(CACHE, {})
+          attempts = load_json(ATTEMPTS, {})
+
+          if not isinstance(cache, dict):
+              cache = {}
+
+          if not isinstance(attempts, dict):
+              attempts = {}
+
+          imported = 0
+          created = 0
+
+          current_time = datetime.now(
+              timezone.utc
+          ).isoformat()
+
+          for product_id, affiliate in (
+              affiliate_by_id.items()
+          ):
+              metadata = metadata_by_id[product_id]
+
+              name = clean(metadata.get("Name"))
+              description = clean(
+                  metadata.get("Description")
+              )
+              image = clean(metadata.get("Image URL"))
+              category = canonical_category(
+                  metadata.get("Category")
+              )
+
+              if not name:
+                  raise RuntimeError(
+                      f"Producto {product_id} sin nombre."
+                  )
+
+              if not description:
+                  description = (
+                      f"{name}. Producto seleccionado "
+                      "por Atlas Secreto. Consulta "
+                      "variantes y disponibilidad."
+                  )
+
+              if not image.startswith(
+                  ("https://", "http://")
+              ):
+                  raise RuntimeError(
+                      f"Producto {product_id} "
+                      "sin imagen válida."
+                  )
+
+              source = source_by_id.get(product_id)
+
+              if source is None:
+                  source = {
+                      "product_id": product_id,
+                  }
+
+                  sources.append(source)
+                  source_by_id[product_id] = source
+                  created += 1
+
+              source.update(
+                  {
+                      "product_id": product_id,
+                      "original_url":
+                          affiliate["original_url"],
+                      "tracking_url":
+                          affiliate["tracking_url"],
+                      "fallback_name": name,
+                      "fallback_description":
+                          description,
+                      "categories": [category],
+                      "fallback_image": image,
+                      "price":
+                          "Ver precio actual",
+                      "featured": False,
+                      "createdAt": "2026-07-19",
+                  }
+              )
+
+              source.pop("priceSnapshot", None)
+
+              captured_at = clean(
+                  metadata.get("Captured at")
+              ) or current_time
+
+              cache[product_id] = {
+                  "title": name,
+                  "description": description,
+                  "image": image,
+                  "_updated_at": captured_at,
+                  "_source":
+                      "recopilador-atlas-secreto",
+              }
+
+              attempts[product_id] = {
+                  "status": "success",
+                  "attempts": 1,
+                  "last_attempt_at": captured_at,
+                  "last_error": "",
+                  "retry_after": None,
+              }
+
+              imported += 1
+
+          save_json(SOURCE_JSON, sources)
+          save_json(CACHE, cache)
+          save_json(ATTEMPTS, attempts)
+
+          fields = [
+              "product_id",
+              "original_url",
+              "tracking_url",
+              "fallback_name",
+              "fallback_description",
+              "categories",
+              "fallback_image",
+              "price",
+              "priceSnapshot",
+              "featured",
+              "createdAt",
+          ]
+
+          with SOURCE_CSV.open(
+              "w",
+              encoding="utf-8-sig",
+              newline="",
+          ) as handle:
+              writer = csv.DictWriter(
+                  handle,
+                  fieldnames=fields,
+              )
+
+              writer.writeheader()
+
+              for source in sources:
+                  writer.writerow(
+                      {
+                          "product_id":
+                              source.get(
+                                  "product_id",
+                                  "",
+                              ),
+                          "original_url":
+                              source.get(
+                                  "original_url",
+                                  "",
+                              ),
+                          "tracking_url":
+                              source.get(
+                                  "tracking_url",
+                                  "",
+                              ),
+                          "fallback_name":
+                              source.get(
+                                  "fallback_name",
+                                  "",
+                              ),
+                          "fallback_description":
+                              source.get(
+                                  "fallback_description",
+                                  "",
+                              ),
+                          "categories":
+                              " | ".join(
+                                  source.get(
+                                      "categories",
+                                      [],
+                                  )
+                              ),
+                          "fallback_image":
+                              source.get(
+                                  "fallback_image",
+                                  "",
+                              ),
+                          "price":
+                              source.get(
+                                  "price",
+                                  "",
+                              ),
+                          "priceSnapshot":
+                              source.get(
+                                  "priceSnapshot",
+                                  "",
+                              ),
+                          "featured":
+                              source.get(
+                                  "featured",
+                                  False,
+                              ),
+                          "createdAt":
+                              source.get(
+                                  "createdAt",
+                                  "",
+                              ),
+                      }
+                  )
+
+          for path in IMPORT_FILES:
+              path.unlink()
+
+          print(
+              f"Productos importados: {imported}"
+          )
+          print(
+              f"Registros nuevos creados: {created}"
+          )
+          print(
+              f"Enlaces rechazados excluidos: "
+              f"{len(rejected)}"
+          )
+          print(
+              f"Total en la fuente: {len(sources)}"
+          )
+          PY
+
+      - name: Generar catálogo definitivo
         env:
           MAX_PRODUCTS_PER_RUN: "20"
         run: python scripts/update_aliexpress_mx_metadata.py
@@ -37,12 +455,17 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add catalog-aliexpress-mx.js
+          git add data/aliexpress-mx-source.json
+          git add data/aliexpress-mx-source.csv
           git add data/aliexpress-mx-metadata-cache.json
           git add data/aliexpress-mx-attempts.json
+          git add -A data
+
           if git diff --cached --quiet; then
             echo "No hay cambios que publicar."
           else
-            git commit -m "Avanzar metadatos del catálogo de México"
+            git commit -m "Importar 79 productos reales de AliExpress México"
             git push
           fi
