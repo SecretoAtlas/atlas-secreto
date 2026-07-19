@@ -429,20 +429,6 @@
       padding-bottom: 80px;
     }
 
-    .affiliate-notice {
-      margin-bottom: 24px;
-      padding: 13px 16px;
-
-      border: 1px solid var(--border);
-      border-radius: var(--radius-medium);
-
-      color: var(--text-secondary);
-      background: rgba(17, 24, 33, 0.72);
-
-      font-size: 0.8rem;
-      line-height: 1.6;
-    }
-
     /* =====================================================
        CONTROLES Y FILTROS
     ===================================================== */
@@ -1948,6 +1934,18 @@
       background: rgba(17, 24, 33, 0.78);
     }
 
+    .top-category-list .category-button.active {
+      color: #17120a;
+      border-color: transparent;
+      background:
+        linear-gradient(
+          135deg,
+          var(--gold-light),
+          var(--gold)
+        );
+      font-weight: 800;
+    }
+
     .compact-store-navigation {
       width: 100%;
       margin: 7px 0 0;
@@ -2069,13 +2067,6 @@
 
     main {
       padding-top: 0;
-    }
-
-    .affiliate-notice {
-      margin-top: 0;
-      margin-bottom: 16px;
-      padding: 10px 14px;
-      font-size: 0.74rem;
     }
 
     .section-heading {
@@ -2672,14 +2663,6 @@
         Sobre Atlas Secreto
       </button>
 
-      <button
-        class="drawer-link"
-        data-menu-action="affiliate"
-        type="button"
-      >
-        Aviso de afiliación
-      </button>
-
       <a
         class="drawer-link"
         href="https://www.instagram.com/elatlasecreto/"
@@ -2744,31 +2727,20 @@
 
   <main id="productos">
 
-    <div id="aviso-afiliacion" class="affiliate-notice">
-      <strong>Aviso de afiliación:</strong>
-      algunos enlaces de esta página son enlaces de afiliado.
-      Atlas Secreto puede recibir una comisión si realizas una
-      compra, sin que el precio aumente para ti.
-    </div>
-
     <div
       id="catalog-status"
       class="catalog-status"
       aria-live="polite"
     ></div>
-    <div class="section-heading">
+    <div id="results-heading" class="section-heading">
 
       <div>
         <p
           id="section-label"
           class="section-label"
-        >
-          Escaparates
-        </p>
+        ></p>
 
-        <h2 id="section-title">
-          Explora por categorías
-        </h2>
+        <h2 id="section-title"></h2>
       </div>
 
       <span
@@ -2867,7 +2839,7 @@
   <script src="catalog-base.js?v=20260718-2"></script>
   <script src="catalog-aliexpress-mx.js?v=20260719-2"></script>
   <script src="catalog-temu.js?v=20260719-1"></script>
-  <script src="catalog-aliexpress-co.js?v=20260718-1"></script>
+  <script src="catalog-aliexpress-co.js?v=20260719-1"></script>
 
   <script>
     /* =====================================================
@@ -3909,14 +3881,18 @@ const categoryMatches =
         groupedView
       );
 
+      sectionLabel.parentElement.classList.toggle(
+        "hidden",
+        groupedView
+      );
+
       if (state.query.trim()) {
         sectionLabel.textContent = "Resultados";
         sectionTitle.textContent =
           `Resultados para “${state.query.trim()}”`;
       } else if (groupedView) {
-        sectionLabel.textContent = "Escaparates";
-        sectionTitle.textContent =
-          "Explora por categorías";
+        sectionLabel.textContent = "";
+        sectionTitle.textContent = "";
       } else {
         sectionLabel.textContent = "Categoría";
         sectionTitle.textContent =
@@ -4038,6 +4014,26 @@ const categoryMatches =
       document.body.classList.remove("menu-open");
     }
 
+    function scrollToResults() {
+      const heading =
+        document.getElementById("results-heading");
+
+      const headerHeight =
+        document.getElementById("site-header")
+          ?.offsetHeight || 0;
+
+      const top =
+        window.scrollY +
+        heading.getBoundingClientRect().top -
+        headerHeight -
+        12;
+
+      window.scrollTo({
+        top: Math.max(0, top),
+        behavior: "smooth"
+      });
+    }
+
     function applyStore(store, scrollToProducts = true) {
       state.store = store;
 
@@ -4150,14 +4146,6 @@ const categoryMatches =
             });
         }
 
-        if (action === "affiliate") {
-          document
-            .getElementById("aviso-afiliacion")
-            .scrollIntoView({
-              behavior: "smooth",
-              block: "center"
-            });
-        }
       }
     );
 
@@ -4247,6 +4235,27 @@ const categoryMatches =
 
         resetVisibleCount();
         renderProducts();
+      }
+    );
+
+    searchInput.addEventListener(
+      "keydown",
+      (event) => {
+        if (event.key !== "Enter") {
+          return;
+        }
+
+        event.preventDefault();
+
+        state.query =
+          searchInput.value;
+
+        resetVisibleCount();
+        renderProducts();
+
+        window.requestAnimationFrame(
+          scrollToResults
+        );
       }
     );
 
