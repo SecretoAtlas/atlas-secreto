@@ -1,0 +1,19 @@
+{
+  "id": "pccomponentes-es:merchant-product-id",
+  "productId": "msi-katana-15-b13vgk-1234xes",
+  "merchantId": "pccomponentes-es",
+  "merchantProductId": "merchant-product-id",
+  "country": "ES",
+  "currency": "EUR",
+  "price": 999.0,
+  "previousPrice": null,
+  "shippingCost": null,
+  "totalPrice": null,
+  "availability": "in_stock",
+  "condition": "new",
+  "affiliateUrl": "",
+  "landingUrl": "",
+  "commissionGroup": null,
+  "isCommissionable": true,
+  "lastUpdatedAt": null
+}

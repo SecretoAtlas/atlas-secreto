@@ -1,0 +1,23 @@
+{
+  "id": "msi-katana-15-b13vgk-1234xes",
+  "title": "MSI Katana 15 B13VGK-1234XES",
+  "brand": "MSI",
+  "model": "Katana 15 B13VGK-1234XES",
+  "category": "portatiles",
+  "identifiers": {
+    "gtin": null,
+    "ean": "4711377123456",
+    "upc": null,
+    "mpn": "B13VGK-1234XES"
+  },
+  "variant": {
+    "color": "Negro",
+    "size": null,
+    "capacity": null,
+    "configuration": "Intel Core i7 / 16 GB / 1 TB / RTX 4070 / teclado ES"
+  },
+  "condition": "new",
+  "images": [],
+  "attributes": {},
+  "sourceUpdatedAt": null
+}
