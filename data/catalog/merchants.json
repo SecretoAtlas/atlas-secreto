@@ -15,12 +15,47 @@
     { "id": "hawkers-row", "name": "Hawkers ROW", "country": "ES", "status": "pending", "feedExpected": true, "catalogMode": "retail" },
     { "id": "la-redoute-es", "name": "La Redoute ES", "country": "ES", "status": "pending", "feedExpected": true, "catalogMode": "retail" },
     { "id": "banak-es", "name": "Banak ES", "country": "ES", "status": "pending", "feedExpected": true, "catalogMode": "retail" },
-    { "id": "muebles-style-spain", "name": "Muebles Style Spain", "country": "ES", "status": "approved", "feedExpected": true, "catalogMode": "new_and_second_chance" },
+    {
+      "id": "muebles-style-spain",
+      "name": "Muebles Style Spain",
+      "country": "ES",
+      "status": "approved",
+      "awinAdvertiserId": "122118",
+      "feedExpected": true,
+      "feedId": "112474",
+      "catalogMode": "new_and_second_chance",
+      "statusUpdatedAt": "2026-07-22"
+    },
     { "id": "pccomponentes-es", "name": "PcComponentes ES", "country": "ES", "status": "pending", "feedExpected": true, "catalogMode": "retail" },
     { "id": "sephora-es", "name": "Sephora ES", "country": "ES", "status": "pending", "feedExpected": true, "catalogMode": "retail", "excludeBrands": ["Chanel", "Dior"] },
     { "id": "pixmania-es", "name": "Pixmania ES", "country": "ES", "status": "pending", "feedExpected": true, "catalogMode": "retail" },
-    { "id": "cosori-es", "name": "Cosori ES", "country": "ES", "status": "rejected", "feedExpected": false, "catalogMode": "retail" },
+    {
+      "id": "cosori-es",
+      "name": "Cosori ES",
+      "country": "ES",
+      "status": "rejected",
+      "awinAdvertiserId": "125148",
+      "feedExpected": false,
+      "catalogMode": "retail",
+      "rejectionReason": "site_unavailable_or_under_construction",
+      "rejectionReasonText": "Espacio no disponible o en construcción",
+      "retryable": true,
+      "statusUpdatedAt": "2026-07-22"
+    },
     { "id": "msi-spain", "name": "MSI SPAIN", "country": "ES", "status": "pending", "feedExpected": true, "catalogMode": "retail" },
-    { "id": "naturitas-es", "name": "Naturitas ES", "country": "ES", "status": "rejected", "feedExpected": false, "catalogMode": "retail", "medicalClaimsBlocked": true }
+    {
+      "id": "naturitas-es",
+      "name": "Naturitas ES",
+      "country": "ES",
+      "status": "rejected",
+      "awinAdvertiserId": "30527",
+      "feedExpected": false,
+      "catalogMode": "retail",
+      "medicalClaimsBlocked": true,
+      "rejectionReason": "publisher_type_not_supported",
+      "rejectionReasonText": "El anunciante aún no colabora con este tipo de afiliado",
+      "retryable": false,
+      "statusUpdatedAt": "2026-07-22"
+    }
   ]
 }

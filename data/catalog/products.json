@@ -1,5 +1,2356 @@
 {
   "schemaVersion": 1,
-  "generatedAt": null,
-  "products": []
+  "generatedAt": "2026-07-22T10:58:23.000Z",
+  "products": [
+    {
+      "id": "gtin-04250386024299",
+      "title": "Manta de Christian Lacroix «PLUM Terciopelo»",
+      "brand": "KAWOLA",
+      "model": null,
+      "category": "textiles-del-hogar",
+      "description": "La colcha PLUM de Christian Lacroix aporta elegancia a su hogar. Gracias a su suave tacto, le proporcionará noches placenteras y le envolverá por las mañanas en una agradable calidez. Esta colcha transpirable, en un decorativo tono violeta, garantiza un sueño reparador y sin sudoración, y aporta un toque de estilo con su aspecto majestuoso. ¡Déjese seducir por esta elegante colcha de diseño!",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386024299",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": null,
+        "size": null,
+        "capacity": null,
+        "configuration": "220.0 x 180.0 x cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/cabce0eb-1857-4941-877b-a18e3cab9ffb_4472.jpg?v=1781211946",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fcabce0eb-1857-4941-877b-a18e3cab9ffb_4472.jpg%3Fv%3D1781211946&feedId=112474&k=250920c5c353af60225efb50b03bfda5cd7ed8bf",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/89f6e968-59d5-4034-ac4f-1ddb43d9a4be_4472.jpg?v=1781212044",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/a51094cf-05fe-4fb4-8202-0554be893095_4472.jpg?v=1781212004",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/acbb5377-d355-4691-8d68-d581f58ddf49_4472.jpg?v=1781211932",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fcabce0eb-1857-4941-877b-a18e3cab9ffb_4472.jpg%3Fv%3D1781211946&feedId=112474&k=250920c5c353af60225efb50b03bfda5cd7ed8bf"
+      ],
+      "attributes": {
+        "merchantCategory": "Accesorios para el hogar > Textiles > Mantas",
+        "awinCategory": "Home Textiles",
+        "awinCategoryId": "617",
+        "productType": "Accesorios para el hogar > Textiles > Mantas",
+        "dimensions": "220.0 x 180.0 x cm",
+        "specifications": "Terciopelo",
+        "warranty": null,
+        "keywords": null
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA102710A14"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386052452",
+      "title": "Manta de Christian Lacroix «ARABESQUE» de terciopelo",
+      "brand": "KAWOLA",
+      "model": "ARABESQUE",
+      "category": "textiles-del-hogar",
+      "description": "La colcha ARABESQUE de Christian Lacroix aporta elegancia a su hogar. Gracias a su suave tacto, le proporcionará noches agradables y le envolverá por las mañanas en una cálida sensación de bienestar. Esta colcha transpirable, con un decorativo estampado arabesco de flores y enredaderas, garantiza un sueño reparador y sin sudoración, además de aportar un toque visual distintivo con su aire majestuoso. ¡Déjese seducir por esta elegante colcha de diseño!",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386052452",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Beige",
+        "size": null,
+        "capacity": null,
+        "configuration": "160.0 x 130.0 x cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/82a61a9e-2850-4a15-b591-9d4e7870b679_4472.jpg?v=1781211926",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F82a61a9e-2850-4a15-b591-9d4e7870b679_4472.jpg%3Fv%3D1781211926&feedId=112474&k=f50360e8368f12f75bb4055d127250e59b04edc1",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/44fcae4e-b0e2-481f-af2b-4777cd343fcc_4472.jpg?v=1781212044",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/0efd0b6e-b0f2-4e8e-bf57-9a2f6ff1e858_4472.jpg?v=1781211976",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/bf36bffa-7043-4d13-b1f5-7e9f94770e26_4472.jpg?v=1781211982",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F82a61a9e-2850-4a15-b591-9d4e7870b679_4472.jpg%3Fv%3D1781211926&feedId=112474&k=f50360e8368f12f75bb4055d127250e59b04edc1"
+      ],
+      "attributes": {
+        "merchantCategory": "Accesorios para el hogar > Textiles > Mantas",
+        "awinCategory": "Home Textiles",
+        "awinCategoryId": "617",
+        "productType": "Accesorios para el hogar > Textiles > Mantas",
+        "dimensions": "160.0 x 130.0 x cm",
+        "specifications": "Terciopelo",
+        "warranty": null,
+        "keywords": null
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA102710A15"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386091871",
+      "title": "Sofá KAWOLA CELESTE de 4 plazas, de cuero gris",
+      "brand": "KAWOLA",
+      "model": "CELESTE",
+      "category": "sofas",
+      "description": "El sofá de cuatro plazas KAWOLA CELESTE es la encarnación del minimalismo de lujo. Con sus líneas limpias, su generoso tamaño de 302 cm de ancho y su silueta escultural, es un auténtico punto de referencia en cualquier estancia. El tapizado de piel auténtica de alta calidad confiere a CELESTE un aspecto elegante y natural, además de garantizar una comodidad incomparable al sentarse. La piel auténtica destaca por su transpirabilidad y su capacidad para desarrollar una pátina única con el paso del tiempo, lo que convierte a cada sofá en una pieza única. La profunda superficie de asiento (72 cm) y la altura del asiento de 46 cm garantizan una postura relajada, mientras que los amplios reposabrazos (43 cm) transmiten una sensación de seguridad. CELESTE con tapizado de piel es sinónimo de calidad atemporal, acabado magistral y un toque de confort exclusivo en el hogar. Equipamiento: Con reposapiés, Sin equipamiento adicional",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386091871",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Gris",
+        "size": null,
+        "capacity": null,
+        "configuration": "114.0 x 302.0 x 72.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/ac135af0-987d-4613-b292-6a0213765397_4472.jpg?v=1781211982",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fac135af0-987d-4613-b292-6a0213765397_4472.jpg%3Fv%3D1781211982&feedId=112474&k=a53e11b304911fdc6f6cb50d41d103b6b2f0e6f5",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/c07f5387-4abb-416d-bbba-6b96398bbb5d_4472.jpg?v=1781212004",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/8d1315ff-33a9-4d57-b3c4-5612980d8b79_4472.jpg?v=1781211939",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/0da8f7be-b79d-448b-a12c-5ecce7b84059_4472.jpg?v=1781211939",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fac135af0-987d-4613-b292-6a0213765397_4472.jpg%3Fv%3D1781211982&feedId=112474&k=a53e11b304911fdc6f6cb50d41d103b6b2f0e6f5"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sofás > Sofás de 4 plazas",
+        "awinCategory": "Sofas",
+        "awinCategoryId": "449",
+        "productType": "Muebles > Sofás > Sofás de 4 plazas",
+        "dimensions": "114.0 x 302.0 x 72.0cm",
+        "specifications": "Piel",
+        "warranty": null,
+        "keywords": "Sofá de cuero, sofá de diseño, sofá de cuero de 4 plazas, sofá de lujo, sofá de cuero auténtico"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA384035L2"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386100245",
+      "title": "Sofá KAWOLA CELESTE de 4 plazas, de cuero gris",
+      "brand": "KAWOLA",
+      "model": "CELESTE",
+      "category": "sofas",
+      "description": "El sofá de cuatro plazas KAWOLA CELESTE es la encarnación del minimalismo de lujo. Con sus líneas limpias, su generoso tamaño de 302 cm de ancho y su silueta escultural, es un auténtico punto de referencia en cualquier estancia. El tapizado de piel auténtica de alta calidad confiere a CELESTE un aspecto elegante y natural, además de garantizar una comodidad incomparable al sentarse. La piel auténtica destaca por su transpirabilidad y su capacidad para desarrollar una pátina única con el paso del tiempo, lo que convierte a cada sofá en una pieza única. La profunda superficie de asiento (72 cm) y la altura del asiento de 46 cm garantizan una postura relajada, mientras que los amplios reposabrazos (43 cm) transmiten una sensación de seguridad. CELESTE con tapizado de piel es sinónimo de calidad atemporal, acabado magistral y un toque de confort exclusivo en el hogar. Equipamiento: Con reposapiés, Sin equipamiento adicional",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386100245",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Gris",
+        "size": null,
+        "capacity": null,
+        "configuration": "114.0 x 302.0 x 72.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/bb8c8c5c-a9fe-4aff-9ff4-21df29435429_4472.jpg?v=1781212018",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fbb8c8c5c-a9fe-4aff-9ff4-21df29435429_4472.jpg%3Fv%3D1781212018&feedId=112474&k=3e9211424e932047d756ad2108d41c33a7b2599d",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/b5ecebae-b2a1-459a-b679-ad691e061cae_4472.jpg?v=1781212025",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/c1c79f0b-7ebd-4526-b031-e71d34918526_4472.jpg?v=1781212044",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/f6ead9be-0453-4146-ae10-5cfa5404b243_4472.jpg?v=1781212037",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fbb8c8c5c-a9fe-4aff-9ff4-21df29435429_4472.jpg%3Fv%3D1781212018&feedId=112474&k=3e9211424e932047d756ad2108d41c33a7b2599d"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sofás > Sofás de 4 plazas",
+        "awinCategory": "Sofas",
+        "awinCategoryId": "449",
+        "productType": "Muebles > Sofás > Sofás de 4 plazas",
+        "dimensions": "114.0 x 302.0 x 72.0cm",
+        "specifications": "Piel",
+        "warranty": null,
+        "keywords": "Sofá de cuero, sofá de diseño, sofá de cuero de 4 plazas, sofá de lujo, sofá de cuero auténtico"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA384035L1"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386100252",
+      "title": "Sofá KAWOLA CELESTE de 4 plazas, en piel color coñac",
+      "brand": "KAWOLA",
+      "model": "CELESTE",
+      "category": "sofas",
+      "description": "El sofá de cuatro plazas KAWOLA CELESTE es la encarnación del minimalismo de lujo. Con sus líneas limpias, su generoso tamaño de 302 cm de ancho y su silueta escultural, es un auténtico punto de referencia en cualquier estancia. El tapizado de piel auténtica de alta calidad confiere a CELESTE un aspecto elegante y natural, además de garantizar una comodidad incomparable al sentarse. La piel auténtica destaca por su transpirabilidad y su capacidad para desarrollar una pátina única con el paso del tiempo, lo que convierte a cada sofá en una pieza única. La profunda superficie de asiento (72 cm) y la altura del asiento de 46 cm garantizan una postura relajada, mientras que los amplios reposabrazos (43 cm) transmiten una sensación de seguridad. CELESTE con tapizado de piel es sinónimo de calidad atemporal, acabado magistral y un toque de confort exclusivo en el hogar. Equipamiento: Con reposapiés, Sin equipamiento adicional",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386100252",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Coñac",
+        "size": null,
+        "capacity": null,
+        "configuration": "114.0 x 302.0 x 72.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/e3f1c5f3-111c-44cf-871b-97428ea383b1_4472.jpg?v=1781211975",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fe3f1c5f3-111c-44cf-871b-97428ea383b1_4472.jpg%3Fv%3D1781211975&feedId=112474&k=7c21bd5e3ea9d28a2306cc8b713bc4111e474d1d",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/93c69c21-411a-4750-86a4-99d042698b90_4472.jpg?v=1781212031",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/0ffb670e-f513-4fb0-863e-c1c61c16a33c_4472.jpg?v=1781212044",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/2ddf211a-fc7f-45ce-ae4e-7b52043c4251_4472.jpg?v=1781211975",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fe3f1c5f3-111c-44cf-871b-97428ea383b1_4472.jpg%3Fv%3D1781211975&feedId=112474&k=7c21bd5e3ea9d28a2306cc8b713bc4111e474d1d"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sofás > Sofás de 4 plazas",
+        "awinCategory": "Sofas",
+        "awinCategoryId": "449",
+        "productType": "Muebles > Sofás > Sofás de 4 plazas",
+        "dimensions": "114.0 x 302.0 x 72.0cm",
+        "specifications": "Piel",
+        "warranty": null,
+        "keywords": "Sofá de cuero, sofá de diseño, sofá de cuero de 4 plazas, sofá de lujo, sofá de cuero auténtico"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA384033L1"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386100269",
+      "title": "Sofá KAWOLA CELESTE de 4 plazas, en piel marrón oscuro",
+      "brand": "KAWOLA",
+      "model": "CELESTE",
+      "category": "sofas",
+      "description": "El sofá de cuatro plazas KAWOLA CELESTE es la encarnación del minimalismo de lujo. Con sus líneas limpias, su generoso tamaño de 302 cm de ancho y su silueta escultural, es un auténtico punto de referencia en cualquier estancia. El tapizado de piel auténtica de alta calidad confiere a CELESTE un aspecto elegante y natural, además de garantizar una comodidad incomparable al sentarse. La piel auténtica destaca por su transpirabilidad y su capacidad para desarrollar una pátina única con el paso del tiempo, lo que convierte a cada sofá en una pieza única. La profunda superficie de asiento (72 cm) y la altura del asiento de 46 cm garantizan una postura relajada, mientras que los amplios reposabrazos (43 cm) transmiten una sensación de seguridad. CELESTE con tapizado de piel es sinónimo de calidad atemporal, acabado magistral y un toque de confort exclusivo en el hogar. Equipamiento: Con reposapiés, Sin equipamiento adicional",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386100269",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Marrón oscuro",
+        "size": null,
+        "capacity": null,
+        "configuration": "114.0 x 302.0 x 72.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/84e2d5c2-a92c-4971-af1a-ce9687c3472c_4472.jpg?v=1781211946",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F84e2d5c2-a92c-4971-af1a-ce9687c3472c_4472.jpg%3Fv%3D1781211946&feedId=112474&k=86504feb583cbc1ab58cc188816091a7a20ea91b",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/d4d68978-2563-41a6-b88b-4899b1257369_4472.jpg?v=1781211932",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/a195cb13-57b5-42c9-85d4-bc4b517df456_4472.jpg?v=1781211998",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/77b875f5-d2cc-44f0-b0cc-59a1c96ac4ac_4472.jpg?v=1781211947",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F84e2d5c2-a92c-4971-af1a-ce9687c3472c_4472.jpg%3Fv%3D1781211946&feedId=112474&k=86504feb583cbc1ab58cc188816091a7a20ea91b"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sofás > Sofás de 4 plazas",
+        "awinCategory": "Sofas",
+        "awinCategoryId": "449",
+        "productType": "Muebles > Sofás > Sofás de 4 plazas",
+        "dimensions": "114.0 x 302.0 x 72.0cm",
+        "specifications": "Piel",
+        "warranty": null,
+        "keywords": "Sofá de cuero, sofá de diseño, sofá de cuero de 4 plazas, sofá de lujo, sofá de cuero auténtico"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA384033L2"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386100276",
+      "title": "Sofá KAWOLA CELESTE de 4 plazas, en piel color camel",
+      "brand": "KAWOLA",
+      "model": "CELESTE",
+      "category": "sofas",
+      "description": "El sofá de cuatro plazas KAWOLA CELESTE es la encarnación del minimalismo de lujo. Con sus líneas limpias, su generoso tamaño de 302 cm de ancho y su silueta escultural, es un auténtico punto de referencia en cualquier estancia. El tapizado de piel auténtica de alta calidad confiere a CELESTE un aspecto elegante y natural, además de garantizar una comodidad incomparable al sentarse. La piel auténtica destaca por su transpirabilidad y su capacidad para desarrollar una pátina única con el paso del tiempo, lo que convierte a cada sofá en una pieza única. La profunda superficie de asiento (72 cm) y la altura del asiento de 46 cm garantizan una postura relajada, mientras que los amplios reposabrazos (43 cm) transmiten una sensación de seguridad. CELESTE con tapizado de piel es sinónimo de calidad atemporal, acabado magistral y un toque de confort exclusivo en el hogar. Equipamiento: Con reposapiés, Sin equipamiento adicional",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386100276",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Camello",
+        "size": null,
+        "capacity": null,
+        "configuration": "114.0 x 302.0 x 72.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/96e5014b-1258-49a2-bf48-8956746d3af4_4472.jpg?v=1781212004",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F96e5014b-1258-49a2-bf48-8956746d3af4_4472.jpg%3Fv%3D1781212004&feedId=112474&k=6ce9293d4045365f56572d747e7adb426406130e",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/8b7701ff-117c-49ba-8700-30be6f429ab8_4472.jpg?v=1781212025",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/e259b53d-692f-4cc7-9668-01e307b0250a_4472.jpg?v=1781212018",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/a2d30ebc-366c-4c82-a56a-7d9a0e3acd66_4472.jpg?v=1781211954",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F96e5014b-1258-49a2-bf48-8956746d3af4_4472.jpg%3Fv%3D1781212004&feedId=112474&k=6ce9293d4045365f56572d747e7adb426406130e"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sofás > Sofás de 4 plazas",
+        "awinCategory": "Sofas",
+        "awinCategoryId": "449",
+        "productType": "Muebles > Sofás > Sofás de 4 plazas",
+        "dimensions": "114.0 x 302.0 x 72.0cm",
+        "specifications": "Piel",
+        "warranty": null,
+        "keywords": "Sofá de cuero, sofá de diseño, sofá de cuero de 4 plazas, sofá de lujo, sofá de cuero auténtico"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA384034L1"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386100283",
+      "title": "KAWOLA Puf tapizado CELESTE Banco de cuero gris",
+      "brand": "KAWOLA",
+      "model": "CELESTE",
+      "category": "sillas-y-sillones",
+      "description": "El puf CELESTE de KAWOLA, con su elegante tapizado de cuero, aporta una sobriedad lujosa y una calidad artesanal al salón. Con sus 120 cm de ancho, 80 cm de profundidad y 48 cm de altura, tiene las dimensiones ideales para servir como un elegante reposapiés o como asiento adicional. La piel auténtica de alta calidad confiere al puf un aspecto natural y elegante, además de un tacto agradablemente suave. La piel es resistente, transpirable y adquiere con el tiempo una pátina inconfundible, lo que convierte cada pieza en una obra única. Su forma clara y cúbica resalta el diseño moderno y se integra con estilo en salones de diseño exigente.",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386100283",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Gris",
+        "size": null,
+        "capacity": null,
+        "configuration": "80.0 x 120.0 x 48.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/3ea30ad7-a322-40f1-91bb-81464ec66e1b_4472.jpg?v=1781212018",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F3ea30ad7-a322-40f1-91bb-81464ec66e1b_4472.jpg%3Fv%3D1781212018&feedId=112474&k=76d5de413d94d1bd659b33134a319d205f794ae4",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/17190ab6-5187-4960-89a0-a44163119768_4472.jpg?v=1781211962",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/d41dacd1-f44b-44e8-984c-30ae7f732a0d_4472.jpg?v=1781211969",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/659be1fd-1175-4ea4-8849-4c9d0c1c78cd_4472.jpg?v=1781211939",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F3ea30ad7-a322-40f1-91bb-81464ec66e1b_4472.jpg%3Fv%3D1781212018&feedId=112474&k=76d5de413d94d1bd659b33134a319d205f794ae4"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Bancos > Bancos auxiliares",
+        "awinCategory": "Chairs",
+        "awinCategoryId": "448",
+        "productType": "Muebles > Bancos > Bancos auxiliares",
+        "dimensions": "80.0 x 120.0 x 48.0cm",
+        "specifications": "Piel",
+        "warranty": null,
+        "keywords": "Puf de cuero, puf de diseño, puf de cuero auténtico, puf de lujo, puf moderno"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA384415L1"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386100290",
+      "title": "Puf acolchado KAWOLA CELESTE, Banco de puf de cuero color coñac",
+      "brand": "KAWOLA",
+      "model": "CELESTE",
+      "category": "sillas-y-sillones",
+      "description": "El puf CELESTE de KAWOLA, con su elegante tapizado de cuero, aporta una sobriedad lujosa y una calidad artesanal al salón. Con sus 120 cm de ancho, 80 cm de profundidad y 48 cm de altura, tiene las dimensiones ideales para servir como un elegante reposapiés o como asiento adicional. La piel auténtica de alta calidad confiere al puf un aspecto natural y elegante, además de un tacto agradablemente suave. La piel es resistente, transpirable y adquiere con el tiempo una pátina inconfundible, lo que convierte cada pieza en una obra única. Su forma clara y cúbica resalta el diseño moderno y se integra con estilo en salones de diseño exigente.",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386100290",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Coñac",
+        "size": null,
+        "capacity": null,
+        "configuration": "80.0 x 120.0 x 48.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/feb62724-95ce-4913-90a5-08aac2271f6c_4472.jpg?v=1781211954",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Ffeb62724-95ce-4913-90a5-08aac2271f6c_4472.jpg%3Fv%3D1781211954&feedId=112474&k=5a22e61831989fefa83fa457abe667b0e2f40d44",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/ffe6b5e5-e5d2-4004-b490-427f4cdde6fd_4472.jpg?v=1781211982",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/e9fa83af-b66c-47ef-958e-5fb1fed7c84c_4472.jpg?v=1781212038",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/8e5f4b7d-d431-4a7c-99e2-7f1d443d77cd_4472.jpg?v=1781211918",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Ffeb62724-95ce-4913-90a5-08aac2271f6c_4472.jpg%3Fv%3D1781211954&feedId=112474&k=5a22e61831989fefa83fa457abe667b0e2f40d44"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Bancos > Bancos auxiliares",
+        "awinCategory": "Chairs",
+        "awinCategoryId": "448",
+        "productType": "Muebles > Bancos > Bancos auxiliares",
+        "dimensions": "80.0 x 120.0 x 48.0cm",
+        "specifications": "Piel",
+        "warranty": null,
+        "keywords": "Puf de cuero, puf de diseño, puf de cuero auténtico, puf de lujo, puf moderno"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA384413L1"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386100306",
+      "title": "Puf tapizado KAWOLA CELESTE, banco de cuero marrón oscuro",
+      "brand": "KAWOLA",
+      "model": "CELESTE",
+      "category": "sillas-y-sillones",
+      "description": "El puf CELESTE de KAWOLA, con su elegante tapizado de cuero, aporta una sobriedad lujosa y una calidad artesanal al salón. Con sus 120 cm de ancho, 80 cm de profundidad y 48 cm de altura, tiene las dimensiones ideales para servir como un elegante reposapiés o como asiento adicional. La piel auténtica de alta calidad confiere al puf un aspecto natural y elegante, además de un tacto agradablemente suave. La piel es resistente, transpirable y adquiere con el tiempo una pátina inconfundible, lo que convierte cada pieza en una obra única. Su forma clara y cúbica resalta el diseño moderno y se integra con estilo en salones de diseño exigente.",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386100306",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Marrón oscuro",
+        "size": null,
+        "capacity": null,
+        "configuration": "80.0 x 120.0 x 48.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/bc8001d8-783b-4d5a-9b5a-863f981fb6d6_4472.jpg?v=1781212044",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fbc8001d8-783b-4d5a-9b5a-863f981fb6d6_4472.jpg%3Fv%3D1781212044&feedId=112474&k=dc041d1f65bf5cc6fe704e3bd6e45fa0d5b5a0ed",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/f477239b-6cf4-453d-a2d9-1ca899809d28_4472.jpg?v=1781212018",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/501a9af2-5620-4005-bb72-1ff7a7a2c06a_4472.jpg?v=1781212005",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/6a7ffeb0-3a6c-4f9a-8f5c-5045706a25fc_4472.jpg?v=1781211998",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fbc8001d8-783b-4d5a-9b5a-863f981fb6d6_4472.jpg%3Fv%3D1781212044&feedId=112474&k=dc041d1f65bf5cc6fe704e3bd6e45fa0d5b5a0ed"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Bancos > Bancos auxiliares",
+        "awinCategory": "Chairs",
+        "awinCategoryId": "448",
+        "productType": "Muebles > Bancos > Bancos auxiliares",
+        "dimensions": "80.0 x 120.0 x 48.0cm",
+        "specifications": "Piel",
+        "warranty": null,
+        "keywords": "Puf de cuero, puf de diseño, puf de cuero auténtico, puf de lujo, puf moderno"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA384413L2"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386100313",
+      "title": "Puf tapizado KAWOLA CELESTE, banco de cuero color camel",
+      "brand": "KAWOLA",
+      "model": "CELESTE",
+      "category": "sillas-y-sillones",
+      "description": "El puf CELESTE de KAWOLA, con su elegante tapizado de cuero, aporta una sobriedad lujosa y una calidad artesanal al salón. Con sus 120 cm de ancho, 80 cm de profundidad y 48 cm de altura, tiene las dimensiones ideales para servir como un elegante reposapiés o como asiento adicional. La piel auténtica de alta calidad confiere al puf un aspecto natural y elegante, además de un tacto agradablemente suave. La piel es resistente, transpirable y adquiere con el tiempo una pátina inconfundible, lo que convierte cada pieza en una obra única. Su forma clara y cúbica resalta el diseño moderno y se integra con estilo en salones de diseño exigente.",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386100313",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Camello",
+        "size": null,
+        "capacity": null,
+        "configuration": "80.0 x 120.0 x 48.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/9da371dd-1b95-4035-ba4e-1225a0bf0b6f_4472.jpg?v=1781211962",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F9da371dd-1b95-4035-ba4e-1225a0bf0b6f_4472.jpg%3Fv%3D1781211962&feedId=112474&k=869a0b4bc605a6e4ad7432eea029c564a8ee05bd",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/01761fcd-06ff-4401-b893-ca005a74e818_4472.jpg?v=1781212004",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/8a245116-9392-4a1b-90e5-0e19ff8ac212_4472.jpg?v=1781211976",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/5ac51c42-5f9b-4b39-968f-ea62127b7a8b_4472.jpg?v=1781211939",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F9da371dd-1b95-4035-ba4e-1225a0bf0b6f_4472.jpg%3Fv%3D1781211962&feedId=112474&k=869a0b4bc605a6e4ad7432eea029c564a8ee05bd"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Bancos > Bancos auxiliares",
+        "awinCategory": "Chairs",
+        "awinCategoryId": "448",
+        "productType": "Muebles > Bancos > Bancos auxiliares",
+        "dimensions": "80.0 x 120.0 x 48.0cm",
+        "specifications": "Piel",
+        "warranty": null,
+        "keywords": "Puf de cuero, puf de diseño, puf de cuero auténtico, puf de lujo, puf moderno"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA384414L1"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386104410",
+      "title": "Banco de comedor KAWOLA ELEEN, cuero marrón oscuro",
+      "brand": "KAWOLA",
+      "model": "ELEEN",
+      "category": "sillas-y-sillones",
+      "description": "El banco de comedor ELEEN de KAWOLA combina un diseño moderno, materiales de alta calidad y una comodidad de asiento de primera clase en un mueble elegante ideal para salones y comedores exigentes. Con sus líneas limpias y su elegante respaldo tapizado, aporta un toque moderno y se integra armoniosamente en los conceptos de decoración contemporáneos. El elegante tapizado de cuero pigmentado destaca por su coloración uniforme, su gran resistencia y su agradable tacto. Gracias a la pigmentación protectora, el cuero es especialmente fácil de cuidar y apto para el uso diario, lo que lo hace ideal para el comedor. La delicada estructura de metal negro mate garantiza una gran estabilidad y subraya el carácter moderno del banco. En el interior, un robusto armazón de madera maciza garantiza una calidad duradera y una gran resistencia. Para un excelente confort al sentarse, ELEEN está equipado con una estructura de asiento de alta calidad: la espuma de poliuretano, en combinación con un núcleo de muelles ensacados de elasticidad puntual con alambre de acero trefilado, garantiza una distribución óptima de la presión y una gran comodidad al sentarse, incluso durante largos periodos de tiempo…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386104410",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Marrón oscuro",
+        "size": null,
+        "capacity": null,
+        "configuration": "69.0 x 203.0 x 85.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/879112dc-aeee-4416-b43a-60cd175c0b8d_4472.jpg?v=1781212031",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F879112dc-aeee-4416-b43a-60cd175c0b8d_4472.jpg%3Fv%3D1781212031&feedId=112474&k=26046a229f16323074a15a769074983d430c6ba1",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/4ce037a7-2037-4708-b6d0-aaa8668b57e5_4472.jpg?v=1781211990",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/79edf58a-fead-4937-a97e-38bf4fd3f1b4_4472.jpg?v=1781212025",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/940f0754-0640-43a9-af6a-ae1b28ebb7d7_4472.jpg?v=1781211939",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F879112dc-aeee-4416-b43a-60cd175c0b8d_4472.jpg%3Fv%3D1781212031&feedId=112474&k=26046a229f16323074a15a769074983d430c6ba1"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Bancos > Bancos tapizados",
+        "awinCategory": "Chairs",
+        "awinCategoryId": "448",
+        "productType": "Muebles > Bancos > Bancos tapizados",
+        "dimensions": "69.0 x 203.0 x 85.0cm",
+        "specifications": "Piel",
+        "warranty": null,
+        "keywords": "Banco de comedor de cuero, banco de cuero para comedor, banco con respaldo, banco de comedor de diseño, banco moderno"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA436403L1"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386106308",
+      "title": "Banco de comedor KAWOLA ELEEN, cuero marrón oscuro",
+      "brand": "KAWOLA",
+      "model": "ELEEN",
+      "category": "sillas-y-sillones",
+      "description": "El banco de comedor ELEEN de KAWOLA combina un diseño moderno, materiales de alta calidad y una comodidad de asiento de primera clase en un mueble elegante ideal para salones y comedores exigentes. Con sus líneas limpias y su elegante respaldo tapizado, aporta un toque moderno y se integra armoniosamente en los conceptos de decoración contemporáneos. El elegante tapizado de cuero pigmentado destaca por su coloración uniforme, su gran resistencia y su agradable tacto. Gracias a la pigmentación protectora, el cuero es especialmente fácil de cuidar y apto para el uso diario, lo que lo hace ideal para el comedor. La delicada estructura de metal negro mate garantiza una gran estabilidad y subraya el carácter moderno del banco. En el interior, un robusto armazón de madera maciza garantiza una calidad duradera y una gran resistencia. Para un excelente confort al sentarse, ELEEN está equipado con una estructura de asiento de alta calidad: la espuma de poliuretano, en combinación con un núcleo de muelles ensacados de elasticidad puntual con alambre de acero trefilado, garantiza una distribución óptima de la presión y una gran comodidad al sentarse, incluso durante largos periodos de tiempo…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386106308",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Marrón oscuro",
+        "size": null,
+        "capacity": null,
+        "configuration": "69.0 x 123.0 x 85.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/68cd0f9c-497a-4bf3-b159-4c6e4c30862f_4472.jpg?v=1781211954",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F68cd0f9c-497a-4bf3-b159-4c6e4c30862f_4472.jpg%3Fv%3D1781211954&feedId=112474&k=e45e2d6db826d6edbcea1564d3f2c416838800f7",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/bad19828-c860-4af5-b9f9-de83dbde5287_4472.jpg?v=1781211932",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/cf8b5156-5ba2-463a-af17-6343a453db1c_4472.jpg?v=1781212018",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/00e2ec33-69b4-401d-8b62-d5bb940c720e_4472.jpg?v=1781211926",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F68cd0f9c-497a-4bf3-b159-4c6e4c30862f_4472.jpg%3Fv%3D1781211954&feedId=112474&k=e45e2d6db826d6edbcea1564d3f2c416838800f7"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Bancos > Bancos tapizados",
+        "awinCategory": "Chairs",
+        "awinCategoryId": "448",
+        "productType": "Muebles > Bancos > Bancos tapizados",
+        "dimensions": "69.0 x 123.0 x 85.0cm",
+        "specifications": "Piel",
+        "warranty": null,
+        "keywords": "Banco de comedor de cuero, banco de cuero para comedor, banco con respaldo, banco de comedor de diseño, banco moderno"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA436403L13"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386107732",
+      "title": "Sofá KAWOLA CELESTE de 4 plazas, en piel color coñac",
+      "brand": "KAWOLA",
+      "model": "CELESTE",
+      "category": "sofas",
+      "description": "El sofá de cuatro plazas KAWOLA CELESTE es la encarnación del minimalismo de lujo. Con sus líneas limpias, su generoso tamaño de 302 cm de ancho y su silueta escultural, es un auténtico punto de referencia en cualquier estancia. El tapizado de piel auténtica de alta calidad confiere a CELESTE un aspecto elegante y natural, además de garantizar una comodidad incomparable al sentarse. La piel auténtica destaca por su transpirabilidad y su capacidad para desarrollar una pátina única con el paso del tiempo, lo que convierte a cada sofá en una pieza única. La profunda superficie de asiento (72 cm) y la altura del asiento de 46 cm garantizan una postura relajada, mientras que los amplios reposabrazos (43 cm) transmiten una sensación de seguridad. CELESTE con tapizado de piel es sinónimo de calidad atemporal, acabado magistral y un toque de confort exclusivo en el hogar. Equipamiento: Con reposapiés, Sin equipamiento adicional",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386107732",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Coñac",
+        "size": null,
+        "capacity": null,
+        "configuration": "114.0 x 302.0 x 72.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/23e7c75d-0f7c-4d34-a712-72d390728a8f_4472.jpg?v=1781211956",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F23e7c75d-0f7c-4d34-a712-72d390728a8f_4472.jpg%3Fv%3D1781211956&feedId=112474&k=5c0c6e5f1709f98af3d27b1f40f8f5c08845b6e0",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/24235916-6ce9-4d66-a477-6b93776371e1_4472.jpg?v=1781211990",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/261f316e-ca4d-4a93-aaef-ed4af66e2cc0_4472.jpg?v=1781211939",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/4b37e4f4-1084-4c70-9e10-8bdb5d8df17c_4472.jpg?v=1781211970",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F23e7c75d-0f7c-4d34-a712-72d390728a8f_4472.jpg%3Fv%3D1781211956&feedId=112474&k=5c0c6e5f1709f98af3d27b1f40f8f5c08845b6e0"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sofás > Sofás de 4 plazas",
+        "awinCategory": "Sofas",
+        "awinCategoryId": "449",
+        "productType": "Muebles > Sofás > Sofás de 4 plazas",
+        "dimensions": "114.0 x 302.0 x 72.0cm",
+        "specifications": "Piel",
+        "warranty": null,
+        "keywords": "Sofá de cuero, sofá de diseño, sofá de cuero de 4 plazas, sofá de lujo, sofá de cuero auténtico"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA384033L3"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386107749",
+      "title": "Sofá KAWOLA CELESTE de 4 plazas, en piel marrón oscuro",
+      "brand": "KAWOLA",
+      "model": "CELESTE",
+      "category": "sofas",
+      "description": "El sofá de cuatro plazas KAWOLA CELESTE es la encarnación del minimalismo de lujo. Con sus líneas limpias, su generoso tamaño de 302 cm de ancho y su silueta escultural, es un auténtico punto de referencia en cualquier estancia. El tapizado de piel auténtica de alta calidad confiere a CELESTE un aspecto elegante y natural, además de garantizar una comodidad incomparable al sentarse. La piel auténtica destaca por su transpirabilidad y su capacidad para desarrollar una pátina única con el paso del tiempo, lo que convierte a cada sofá en una pieza única. La profunda superficie de asiento (72 cm) y la altura del asiento de 46 cm garantizan una postura relajada, mientras que los amplios reposabrazos (43 cm) transmiten una sensación de seguridad. CELESTE con tapizado de piel es sinónimo de calidad atemporal, acabado magistral y un toque de confort exclusivo en el hogar. Equipamiento: Con reposapiés, Sin equipamiento adicional",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386107749",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Marrón oscuro",
+        "size": null,
+        "capacity": null,
+        "configuration": "114.0 x 302.0 x 72.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/fe7d6e8c-a715-49b6-a8ab-801c738df6f3_4472.jpg?v=1781211968",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Ffe7d6e8c-a715-49b6-a8ab-801c738df6f3_4472.jpg%3Fv%3D1781211968&feedId=112474&k=2a68954bdd890162bd5466e126bb969f24d9a408",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/b9fcd9a5-bb4e-4822-8d42-7e779ca94c00_4472.jpg?v=1781212031",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/f7458e35-0d30-4954-b9bf-3a946034b1fc_4472.jpg?v=1781212038",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/9a1caec6-7348-41fc-b452-5fe017c028a4_4472.jpg?v=1781212018",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Ffe7d6e8c-a715-49b6-a8ab-801c738df6f3_4472.jpg%3Fv%3D1781211968&feedId=112474&k=2a68954bdd890162bd5466e126bb969f24d9a408"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sofás > Sofás de 4 plazas",
+        "awinCategory": "Sofas",
+        "awinCategoryId": "449",
+        "productType": "Muebles > Sofás > Sofás de 4 plazas",
+        "dimensions": "114.0 x 302.0 x 72.0cm",
+        "specifications": "Piel",
+        "warranty": null,
+        "keywords": "Sofá de cuero, sofá de diseño, sofá de cuero de 4 plazas, sofá de lujo, sofá de cuero auténtico"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA384033L4"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386107763",
+      "title": "Sofá KAWOLA CELESTE de 4 plazas, en piel color camel",
+      "brand": "KAWOLA",
+      "model": "CELESTE",
+      "category": "sofas",
+      "description": "El sofá de cuatro plazas KAWOLA CELESTE es la encarnación del minimalismo de lujo. Con sus líneas limpias, su generoso tamaño de 302 cm de ancho y su silueta escultural, es un auténtico punto de referencia en cualquier estancia. El tapizado de piel auténtica de alta calidad confiere a CELESTE un aspecto elegante y natural, además de garantizar una comodidad incomparable al sentarse. La piel auténtica destaca por su transpirabilidad y su capacidad para desarrollar una pátina única con el paso del tiempo, lo que convierte a cada sofá en una pieza única. La profunda superficie de asiento (72 cm) y la altura del asiento de 46 cm garantizan una postura relajada, mientras que los amplios reposabrazos (43 cm) transmiten una sensación de seguridad. CELESTE con tapizado de piel es sinónimo de calidad atemporal, acabado magistral y un toque de confort exclusivo en el hogar. Equipamiento: Con reposapiés, Sin equipamiento adicional",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386107763",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Camello",
+        "size": null,
+        "capacity": null,
+        "configuration": "114.0 x 302.0 x 72.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/93eb5759-1146-47a1-ae0f-da913b567918_4472.jpg?v=1781211968",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F93eb5759-1146-47a1-ae0f-da913b567918_4472.jpg%3Fv%3D1781211968&feedId=112474&k=7576fb50adeee9c82cdec8e7096f3466b1c051f1",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/55e4da5f-f0d4-4537-9af6-ad1317738913_4472.jpg?v=1781212025",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/36522ce9-d024-4dc2-9ae5-04932959a334_4472.jpg?v=1781211976",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/4c96f467-c4ec-4932-ac45-bc3bc3cd2238_4472.jpg?v=1781212011",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F93eb5759-1146-47a1-ae0f-da913b567918_4472.jpg%3Fv%3D1781211968&feedId=112474&k=7576fb50adeee9c82cdec8e7096f3466b1c051f1"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sofás > Sofás de 4 plazas",
+        "awinCategory": "Sofas",
+        "awinCategoryId": "449",
+        "productType": "Muebles > Sofás > Sofás de 4 plazas",
+        "dimensions": "114.0 x 302.0 x 72.0cm",
+        "specifications": "Piel",
+        "warranty": null,
+        "keywords": "Sofá de cuero, sofá de diseño, sofá de cuero de 4 plazas, sofá de lujo, sofá de cuero auténtico"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA384034L2"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386107817",
+      "title": "Sofá funcional KAWOLA HOLLY de 2 plazas, tela color mostaza",
+      "brand": "KAWOLA",
+      "model": "HOLLY",
+      "category": "sofas",
+      "description": "El sofá de dos plazas HOLLY de KAWOLA destaca por su diseño moderno, sus funciones inteligentes y un nivel de comodidad excepcionalmente alto. Sus líneas limpias, sus patas de diseño delicado y su tapizado de alta calidad, confeccionado con un tejido plano muy resistente, convierten a este sofá en un elemento llamativo y elegante en cualquier salón. Ambos asientos cuentan con un respaldo reclinable y se pueden ajustar individualmente a tus necesidades. Ya sea para sentarse erguido o recostarse relajadamente, HOLLY ofrece en todo momento la posición perfecta para su zona de bienestar personal. Una característica destacada es la función giratoria integrada en ambos asientos. Las superficies de asiento se pueden girar 90° cada una, transformando el sofá en un cómodo espacio para tumbarse en un abrir y cerrar de ojos. El resultado es una solución de descanso flexible, ideal para disfrutar de momentos de relajación. Los reposabrazos también convencen por su funcionalidad: ambos lados son abatibles y se pueden utilizar de forma flexible como reposabrazos o como extensión de la superficie de descanso. Los dos cojines lumbares incluidos en el suministro, así como los reposacabezas opciona…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386107817",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Mostaza",
+        "size": null,
+        "capacity": null,
+        "configuration": "92.0 x 176.0 x 90.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/a0fa3087-70c6-46df-b958-08c623a4c179_4472.jpg?v=1781211954",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fa0fa3087-70c6-46df-b958-08c623a4c179_4472.jpg%3Fv%3D1781211954&feedId=112474&k=ca48fba3f76f928a3f06425f24f18d332a65ba2d",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/109eec83-41a5-4973-b8a7-1aa12b27f825_4472.jpg?v=1781212038",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/83bc4218-9368-4319-a07f-09c44b865fa9_4472.jpg?v=1781211991",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/7ebeb15d-5da9-413f-8f3d-e1c730f22261_4472.jpg?v=1781212025",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fa0fa3087-70c6-46df-b958-08c623a4c179_4472.jpg%3Fv%3D1781211954&feedId=112474&k=ca48fba3f76f928a3f06425f24f18d332a65ba2d"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sofás > Sofás de 2 plazas",
+        "awinCategory": "Sofas",
+        "awinCategoryId": "449",
+        "productType": "Muebles > Sofás > Sofás de 2 plazas",
+        "dimensions": "92.0 x 176.0 x 90.0cm",
+        "specifications": "Tejido plano",
+        "warranty": null,
+        "keywords": "Sofá de dos plazas, sofá multifuncional, sofá cama, sofá giratorio, sofá moderno"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA480036F1"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386107824",
+      "title": "Sofá funcional KAWOLA HOLLY de 2 plazas, tapizado en tela antracita",
+      "brand": "KAWOLA",
+      "model": "HOLLY",
+      "category": "sofas",
+      "description": "El sofá de dos plazas HOLLY de KAWOLA destaca por su diseño moderno, sus funciones inteligentes y un nivel de comodidad excepcionalmente alto. Sus líneas limpias, sus patas de diseño delicado y su tapizado de alta calidad, confeccionado con un tejido plano muy resistente, convierten a este sofá en un elemento llamativo y elegante en cualquier salón. Ambos asientos cuentan con un respaldo reclinable y se pueden ajustar individualmente a tus necesidades. Ya sea para sentarse erguido o recostarse relajadamente, HOLLY ofrece en todo momento la posición perfecta para su zona de bienestar personal. Una característica destacada es la función giratoria integrada en ambos asientos. Las superficies de asiento se pueden girar 90° cada una, transformando el sofá en un cómodo espacio para tumbarse en un abrir y cerrar de ojos. El resultado es una solución de descanso flexible, ideal para disfrutar de momentos de relajación. Los reposabrazos también convencen por su funcionalidad: ambos lados son abatibles y se pueden utilizar de forma flexible como reposabrazos o como extensión de la superficie de descanso. Los dos cojines lumbares incluidos en el suministro, así como los reposacabezas opciona…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386107824",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Antracita",
+        "size": null,
+        "capacity": null,
+        "configuration": "92.0 x 176.0 x 90.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/d27a4827-e799-42c6-9f07-4cb612f57302_4472.jpg?v=1781212004",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fd27a4827-e799-42c6-9f07-4cb612f57302_4472.jpg%3Fv%3D1781212004&feedId=112474&k=a77d50247fb76b6cfd2786e57b4f46ea205581b7",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/4c45d1bd-5e19-4081-8374-9d30ee0ec404_4472.jpg?v=1781212038",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/6aa95864-0826-4a0b-9fcf-2716bb3009ba_4472.jpg?v=1781211926",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/e6bc3132-10f3-4068-9113-fee062c76459_4472.jpg?v=1781211954",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fd27a4827-e799-42c6-9f07-4cb612f57302_4472.jpg%3Fv%3D1781212004&feedId=112474&k=a77d50247fb76b6cfd2786e57b4f46ea205581b7"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sofás > Sofás de 2 plazas",
+        "awinCategory": "Sofas",
+        "awinCategoryId": "449",
+        "productType": "Muebles > Sofás > Sofás de 2 plazas",
+        "dimensions": "92.0 x 176.0 x 90.0cm",
+        "specifications": "Tejido plano",
+        "warranty": null,
+        "keywords": "Sofá de dos plazas, sofá multifuncional, sofá cama, sofá giratorio, sofá moderno"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA480035F1"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386107831",
+      "title": "Sofá funcional KAWOLA HOLLY de 2 plazas, en tela color coñac",
+      "brand": "KAWOLA",
+      "model": "HOLLY",
+      "category": "sofas",
+      "description": "El sofá de dos plazas HOLLY de KAWOLA destaca por su diseño moderno, sus funciones inteligentes y un nivel de comodidad excepcionalmente alto. Sus líneas limpias, sus patas de diseño delicado y su tapizado de alta calidad, confeccionado con un tejido plano muy resistente, convierten a este sofá en un elemento llamativo y elegante en cualquier salón. Ambos asientos cuentan con un respaldo reclinable y se pueden ajustar individualmente a tus necesidades. Ya sea para sentarse erguido o recostarse relajadamente, HOLLY ofrece en todo momento la posición perfecta para su zona de bienestar personal. Una característica destacada es la función giratoria integrada en ambos asientos. Las superficies de asiento se pueden girar 90° cada una, transformando el sofá en un cómodo espacio para tumbarse en un abrir y cerrar de ojos. El resultado es una solución de descanso flexible, ideal para disfrutar de momentos de relajación. Los reposabrazos también convencen por su funcionalidad: ambos lados son abatibles y se pueden utilizar de forma flexible como reposabrazos o como extensión de la superficie de descanso. Los dos cojines lumbares incluidos en el suministro, así como los reposacabezas opciona…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386107831",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Coñac",
+        "size": null,
+        "capacity": null,
+        "configuration": "92.0 x 176.0 x 90.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/d8651b09-84ab-488a-93cd-6af553ce0d04_4472.jpg?v=1781212031",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fd8651b09-84ab-488a-93cd-6af553ce0d04_4472.jpg%3Fv%3D1781212031&feedId=112474&k=5aea5c11a7385c8f0bfb5dca3b985f74521d9c49",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/1767a19f-3b58-452a-b824-1682033943af_4472.jpg?v=1781211926",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/e16e1547-1b9a-40c1-9320-16d3d77b9147_4472.jpg?v=1781212044",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/0ea1e936-654d-4ceb-af33-cd951012ab69_4472.jpg?v=1781211969",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fd8651b09-84ab-488a-93cd-6af553ce0d04_4472.jpg%3Fv%3D1781212031&feedId=112474&k=5aea5c11a7385c8f0bfb5dca3b985f74521d9c49"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sofás > Sofás de 2 plazas",
+        "awinCategory": "Sofas",
+        "awinCategoryId": "449",
+        "productType": "Muebles > Sofás > Sofás de 2 plazas",
+        "dimensions": "92.0 x 176.0 x 90.0cm",
+        "specifications": "Tejido plano",
+        "warranty": null,
+        "keywords": "Sofá de dos plazas, sofá multifuncional, sofá cama, sofá giratorio, sofá moderno"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA480033F1"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386107848",
+      "title": "Sofá funcional KAWOLA HOLLY de 2 plazas, en tela blanca",
+      "brand": "KAWOLA",
+      "model": "HOLLY",
+      "category": "sofas",
+      "description": "El sofá de dos plazas HOLLY de KAWOLA destaca por su diseño moderno, sus funciones inteligentes y un nivel de comodidad excepcionalmente alto. Sus líneas limpias, sus patas de diseño delicado y su tapizado de alta calidad, confeccionado con un tejido plano muy resistente, convierten a este sofá en un elemento llamativo y elegante en cualquier salón. Ambos asientos cuentan con un respaldo reclinable y se pueden ajustar individualmente a tus necesidades. Ya sea para sentarse erguido o recostarse relajadamente, HOLLY ofrece en todo momento la posición perfecta para su zona de bienestar personal. Una característica destacada es la función giratoria integrada en ambos asientos. Las superficies de asiento se pueden girar 90° cada una, transformando el sofá en un cómodo espacio para tumbarse en un abrir y cerrar de ojos. El resultado es una solución de descanso flexible, ideal para disfrutar de momentos de relajación. Los reposabrazos también convencen por su funcionalidad: ambos lados son abatibles y se pueden utilizar de forma flexible como reposabrazos o como extensión de la superficie de descanso. Los dos cojines lumbares incluidos en el suministro, así como los reposacabezas opciona…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386107848",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Blanco",
+        "size": null,
+        "capacity": null,
+        "configuration": "92.0 x 176.0 x 90.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/6e67a96d-aa08-4e26-8580-576109fd6921_4472.jpg?v=1781211962",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F6e67a96d-aa08-4e26-8580-576109fd6921_4472.jpg%3Fv%3D1781211962&feedId=112474&k=b0e2dbe86f1cf64c4b84d98bf6b3b2a66637c65c",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/83d63946-90dd-4ba8-878b-d40e9315a93a_4472.jpg?v=1781212011",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/637671ea-d870-4548-9f4b-8354689e2189_4472.jpg?v=1781211946",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/4b03853a-1898-41ef-819b-4c10d2b61ea1_4472.jpg?v=1781211954",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F6e67a96d-aa08-4e26-8580-576109fd6921_4472.jpg%3Fv%3D1781211962&feedId=112474&k=b0e2dbe86f1cf64c4b84d98bf6b3b2a66637c65c"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sofás > Sofás de 2 plazas",
+        "awinCategory": "Sofas",
+        "awinCategoryId": "449",
+        "productType": "Muebles > Sofás > Sofás de 2 plazas",
+        "dimensions": "92.0 x 176.0 x 90.0cm",
+        "specifications": "Tejido plano",
+        "warranty": null,
+        "keywords": "Sofá de dos plazas, sofá multifuncional, sofá cama, sofá giratorio, sofá moderno"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA480030F1"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386107855",
+      "title": "Sofá funcional KAWOLA HOLLY de 2 plazas, de tela gris",
+      "brand": "KAWOLA",
+      "model": "HOLLY",
+      "category": "sofas",
+      "description": "El sofá de dos plazas HOLLY de KAWOLA destaca por su diseño moderno, sus funciones inteligentes y un nivel de comodidad excepcionalmente alto. Sus líneas limpias, sus patas de diseño delicado y su tapizado de alta calidad, confeccionado con un tejido plano muy resistente, convierten a este sofá en un elemento llamativo y elegante en cualquier salón. Ambos asientos cuentan con un respaldo reclinable y se pueden ajustar individualmente a tus necesidades. Ya sea para sentarse erguido o recostarse relajadamente, HOLLY ofrece en todo momento la posición perfecta para su zona de bienestar personal. Una característica destacada es la función giratoria integrada en ambos asientos. Las superficies de asiento se pueden girar 90° cada una, transformando el sofá en un cómodo espacio para tumbarse en un abrir y cerrar de ojos. El resultado es una solución de descanso flexible, ideal para disfrutar de momentos de relajación. Los reposabrazos también convencen por su funcionalidad: ambos lados son abatibles y se pueden utilizar de forma flexible como reposabrazos o como extensión de la superficie de descanso. Los dos cojines lumbares incluidos en el suministro, así como los reposacabezas opciona…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386107855",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Gris",
+        "size": null,
+        "capacity": null,
+        "configuration": "92.0 x 176.0 x 90.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/0698db8b-8484-4edb-8269-c982912cdddd_4472.jpg?v=1781212004",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F0698db8b-8484-4edb-8269-c982912cdddd_4472.jpg%3Fv%3D1781212004&feedId=112474&k=fbf2d8a45146db8fc9957b826da4119f9f70f96d",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/5befa785-98d4-4f2d-8c50-8dcfbb8a5ae2_4472.jpg?v=1781211983",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/2691b8d3-4f51-4b7e-a5ff-1b1bb3de23f3_4472.jpg?v=1781211926",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/c3ae80ed-e0b5-41ad-8f95-aefff21007fb_4472.jpg?v=1781212044",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F0698db8b-8484-4edb-8269-c982912cdddd_4472.jpg%3Fv%3D1781212004&feedId=112474&k=fbf2d8a45146db8fc9957b826da4119f9f70f96d"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sofás > Sofás de 2 plazas",
+        "awinCategory": "Sofas",
+        "awinCategoryId": "449",
+        "productType": "Muebles > Sofás > Sofás de 2 plazas",
+        "dimensions": "92.0 x 176.0 x 90.0cm",
+        "specifications": "Tejido plano",
+        "warranty": null,
+        "keywords": "Sofá de dos plazas, sofá multifuncional, sofá cama, sofá giratorio, sofá moderno"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA480035F2"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386107862",
+      "title": "Sofá funcional KAWOLA HOLLY de 2 plazas, tela color mostaza",
+      "brand": "KAWOLA",
+      "model": "HOLLY",
+      "category": "sofas",
+      "description": "El sofá de dos plazas HOLLY de KAWOLA destaca por su diseño moderno, sus funciones inteligentes y un nivel de comodidad excepcionalmente alto. Sus líneas limpias, sus patas de diseño delicado y su tapizado de alta calidad, confeccionado con un tejido plano muy resistente, convierten a este sofá en un elemento llamativo y elegante en cualquier salón. Ambos asientos cuentan con un respaldo reclinable y se pueden ajustar individualmente a tus necesidades. Ya sea para sentarse erguido o recostarse relajadamente, HOLLY ofrece en todo momento la posición perfecta para su zona de bienestar personal. Una característica destacada es la función giratoria integrada en ambos asientos. Las superficies de asiento se pueden girar 90° cada una, transformando el sofá en un cómodo espacio para tumbarse en un abrir y cerrar de ojos. El resultado es una solución de descanso flexible, ideal para disfrutar de momentos de relajación. Los reposabrazos también convencen por su funcionalidad: ambos lados son abatibles y se pueden utilizar de forma flexible como reposabrazos o como extensión de la superficie de descanso. Los dos cojines lumbares incluidos en el suministro, así como los reposacabezas opciona…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386107862",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Mostaza",
+        "size": null,
+        "capacity": null,
+        "configuration": "92.0 x 176.0 x 90.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/1e75db76-872c-4747-bda3-72b27aad1eb3_4472.jpg?v=1781211998",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F1e75db76-872c-4747-bda3-72b27aad1eb3_4472.jpg%3Fv%3D1781211998&feedId=112474&k=2edaa8308ad3c616491e3247133646e43aae0dc7",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/5ac9788c-8a8c-454b-ada8-e4c9d4e96619_4472.jpg?v=1781212011",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/62ed40d2-4d1d-40b0-b42d-9448465cdbbc_4472.jpg?v=1781212025",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/3960064e-dde5-4772-839b-551720e2b422_4472.jpg?v=1781212011",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F1e75db76-872c-4747-bda3-72b27aad1eb3_4472.jpg%3Fv%3D1781211998&feedId=112474&k=2edaa8308ad3c616491e3247133646e43aae0dc7"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sofás > Sofás de 2 plazas",
+        "awinCategory": "Sofas",
+        "awinCategoryId": "449",
+        "productType": "Muebles > Sofás > Sofás de 2 plazas",
+        "dimensions": "92.0 x 176.0 x 90.0cm",
+        "specifications": "Tejido plano",
+        "warranty": null,
+        "keywords": "Sofá de dos plazas, sofá multifuncional, sofá cama, sofá giratorio, sofá moderno"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA480036F2"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386107879",
+      "title": "Sofá funcional KAWOLA HOLLY de 2 plazas, tapizado en tela antracita",
+      "brand": "KAWOLA",
+      "model": "HOLLY",
+      "category": "sofas",
+      "description": "El sofá de dos plazas HOLLY de KAWOLA destaca por su diseño moderno, sus funciones inteligentes y un nivel de comodidad excepcionalmente alto. Sus líneas limpias, sus patas de diseño delicado y su tapizado de alta calidad, confeccionado con un tejido plano muy resistente, convierten a este sofá en un elemento llamativo y elegante en cualquier salón. Ambos asientos cuentan con un respaldo reclinable y se pueden ajustar individualmente a tus necesidades. Ya sea para sentarse erguido o recostarse relajadamente, HOLLY ofrece en todo momento la posición perfecta para su zona de bienestar personal. Una característica destacada es la función giratoria integrada en ambos asientos. Las superficies de asiento se pueden girar 90° cada una, transformando el sofá en un cómodo espacio para tumbarse en un abrir y cerrar de ojos. El resultado es una solución de descanso flexible, ideal para disfrutar de momentos de relajación. Los reposabrazos también convencen por su funcionalidad: ambos lados son abatibles y se pueden utilizar de forma flexible como reposabrazos o como extensión de la superficie de descanso. Los dos cojines lumbares incluidos en el suministro, así como los reposacabezas opciona…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386107879",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Antracita",
+        "size": null,
+        "capacity": null,
+        "configuration": "92.0 x 176.0 x 90.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/8b6bd971-de4d-484f-a762-f7b601737589_4472.jpg?v=1781211968",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F8b6bd971-de4d-484f-a762-f7b601737589_4472.jpg%3Fv%3D1781211968&feedId=112474&k=2fd461c5e35864fc4e535156ff62d30bf2528629",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/9a45ddb5-31e3-40d8-b89c-b8f961ae4c71_4472.jpg?v=1781211998",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/dfff9ed6-45e3-42ee-ab0f-6f8c11b4cafd_4472.jpg?v=1781212031",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/bd11a7de-b7dc-46fc-bdcb-8562426e346e_4472.jpg?v=1781212025",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F8b6bd971-de4d-484f-a762-f7b601737589_4472.jpg%3Fv%3D1781211968&feedId=112474&k=2fd461c5e35864fc4e535156ff62d30bf2528629"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sofás > Sofás de 2 plazas",
+        "awinCategory": "Sofas",
+        "awinCategoryId": "449",
+        "productType": "Muebles > Sofás > Sofás de 2 plazas",
+        "dimensions": "92.0 x 176.0 x 90.0cm",
+        "specifications": "Tejido plano",
+        "warranty": null,
+        "keywords": "Sofá de dos plazas, sofá multifuncional, sofá cama, sofá giratorio, sofá moderno"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA480035F3"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386107886",
+      "title": "Sofá funcional KAWOLA HOLLY de 2 plazas, en tela color coñac",
+      "brand": "KAWOLA",
+      "model": "HOLLY",
+      "category": "sofas",
+      "description": "El sofá de dos plazas HOLLY de KAWOLA destaca por su diseño moderno, sus funciones inteligentes y un nivel de comodidad excepcionalmente alto. Sus líneas limpias, sus patas de diseño delicado y su tapizado de alta calidad, confeccionado con un tejido plano muy resistente, convierten a este sofá en un elemento llamativo y elegante en cualquier salón. Ambos asientos cuentan con un respaldo reclinable y se pueden ajustar individualmente a tus necesidades. Ya sea para sentarse erguido o recostarse relajadamente, HOLLY ofrece en todo momento la posición perfecta para su zona de bienestar personal. Una característica destacada es la función giratoria integrada en ambos asientos. Las superficies de asiento se pueden girar 90° cada una, transformando el sofá en un cómodo espacio para tumbarse en un abrir y cerrar de ojos. El resultado es una solución de descanso flexible, ideal para disfrutar de momentos de relajación. Los reposabrazos también convencen por su funcionalidad: ambos lados son abatibles y se pueden utilizar de forma flexible como reposabrazos o como extensión de la superficie de descanso. Los dos cojines lumbares incluidos en el suministro, así como los reposacabezas opciona…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386107886",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Coñac",
+        "size": null,
+        "capacity": null,
+        "configuration": "92.0 x 176.0 x 90.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/5b46670b-f768-4df2-bb24-c486237a5f85_4472.jpg?v=1781212025",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F5b46670b-f768-4df2-bb24-c486237a5f85_4472.jpg%3Fv%3D1781212025&feedId=112474&k=02f694f16dc60a9abaffdc30f227415b3a27dd14",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/73a86515-1398-4f8c-b1db-3d71e199bc17_4472.jpg?v=1781212031",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/07b82848-5dd8-4efb-91b0-1b443c36337f_4472.jpg?v=1781211990",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/911482d5-631d-4141-9d2e-0a153c94c969_4472.jpg?v=1781211926",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F5b46670b-f768-4df2-bb24-c486237a5f85_4472.jpg%3Fv%3D1781212025&feedId=112474&k=02f694f16dc60a9abaffdc30f227415b3a27dd14"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sofás > Sofás de 2 plazas",
+        "awinCategory": "Sofas",
+        "awinCategoryId": "449",
+        "productType": "Muebles > Sofás > Sofás de 2 plazas",
+        "dimensions": "92.0 x 176.0 x 90.0cm",
+        "specifications": "Tejido plano",
+        "warranty": null,
+        "keywords": "Sofá de dos plazas, sofá multifuncional, sofá cama, sofá giratorio, sofá moderno"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA480033F2"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386107893",
+      "title": "Sofá funcional KAWOLA HOLLY de 2 plazas, en tela blanca",
+      "brand": "KAWOLA",
+      "model": "HOLLY",
+      "category": "sofas",
+      "description": "El sofá de dos plazas HOLLY de KAWOLA destaca por su diseño moderno, sus funciones inteligentes y un nivel de comodidad excepcionalmente alto. Sus líneas limpias, sus patas de diseño delicado y su tapizado de alta calidad, confeccionado con un tejido plano muy resistente, convierten a este sofá en un elemento llamativo y elegante en cualquier salón. Ambos asientos cuentan con un respaldo reclinable y se pueden ajustar individualmente a tus necesidades. Ya sea para sentarse erguido o recostarse relajadamente, HOLLY ofrece en todo momento la posición perfecta para su zona de bienestar personal. Una característica destacada es la función giratoria integrada en ambos asientos. Las superficies de asiento se pueden girar 90° cada una, transformando el sofá en un cómodo espacio para tumbarse en un abrir y cerrar de ojos. El resultado es una solución de descanso flexible, ideal para disfrutar de momentos de relajación. Los reposabrazos también convencen por su funcionalidad: ambos lados son abatibles y se pueden utilizar de forma flexible como reposabrazos o como extensión de la superficie de descanso. Los dos cojines lumbares incluidos en el suministro, así como los reposacabezas opciona…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386107893",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Blanco",
+        "size": null,
+        "capacity": null,
+        "configuration": "92.0 x 176.0 x 90.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/c6a58370-7aba-4933-9c1c-e26dabb4826b_4472.jpg?v=1781211954",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fc6a58370-7aba-4933-9c1c-e26dabb4826b_4472.jpg%3Fv%3D1781211954&feedId=112474&k=fa078953ded5f8f2970bc4bff1693965c70945b8",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/888b94fe-a328-45dd-a764-2bf07c9d3eba_4472.jpg?v=1781211939",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/7c29962c-8780-48dc-bfa7-9e52143b6cd6_4472.jpg?v=1781211976",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/72aa35b7-99eb-4252-98f9-5e40db089d91_4472.jpg?v=1781211954",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fc6a58370-7aba-4933-9c1c-e26dabb4826b_4472.jpg%3Fv%3D1781211954&feedId=112474&k=fa078953ded5f8f2970bc4bff1693965c70945b8"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sofás > Sofás de 2 plazas",
+        "awinCategory": "Sofas",
+        "awinCategoryId": "449",
+        "productType": "Muebles > Sofás > Sofás de 2 plazas",
+        "dimensions": "92.0 x 176.0 x 90.0cm",
+        "specifications": "Tejido plano",
+        "warranty": null,
+        "keywords": "Sofá de dos plazas, sofá multifuncional, sofá cama, sofá giratorio, sofá moderno"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA480030F2"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386107909",
+      "title": "Sofá funcional KAWOLA HOLLY de 2 plazas, de tela gris",
+      "brand": "KAWOLA",
+      "model": "HOLLY",
+      "category": "sofas",
+      "description": "El sofá de dos plazas HOLLY de KAWOLA destaca por su diseño moderno, sus funciones inteligentes y un nivel de comodidad excepcionalmente alto. Sus líneas limpias, sus patas de diseño delicado y su tapizado de alta calidad, confeccionado con un tejido plano muy resistente, convierten a este sofá en un elemento llamativo y elegante en cualquier salón. Ambos asientos cuentan con un respaldo reclinable y se pueden ajustar individualmente a tus necesidades. Ya sea para sentarse erguido o recostarse relajadamente, HOLLY ofrece en todo momento la posición perfecta para su zona de bienestar personal. Una característica destacada es la función giratoria integrada en ambos asientos. Las superficies de asiento se pueden girar 90° cada una, transformando el sofá en un cómodo espacio para tumbarse en un abrir y cerrar de ojos. El resultado es una solución de descanso flexible, ideal para disfrutar de momentos de relajación. Los reposabrazos también convencen por su funcionalidad: ambos lados son abatibles y se pueden utilizar de forma flexible como reposabrazos o como extensión de la superficie de descanso. Los dos cojines lumbares incluidos en el suministro, así como los reposacabezas opciona…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386107909",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Gris",
+        "size": null,
+        "capacity": null,
+        "configuration": "92.0 x 176.0 x 90.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/35a169c8-e04b-4684-8e7e-70065d59f528_4472.jpg?v=1781211939",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F35a169c8-e04b-4684-8e7e-70065d59f528_4472.jpg%3Fv%3D1781211939&feedId=112474&k=caa0dc48b568be5b28e74fb5833937c8456eb225",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/af795f3c-1292-40c9-9e10-1f3fa2f21856_4472.jpg?v=1781212025",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/2e528dfe-0355-4dd0-8907-8acdd2a205d6_4472.jpg?v=1781211932",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/f83f481e-32ec-4d65-b6d5-2dab7297bd27_4472.jpg?v=1781212044",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F35a169c8-e04b-4684-8e7e-70065d59f528_4472.jpg%3Fv%3D1781211939&feedId=112474&k=caa0dc48b568be5b28e74fb5833937c8456eb225"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sofás > Sofás de 2 plazas",
+        "awinCategory": "Sofas",
+        "awinCategoryId": "449",
+        "productType": "Muebles > Sofás > Sofás de 2 plazas",
+        "dimensions": "92.0 x 176.0 x 90.0cm",
+        "specifications": "Tejido plano",
+        "warranty": null,
+        "keywords": "Sofá de dos plazas, sofá multifuncional, sofá cama, sofá giratorio, sofá moderno"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA480035F4"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386107916",
+      "title": "Sofá funcional KAWOLA HOLLY de 2 plazas, tela color mostaza",
+      "brand": "KAWOLA",
+      "model": "HOLLY",
+      "category": "sofas",
+      "description": "El sofá de dos plazas HOLLY de KAWOLA destaca por su diseño moderno, sus funciones inteligentes y un nivel de comodidad excepcionalmente alto. Sus líneas limpias, sus patas de diseño delicado y su tapizado de alta calidad, confeccionado con un tejido plano muy resistente, convierten a este sofá en un elemento llamativo y elegante en cualquier salón. Ambos asientos cuentan con un respaldo reclinable y se pueden ajustar individualmente a tus necesidades. Ya sea para sentarse erguido o recostarse relajadamente, HOLLY ofrece en todo momento la posición perfecta para su zona de bienestar personal. Una característica destacada es la función giratoria integrada en ambos asientos. Las superficies de asiento se pueden girar 90° cada una, transformando el sofá en un cómodo espacio para tumbarse en un abrir y cerrar de ojos. El resultado es una solución de descanso flexible, ideal para disfrutar de momentos de relajación. Los reposabrazos también convencen por su funcionalidad: ambos lados son abatibles y se pueden utilizar de forma flexible como reposabrazos o como extensión de la superficie de descanso. Los dos cojines lumbares incluidos en el suministro, así como los reposacabezas opciona…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386107916",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Mostaza",
+        "size": null,
+        "capacity": null,
+        "configuration": "92.0 x 176.0 x 90.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/c71697e6-d8c9-47d5-9e0b-b63e0155c3f9_4472.jpg?v=1781211983",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fc71697e6-d8c9-47d5-9e0b-b63e0155c3f9_4472.jpg%3Fv%3D1781211983&feedId=112474&k=ac89a356888a8ed45722cbf5103361a3ef713edf",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/b5bbe4b0-e7f1-45f8-a691-28b8f7b8176e_4472.jpg?v=1781212011",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/d993aab6-2bac-45ed-80a3-245a0b1311d9_4472.jpg?v=1781211947",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/f281ed38-ef59-469a-8ade-59bd6940e8bf_4472.jpg?v=1781211983",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fc71697e6-d8c9-47d5-9e0b-b63e0155c3f9_4472.jpg%3Fv%3D1781211983&feedId=112474&k=ac89a356888a8ed45722cbf5103361a3ef713edf"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sofás > Sofás de 2 plazas",
+        "awinCategory": "Sofas",
+        "awinCategoryId": "449",
+        "productType": "Muebles > Sofás > Sofás de 2 plazas",
+        "dimensions": "92.0 x 176.0 x 90.0cm",
+        "specifications": "Tejido plano",
+        "warranty": null,
+        "keywords": "Sofá de dos plazas, sofá multifuncional, sofá cama, sofá giratorio, sofá moderno"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA480036F3"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386107923",
+      "title": "Sofá funcional KAWOLA HOLLY de 2 plazas, tapizado en tela antracita",
+      "brand": "KAWOLA",
+      "model": "HOLLY",
+      "category": "sofas",
+      "description": "El sofá de dos plazas HOLLY de KAWOLA destaca por su diseño moderno, sus funciones inteligentes y un nivel de comodidad excepcionalmente alto. Sus líneas limpias, sus patas de diseño delicado y su tapizado de alta calidad, confeccionado con un tejido plano muy resistente, convierten a este sofá en un elemento llamativo y elegante en cualquier salón. Ambos asientos cuentan con un respaldo reclinable y se pueden ajustar individualmente a tus necesidades. Ya sea para sentarse erguido o recostarse relajadamente, HOLLY ofrece en todo momento la posición perfecta para su zona de bienestar personal. Una característica destacada es la función giratoria integrada en ambos asientos. Las superficies de asiento se pueden girar 90° cada una, transformando el sofá en un cómodo espacio para tumbarse en un abrir y cerrar de ojos. El resultado es una solución de descanso flexible, ideal para disfrutar de momentos de relajación. Los reposabrazos también convencen por su funcionalidad: ambos lados son abatibles y se pueden utilizar de forma flexible como reposabrazos o como extensión de la superficie de descanso. Los dos cojines lumbares incluidos en el suministro, así como los reposacabezas opciona…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386107923",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Antracita",
+        "size": null,
+        "capacity": null,
+        "configuration": "92.0 x 176.0 x 90.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/b2623784-e48f-408c-b7c0-cdcc992c0e1f_4472.jpg?v=1781211991",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fb2623784-e48f-408c-b7c0-cdcc992c0e1f_4472.jpg%3Fv%3D1781211991&feedId=112474&k=a69f5a1ff67cc81fbd093436a6ca26fb2b955ff5",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/176e6d2c-2fa3-48ce-aee1-3ba3daf8e188_4472.jpg?v=1781211991",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/d710ab03-1240-4710-ba44-c95941c9dfa3_4472.jpg?v=1781211998",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/15e7e333-8558-48bd-89b3-79529be51b68_4472.jpg?v=1781211933",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fb2623784-e48f-408c-b7c0-cdcc992c0e1f_4472.jpg%3Fv%3D1781211991&feedId=112474&k=a69f5a1ff67cc81fbd093436a6ca26fb2b955ff5"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sofás > Sofás de 2 plazas",
+        "awinCategory": "Sofas",
+        "awinCategoryId": "449",
+        "productType": "Muebles > Sofás > Sofás de 2 plazas",
+        "dimensions": "92.0 x 176.0 x 90.0cm",
+        "specifications": "Tejido plano",
+        "warranty": null,
+        "keywords": "Sofá de dos plazas, sofá multifuncional, sofá cama, sofá giratorio, sofá moderno"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA480035F5"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386107930",
+      "title": "Sofá funcional KAWOLA HOLLY de 2 plazas, en tela color coñac",
+      "brand": "KAWOLA",
+      "model": "HOLLY",
+      "category": "sofas",
+      "description": "El sofá de dos plazas HOLLY de KAWOLA destaca por su diseño moderno, sus funciones inteligentes y un nivel de comodidad excepcionalmente alto. Sus líneas limpias, sus patas de diseño delicado y su tapizado de alta calidad, confeccionado con un tejido plano muy resistente, convierten a este sofá en un elemento llamativo y elegante en cualquier salón. Ambos asientos cuentan con un respaldo reclinable y se pueden ajustar individualmente a tus necesidades. Ya sea para sentarse erguido o recostarse relajadamente, HOLLY ofrece en todo momento la posición perfecta para su zona de bienestar personal. Una característica destacada es la función giratoria integrada en ambos asientos. Las superficies de asiento se pueden girar 90° cada una, transformando el sofá en un cómodo espacio para tumbarse en un abrir y cerrar de ojos. El resultado es una solución de descanso flexible, ideal para disfrutar de momentos de relajación. Los reposabrazos también convencen por su funcionalidad: ambos lados son abatibles y se pueden utilizar de forma flexible como reposabrazos o como extensión de la superficie de descanso. Los dos cojines lumbares incluidos en el suministro, así como los reposacabezas opciona…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386107930",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Coñac",
+        "size": null,
+        "capacity": null,
+        "configuration": "92.0 x 176.0 x 90.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/bcebf4bd-1905-4357-bac2-f560511d2893_4472.jpg?v=1781212025",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fbcebf4bd-1905-4357-bac2-f560511d2893_4472.jpg%3Fv%3D1781212025&feedId=112474&k=8d76d005ab97af8ff68b28c1f73d69fa49f03c9d",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/0c536798-570f-417c-999b-eee3721a0068_4472.jpg?v=1781211982",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/63b96329-b9d5-4303-bc43-5a7088b22759_4472.jpg?v=1781211918",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/0ded45b1-ba37-461f-9eae-7d379159c8ee_4472.jpg?v=1781211954",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fbcebf4bd-1905-4357-bac2-f560511d2893_4472.jpg%3Fv%3D1781212025&feedId=112474&k=8d76d005ab97af8ff68b28c1f73d69fa49f03c9d"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sofás > Sofás de 2 plazas",
+        "awinCategory": "Sofas",
+        "awinCategoryId": "449",
+        "productType": "Muebles > Sofás > Sofás de 2 plazas",
+        "dimensions": "92.0 x 176.0 x 90.0cm",
+        "specifications": "Tejido plano",
+        "warranty": null,
+        "keywords": "Sofá de dos plazas, sofá multifuncional, sofá cama, sofá giratorio, sofá moderno"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA480033F3"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386107947",
+      "title": "Sofá funcional KAWOLA HOLLY de 2 plazas, en tela blanca",
+      "brand": "KAWOLA",
+      "model": "HOLLY",
+      "category": "sofas",
+      "description": "El sofá de dos plazas HOLLY de KAWOLA destaca por su diseño moderno, sus funciones inteligentes y un nivel de comodidad excepcionalmente alto. Sus líneas limpias, sus patas de diseño delicado y su tapizado de alta calidad, confeccionado con un tejido plano muy resistente, convierten a este sofá en un elemento llamativo y elegante en cualquier salón. Ambos asientos cuentan con un respaldo reclinable y se pueden ajustar individualmente a tus necesidades. Ya sea para sentarse erguido o recostarse relajadamente, HOLLY ofrece en todo momento la posición perfecta para su zona de bienestar personal. Una característica destacada es la función giratoria integrada en ambos asientos. Las superficies de asiento se pueden girar 90° cada una, transformando el sofá en un cómodo espacio para tumbarse en un abrir y cerrar de ojos. El resultado es una solución de descanso flexible, ideal para disfrutar de momentos de relajación. Los reposabrazos también convencen por su funcionalidad: ambos lados son abatibles y se pueden utilizar de forma flexible como reposabrazos o como extensión de la superficie de descanso. Los dos cojines lumbares incluidos en el suministro, así como los reposacabezas opciona…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386107947",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Blanco",
+        "size": null,
+        "capacity": null,
+        "configuration": "92.0 x 176.0 x 90.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/29ed73e1-af66-4d2f-8e3a-67f727d71898_4472.jpg?v=1781211976",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F29ed73e1-af66-4d2f-8e3a-67f727d71898_4472.jpg%3Fv%3D1781211976&feedId=112474&k=ea338cc16216fe06a80a44bee10e6f80b0600846",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/53e0c863-a441-4214-a21e-3b65968aa452_4472.jpg?v=1781211918",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/1b8126f1-be6b-4fc1-83ac-f3b2c0e979c6_4472.jpg?v=1781212031",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/2b117e3d-8d39-4f55-af1f-e4f2f37ba7fe_4472.jpg?v=1781212011",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F29ed73e1-af66-4d2f-8e3a-67f727d71898_4472.jpg%3Fv%3D1781211976&feedId=112474&k=ea338cc16216fe06a80a44bee10e6f80b0600846"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sofás > Sofás de 2 plazas",
+        "awinCategory": "Sofas",
+        "awinCategoryId": "449",
+        "productType": "Muebles > Sofás > Sofás de 2 plazas",
+        "dimensions": "92.0 x 176.0 x 90.0cm",
+        "specifications": "Tejido plano",
+        "warranty": null,
+        "keywords": "Sofá de dos plazas, sofá multifuncional, sofá cama, sofá giratorio, sofá moderno"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA480030F3"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386107954",
+      "title": "Sofá funcional KAWOLA HOLLY de 2 plazas, de tela gris",
+      "brand": "KAWOLA",
+      "model": "HOLLY",
+      "category": "sofas",
+      "description": "El sofá de dos plazas HOLLY de KAWOLA destaca por su diseño moderno, sus funciones inteligentes y un nivel de comodidad excepcionalmente alto. Sus líneas limpias, sus patas de diseño delicado y su tapizado de alta calidad, confeccionado con un tejido plano muy resistente, convierten a este sofá en un elemento llamativo y elegante en cualquier salón. Ambos asientos cuentan con un respaldo reclinable y se pueden ajustar individualmente a tus necesidades. Ya sea para sentarse erguido o recostarse relajadamente, HOLLY ofrece en todo momento la posición perfecta para su zona de bienestar personal. Una característica destacada es la función giratoria integrada en ambos asientos. Las superficies de asiento se pueden girar 90° cada una, transformando el sofá en un cómodo espacio para tumbarse en un abrir y cerrar de ojos. El resultado es una solución de descanso flexible, ideal para disfrutar de momentos de relajación. Los reposabrazos también convencen por su funcionalidad: ambos lados son abatibles y se pueden utilizar de forma flexible como reposabrazos o como extensión de la superficie de descanso. Los dos cojines lumbares incluidos en el suministro, así como los reposacabezas opciona…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386107954",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Gris",
+        "size": null,
+        "capacity": null,
+        "configuration": "92.0 x 176.0 x 90.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/cdd12c41-e47e-46ec-96e9-a8321a660898_4472.jpg?v=1781211982",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fcdd12c41-e47e-46ec-96e9-a8321a660898_4472.jpg%3Fv%3D1781211982&feedId=112474&k=e9be74c496a45146d1767ce3f49170d27ca989b8",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/5aff7dd9-8158-44e2-8380-99864a81da53_4472.jpg?v=1781212031",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/6b7eb53d-a4da-4e26-8bf5-b22c66207779_4472.jpg?v=1781211947",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/0b3f7dde-eb58-410b-9405-f86915980cfe_4472.jpg?v=1781211918",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fcdd12c41-e47e-46ec-96e9-a8321a660898_4472.jpg%3Fv%3D1781211982&feedId=112474&k=e9be74c496a45146d1767ce3f49170d27ca989b8"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sofás > Sofás de 2 plazas",
+        "awinCategory": "Sofas",
+        "awinCategoryId": "449",
+        "productType": "Muebles > Sofás > Sofás de 2 plazas",
+        "dimensions": "92.0 x 176.0 x 90.0cm",
+        "specifications": "Tejido plano",
+        "warranty": null,
+        "keywords": "Sofá de dos plazas, sofá multifuncional, sofá cama, sofá giratorio, sofá moderno"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA480035F6"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386108173",
+      "title": "Silla de jardín KAWOLA ALTEA de exterior, de plástico beige, con cojín",
+      "brand": "KAWOLA",
+      "model": "ALTEA",
+      "category": "sillas-y-sillones",
+      "description": "La silla de jardín ALTEA de KAWOLA combina un diseño moderno con una gran funcionalidad y es el complemento perfecto para espacios de exterior con estilo. Con su elegante tono beige, la silla se integra armoniosamente en los entornos más diversos y aporta a la terraza, el balcón o el jardín un ambiente contemporáneo y acogedor. Fabricada en plástico de alta calidad, la silla destaca por su estabilidad, durabilidad y resistencia en el uso diario. La carcasa del asiento, de forma ergonómica y con reposabrazos integrados, así como la estructura aireada del respaldo, garantizan una gran comodidad al sentarse y un aspecto moderno y ligero. La comodidad se ve complementada por un cómodo cojín de asiento de tela, que garantiza una sensación especialmente agradable al sentarse y, al mismo tiempo, es fácil de cuidar. La silla de jardín ALTEA está especialmente diseñada para su uso de exterior. Resiste cualquier condición meteorológica, es repelente al agua y, por lo tanto, ideal para su uso en exteriores durante todo el año. Ya sea para reuniones sociales alrededor de la mesa del jardín o como cómoda silla individual, ALTEA convence por su acertada combinación de diseño, comodidad y funcio…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386108173",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Beige",
+        "size": null,
+        "capacity": null,
+        "configuration": "54.0 x 59.0 x 84.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/4d35608c-e291-410f-bf38-3ac600869aa1_4472.jpg?v=1781138964",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F4d35608c-e291-410f-bf38-3ac600869aa1_4472.jpg%3Fv%3D1781138964&feedId=112474&k=3c79672898dd5e441cb0e4a700fe580d3cd5782f",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/43b2f356-ff64-4c7c-aa6f-445cd0a69b01_4472.jpg?v=1781138965",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/9565a717-c20f-43b3-9fa6-a1e355738eb1_4472.jpg?v=1781138965",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/bb443609-e5df-4278-99ce-c3c6945561c9_4472.jpg?v=1781138964",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F4d35608c-e291-410f-bf38-3ac600869aa1_4472.jpg%3Fv%3D1781138964&feedId=112474&k=3c79672898dd5e441cb0e4a700fe580d3cd5782f"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles de jardín > Sillas de jardín",
+        "awinCategory": "Sheds & Garden Furniture",
+        "awinCategoryId": "458",
+        "productType": "Muebles de jardín > Sillas de jardín",
+        "dimensions": "54.0 x 59.0 x 84.0cm",
+        "specifications": "Plástico",
+        "warranty": null,
+        "keywords": "Silla de jardín de exterior, silla de jardín de plástico, silla de jardín resistente a la intemperie, silla de jardín beige, silla moderna de exterior"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA475350P1"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386108197",
+      "title": "Conjunto de muebles de jardín KAWOLA MIAVA, 7 piezas, color crema",
+      "brand": "KAWOLA",
+      "model": "MIAVA",
+      "category": "jardin",
+      "description": "«El conjunto de muebles de jardín MIAVA de KAWOLA combina un diseño atemporal con una calidad duradera y crea el entorno perfecto para disfrutar de momentos de convivencia de exterior. Se integra armoniosamente en cualquier terraza, jardín o balcón espacioso y aporta un ambiente moderno y acogedor. La pieza central del conjunto es la amplia mesa de jardín LONGA. Su estructura estable, disponible en aluminio o acero, garantiza durabilidad y estabilidad, al tiempo que ofrece un peso agradablemente reducido. El tablero está fabricado en piedra sinterizada de 13 mm de grosor y mide 180 cm de ancho y 90 cm de profundidad, con una cómoda altura de 75 cm. Esta cerámica de alta gama destaca por su especial resistencia y facilidad de mantenimiento. La mesa es repelente al agua, robusta y resiste sin problemas las condiciones climáticas más diversas, lo que la hace ideal para un uso prolongado de exterior. El conjunto se completa con seis sillas de jardín MIAVA en color beige. Las sillas están fabricadas en plástico de alta calidad y destacan por su diseño limpio y moderno. El asiento ergonómico con reposabrazos integrados garantiza una gran comodidad y un aspecto elegante. Gracias a las pr…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386108197",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "En tonos crema",
+        "size": null,
+        "capacity": null,
+        "configuration": "x  x cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/51172ef0-e7bc-45ca-9d4c-deaae8911e1a_4472.jpg?v=1781212018",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F51172ef0-e7bc-45ca-9d4c-deaae8911e1a_4472.jpg%3Fv%3D1781212018&feedId=112474&k=6fc3e45271dc0f3f63f9b4b49ff6d9dc3997f21d",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/1da35e3f-6c4c-4a92-8c10-f547fc47da13_4472.jpg?v=1781212038",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/3ef96267-10b9-4edc-9a9c-c0e0584814ab_4472.jpg?v=1781211983",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/4f6c7a60-4558-4ae8-b1c0-a6b3fd663c37_4472.jpg?v=1781212018",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F51172ef0-e7bc-45ca-9d4c-deaae8911e1a_4472.jpg%3Fv%3D1781212018&feedId=112474&k=6fc3e45271dc0f3f63f9b4b49ff6d9dc3997f21d"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles de jardín > Conjuntos de muebles de jardín",
+        "awinCategory": "Sheds & Garden Furniture",
+        "awinCategoryId": "458",
+        "productType": "Muebles de jardín > Conjuntos de muebles de jardín",
+        "dimensions": "x  x cm",
+        "specifications": "Plástico,Cerámica",
+        "warranty": null,
+        "keywords": "Conjunto de comedor de exterior, juego de muebles de jardín de 7 piezas, mesa de jardín de cerámica, sillas de jardín resistentes a la intemperie, mesa de jardín de aluminio"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KAB74634671"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386108203",
+      "title": "Conjunto de muebles de jardín KAWOLA MIAVA, 7 piezas, color crema",
+      "brand": "KAWOLA",
+      "model": "MIAVA",
+      "category": "jardin",
+      "description": "«El conjunto de muebles de jardín MIAVA de KAWOLA combina un diseño atemporal con una calidad duradera y crea el entorno perfecto para disfrutar de momentos de convivencia de exterior. Se integra armoniosamente en cualquier terraza, jardín o balcón espacioso y aporta un ambiente moderno y acogedor. La pieza central del conjunto es la amplia mesa de jardín LONGA. Su estructura estable, disponible en aluminio o acero, garantiza durabilidad y estabilidad, al tiempo que ofrece un peso agradablemente reducido. El tablero está fabricado en piedra sinterizada de 13 mm de grosor y mide 180 cm de ancho y 90 cm de profundidad, con una cómoda altura de 75 cm. Esta cerámica de alta gama destaca por su especial resistencia y facilidad de mantenimiento. La mesa es repelente al agua, robusta y resiste sin problemas las condiciones climáticas más diversas, lo que la hace ideal para un uso prolongado de exterior. El conjunto se completa con seis sillas de jardín MIAVA en color beige. Las sillas están fabricadas en plástico de alta calidad y destacan por su diseño limpio y moderno. El asiento ergonómico con reposabrazos integrados garantiza una gran comodidad y un aspecto elegante. Gracias a las pr…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386108203",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "En tonos crema",
+        "size": null,
+        "capacity": null,
+        "configuration": "x  x cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/e701f37a-5855-4b47-b576-dd2d295cf7a2_4472.jpg?v=1781212011",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fe701f37a-5855-4b47-b576-dd2d295cf7a2_4472.jpg%3Fv%3D1781212011&feedId=112474&k=6ab08f2c2f10ee4501f5e0d93289a1c0610dcc67",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/f7384921-bf9c-4344-bfb5-c93364381503_4472.jpg?v=1781211982",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/c49c827e-3acd-42e9-bac5-5e4586191443_4472.jpg?v=1781211976",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/6e3eacaf-d5a5-4f09-9ea4-4196cbf41b87_4472.jpg?v=1781211962",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fe701f37a-5855-4b47-b576-dd2d295cf7a2_4472.jpg%3Fv%3D1781212011&feedId=112474&k=6ab08f2c2f10ee4501f5e0d93289a1c0610dcc67"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles de jardín > Conjuntos de muebles de jardín",
+        "awinCategory": "Sheds & Garden Furniture",
+        "awinCategoryId": "458",
+        "productType": "Muebles de jardín > Conjuntos de muebles de jardín",
+        "dimensions": "x  x cm",
+        "specifications": "Plástico,Cerámica",
+        "warranty": null,
+        "keywords": "Conjunto de comedor de exterior, juego de muebles de jardín de 7 piezas, mesa de jardín de cerámica, sillas de jardín resistentes a la intemperie, mesa de jardín de acero"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KAB74634672"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386108227",
+      "title": "Conjunto de muebles de jardín KAWOLA LUSHA, 7 piezas, acero, color turquesa",
+      "brand": "KAWOLA",
+      "model": "LUSHA",
+      "category": "jardin",
+      "description": "El conjunto de muebles de jardín LUSHA de KAWOLA combina un diseño moderno con materiales de alta calidad y crea un ambiente elegante para tu espacio de exterior. Ya sea en la terraza, en el jardín o en un balcón espacioso, este conjunto ofrece la combinación perfecta de comodidad, funcionalidad y estética contemporánea. La pieza central del conjunto es la amplia mesa de jardín LONGA. Su robusta estructura de acero lacado garantiza durabilidad y estabilidad, al tiempo que mantiene un peso agradablemente ligero. El tablero de piedra sinterizada, de 13 mm de grosor, mide 180 cm de ancho y 90 cm de profundidad, con una cómoda altura de 75 cm. Esta cerámica de alta gama destaca por su especial resistencia, facilidad de mantenimiento y repelencia al agua. La mesa resiste cualquier condición meteorológica y es ideal para un uso prolongado de exterior. El conjunto se completa con seis sillas de jardín LUSHA, que destacan por su llamativo respaldo y reposabrazos continuos con un elegante diseño de cuerda. La cuerda de poliéster de alta calidad confiere a las sillas un aspecto moderno y texturizado, al tiempo que ofrece una agradable flexibilidad. La estructura estable, fabricada en plásti…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386108227",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Turquesa",
+        "size": null,
+        "capacity": null,
+        "configuration": "x  x cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/92023941-b1ea-4c41-a3e8-1844903afec1_4472.jpg?v=1781138965",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F92023941-b1ea-4c41-a3e8-1844903afec1_4472.jpg%3Fv%3D1781138965&feedId=112474&k=faf05763295f449abab17e75c43bf5550c21b8c7",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/094d1f93-2442-4891-9f24-b7ef325d2a9a_4472.jpg?v=1781138965",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/54ec124a-43dc-424f-b108-577766fbed47_4472.jpg?v=1781138965",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/821b34be-0602-4ae3-80c6-8f9dcb837165_4472.jpg?v=1781138965",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F92023941-b1ea-4c41-a3e8-1844903afec1_4472.jpg%3Fv%3D1781138965&feedId=112474&k=faf05763295f449abab17e75c43bf5550c21b8c7"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles de jardín > Conjuntos de muebles de jardín",
+        "awinCategory": "Sheds & Garden Furniture",
+        "awinCategoryId": "458",
+        "productType": "Muebles de jardín > Conjuntos de muebles de jardín",
+        "dimensions": "x  x cm",
+        "specifications": "Cerámica,Plástico",
+        "warranty": null,
+        "keywords": "Conjunto de muebles de exterior, mesa de jardín de cerámica, mesa de jardín con estructura de acero, sillas de jardín con cojines, conjunto de comedor de jardín resistente a la intemperie"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KAB74644672"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386108234",
+      "title": "Conjunto de muebles de jardín KAWOLA LUSHA, 7 piezas, acero gris oscuro",
+      "brand": "KAWOLA",
+      "model": "LUSHA",
+      "category": "jardin",
+      "description": "El conjunto de muebles de jardín LUSHA de KAWOLA combina un diseño moderno con materiales de alta calidad y crea un ambiente elegante para tu espacio de exterior. Ya sea en la terraza, en el jardín o en un balcón espacioso, este conjunto ofrece la combinación perfecta de comodidad, funcionalidad y estética contemporánea. La pieza central del conjunto es la amplia mesa de jardín LONGA. Su robusta estructura de acero lacado garantiza durabilidad y estabilidad, al tiempo que mantiene un peso agradablemente ligero. El tablero de piedra sinterizada, de 13 mm de grosor, mide 180 cm de ancho y 90 cm de profundidad, con una cómoda altura de 75 cm. Esta cerámica de alta gama destaca por su especial resistencia, facilidad de mantenimiento y repelencia al agua. La mesa resiste cualquier condición meteorológica y es ideal para un uso prolongado de exterior. El conjunto se completa con seis sillas de jardín LUSHA, que destacan por su llamativo respaldo y reposabrazos continuos con un elegante diseño de cuerda. La cuerda de poliéster de alta calidad confiere a las sillas un aspecto moderno y texturizado, al tiempo que ofrece una agradable flexibilidad. La estructura estable, fabricada en plásti…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386108234",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Gris oscuro",
+        "size": null,
+        "capacity": null,
+        "configuration": "x  x cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/99aa65b0-8bf3-437b-bd9d-9afbf3cd90ee_4472.jpg?v=1781138964",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F99aa65b0-8bf3-437b-bd9d-9afbf3cd90ee_4472.jpg%3Fv%3D1781138964&feedId=112474&k=e11a6ce4a9f1429acaef0a61461bc0949d7a75e2",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/1be2a42b-e3e2-4a23-85d4-6c410498c1b3_4472.jpg?v=1781138964",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/ec6aaed1-51a2-411d-a3a5-e9465dd01223_4472.jpg?v=1781138965",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/e1b2d593-d013-4ce3-8df1-dea4d9d6f743_4472.jpg?v=1781138965",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F99aa65b0-8bf3-437b-bd9d-9afbf3cd90ee_4472.jpg%3Fv%3D1781138964&feedId=112474&k=e11a6ce4a9f1429acaef0a61461bc0949d7a75e2"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles de jardín > Conjuntos de muebles de jardín",
+        "awinCategory": "Sheds & Garden Furniture",
+        "awinCategoryId": "458",
+        "productType": "Muebles de jardín > Conjuntos de muebles de jardín",
+        "dimensions": "x  x cm",
+        "specifications": "Cerámica,Plástico",
+        "warranty": null,
+        "keywords": "Conjunto de muebles de exterior, mesa de jardín de cerámica, mesa de jardín con estructura de acero, sillas de jardín con cojines, conjunto de comedor de jardín resistente a la intemperie"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KAB74644673"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386108241",
+      "title": "Conjunto de muebles de jardín KAWOLA AMUR, 7 piezas, aluminio color crema",
+      "brand": "KAWOLA",
+      "model": "AMUR",
+      "category": "jardin",
+      "description": "El conjunto de muebles de jardín AMUR de KAWOLA combina un diseño moderno, materiales de alta calidad y el máximo confort en una solución elegante para tu espacio de exterior. Ya sea en la terraza, en el jardín o en un balcón espacioso, este conjunto crea el entorno perfecto para disfrutar de momentos de convivencia al aire libre. El elemento central es la mesa de jardín LONGA, con una estructura estable de aluminio. El amplio tablero, fabricado en piedra sinterizada de 13 mm de grosor, mide 180 cm de ancho y 90 cm de profundidad, con una cómoda altura de 75 cm. Esta cerámica de alta gama destaca por su especial resistencia, facilidad de mantenimiento y repelencia al agua. La mesa resiste cualquier condición meteorológica y es ideal para un uso prolongado de exterior. El conjunto se completa con seis sillas de jardín AMUR, que ofrecen la máxima comodidad gracias a su asiento mullido y acolchado y a sus reposabrazos integrados. La estructura de aluminio, ligera y estable, garantiza durabilidad y solidez. En el interior, la espuma de secado rápido asegura una funcionalidad óptima en exteriores. Las sillas son repelentes al agua, resistentes al moho y a las manchas, y soportan de for…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386108241",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "En tonos crema",
+        "size": null,
+        "capacity": null,
+        "configuration": "x  x cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/69dc2f77-f295-425c-9795-333140098ebc_4472.jpg?v=1781138965",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F69dc2f77-f295-425c-9795-333140098ebc_4472.jpg%3Fv%3D1781138965&feedId=112474&k=728d2170357bba658561a9eb487c66876b30217b",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/a36038f1-f654-4f67-809d-d4d4acae5709_4472.jpg?v=1781138965",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/e6194783-4031-48b3-b868-f257f2d77500_4472.jpg?v=1781138964",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/fece8457-0e4f-428c-a21e-a8f74101959c_4472.jpg?v=1781138965",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F69dc2f77-f295-425c-9795-333140098ebc_4472.jpg%3Fv%3D1781138965&feedId=112474&k=728d2170357bba658561a9eb487c66876b30217b"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles de jardín > Conjuntos de muebles de jardín",
+        "awinCategory": "Sheds & Garden Furniture",
+        "awinCategoryId": "458",
+        "productType": "Muebles de jardín > Conjuntos de muebles de jardín",
+        "dimensions": "x  x cm",
+        "specifications": "Tejidos planos,Cerámica",
+        "warranty": null,
+        "keywords": "Conjunto de comedor de exterior, juego de muebles de jardín de aluminio, mesa de jardín de cerámica, sillas de jardín tapizadas, muebles de terraza resistentes a la intemperie"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KAB74654671"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386108258",
+      "title": "Conjunto de muebles de jardín KAWOLA AMUR, 7 piezas, aluminio gris",
+      "brand": "KAWOLA",
+      "model": "AMUR",
+      "category": "jardin",
+      "description": "El conjunto de muebles de jardín AMUR de KAWOLA combina un diseño moderno, materiales de alta calidad y el máximo confort en una solución elegante para tu espacio de exterior. Ya sea en la terraza, en el jardín o en un balcón espacioso, este conjunto crea el entorno perfecto para disfrutar de momentos de convivencia al aire libre. El elemento central es la mesa de jardín LONGA, con una estructura estable de aluminio. El amplio tablero, fabricado en piedra sinterizada de 13 mm de grosor, mide 180 cm de ancho y 90 cm de profundidad, con una cómoda altura de 75 cm. Esta cerámica de alta gama destaca por su especial resistencia, facilidad de mantenimiento y repelencia al agua. La mesa resiste cualquier condición meteorológica y es ideal para un uso prolongado de exterior. El conjunto se completa con seis sillas de jardín AMUR, que ofrecen la máxima comodidad gracias a su asiento mullido y acolchado y a sus reposabrazos integrados. La estructura de aluminio, ligera y estable, garantiza durabilidad y solidez. En el interior, la espuma de secado rápido asegura una funcionalidad óptima en exteriores. Las sillas son repelentes al agua, resistentes al moho y a las manchas, y soportan de for…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386108258",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Gris",
+        "size": null,
+        "capacity": null,
+        "configuration": "x  x cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/09d6346e-90db-484c-a67f-ec1384a8c4c5_4472.jpg?v=1781138965",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F09d6346e-90db-484c-a67f-ec1384a8c4c5_4472.jpg%3Fv%3D1781138965&feedId=112474&k=afcd117588817b79db73bbae9ae80a48b508402b",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/bd92dfb3-8727-4db9-9017-f62552eb9096_4472.jpg?v=1781138965",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/ef45caed-5543-4025-b25b-7abba2f6ea2a_4472.jpg?v=1781138966",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/e9a6d774-c1e6-49bf-9a3e-e18179ac146a_4472.jpg?v=1781138964",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F09d6346e-90db-484c-a67f-ec1384a8c4c5_4472.jpg%3Fv%3D1781138965&feedId=112474&k=afcd117588817b79db73bbae9ae80a48b508402b"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles de jardín > Conjuntos de muebles de jardín",
+        "awinCategory": "Sheds & Garden Furniture",
+        "awinCategoryId": "458",
+        "productType": "Muebles de jardín > Conjuntos de muebles de jardín",
+        "dimensions": "x  x cm",
+        "specifications": "Tejidos planos,Cerámica",
+        "warranty": null,
+        "keywords": "Conjunto de comedor de exterior, juego de muebles de jardín de aluminio, mesa de jardín de cerámica, sillas de jardín tapizadas, muebles de terraza resistentes a la intemperie"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KAB74654672"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386108265",
+      "title": "Conjunto de muebles de jardín KAWOLA INDUS, 7 piezas, aluminio color crema",
+      "brand": "KAWOLA",
+      "model": "INDUS",
+      "category": "jardin",
+      "description": "El conjunto de muebles de jardín INDUS de KAWOLA combina un diseño moderno con materiales resistentes y crea un acogedor punto central para tu espacio de exterior. Ya sea en la terraza, en el jardín o en un balcón amplio, este conjunto ofrece un amplio espacio, una gran comodidad al sentarse y un acabado de alta calidad para disfrutar de horas de relax de exterior. El conjunto incluye la mesa de jardín LONGA, con una estructura estable de aluminio. El tablero, de piedra sinterizada de 13 mm de grosor, mide 180 cm de ancho y 90 cm de profundidad, con una cómoda altura de 75 cm. Esta cerámica de alta gama destaca por su especial resistencia, su fácil mantenimiento y su repelencia al agua. La mesa resiste cualquier condición meteorológica y es ideal para un uso prolongado de exterior. El conjunto se completa con seis sillas de jardín INDUS, que ofrecen la máxima comodidad gracias a su asiento acolchado. La estructura de aluminio, ligera y estable, garantiza durabilidad y estabilidad. En su interior, la espuma de secado rápido asegura una funcionalidad óptima en exteriores. Las sillas son repelentes al agua, resistentes al moho y a las manchas, y soportan de forma fiable las condicion…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386108265",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "En tonos crema",
+        "size": null,
+        "capacity": null,
+        "configuration": "x  x cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/6bae8d78-6ad1-45d6-a2f4-612ddeb049d8_4472.jpg?v=1781138965",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F6bae8d78-6ad1-45d6-a2f4-612ddeb049d8_4472.jpg%3Fv%3D1781138965&feedId=112474&k=02307c87f36361da80bb789192279c2162275754",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/2f531480-a53d-483d-a832-620ed28630d6_4472.jpg?v=1781138965",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/a0d3eff8-63e4-4818-819c-964962c64ad2_4472.jpg?v=1781138964",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/087d9043-c02d-4167-a886-6b24f8bf2e38_4472.jpg?v=1781138965",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F6bae8d78-6ad1-45d6-a2f4-612ddeb049d8_4472.jpg%3Fv%3D1781138965&feedId=112474&k=02307c87f36361da80bb789192279c2162275754"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles de jardín > Conjuntos de muebles de jardín",
+        "awinCategory": "Sheds & Garden Furniture",
+        "awinCategoryId": "458",
+        "productType": "Muebles de jardín > Conjuntos de muebles de jardín",
+        "dimensions": "x  x cm",
+        "specifications": "Tejidos planos,Cerámica",
+        "warranty": null,
+        "keywords": "Conjunto de muebles de exterior, juego de muebles de jardín de 7 piezas, mesa de jardín de aluminio, sillas de jardín resistentes a la intemperie, conjunto de comedor moderno para jardín"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KAB74664671"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386108272",
+      "title": "Conjunto de muebles de jardín KAWOLA INDUS, 7 piezas, aluminio gris",
+      "brand": "KAWOLA",
+      "model": "INDUS",
+      "category": "jardin",
+      "description": "El conjunto de muebles de jardín INDUS de KAWOLA combina un diseño moderno con materiales resistentes y crea un acogedor punto central para tu espacio de exterior. Ya sea en la terraza, en el jardín o en un balcón amplio, este conjunto ofrece un amplio espacio, una gran comodidad al sentarse y un acabado de alta calidad para disfrutar de horas de relax de exterior. El conjunto incluye la mesa de jardín LONGA, con una estructura estable de aluminio. El tablero, de piedra sinterizada de 13 mm de grosor, mide 180 cm de ancho y 90 cm de profundidad, con una cómoda altura de 75 cm. Esta cerámica de alta gama destaca por su especial resistencia, su fácil mantenimiento y su repelencia al agua. La mesa resiste cualquier condición meteorológica y es ideal para un uso prolongado de exterior. El conjunto se completa con seis sillas de jardín INDUS, que ofrecen la máxima comodidad gracias a su asiento acolchado. La estructura de aluminio, ligera y estable, garantiza durabilidad y estabilidad. En su interior, la espuma de secado rápido asegura una funcionalidad óptima en exteriores. Las sillas son repelentes al agua, resistentes al moho y a las manchas, y soportan de forma fiable las condicion…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386108272",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Gris",
+        "size": null,
+        "capacity": null,
+        "configuration": "x  x cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/e89830f5-2a7b-489c-9ddb-6fd40f6680f3_4472.jpg?v=1781138964",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fe89830f5-2a7b-489c-9ddb-6fd40f6680f3_4472.jpg%3Fv%3D1781138964&feedId=112474&k=449fe3e835c4af12a60fff2a5d8232e3c3303d6e",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/b4972feb-ac59-4535-a3cb-81f635c2e415_4472.jpg?v=1781138965",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/0ad0410f-7d07-4e88-b94f-07694263fa82_4472.jpg?v=1781138964",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/765696c1-cc71-43f4-806d-1a2fabb28e2b_4472.jpg?v=1781138965",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fe89830f5-2a7b-489c-9ddb-6fd40f6680f3_4472.jpg%3Fv%3D1781138964&feedId=112474&k=449fe3e835c4af12a60fff2a5d8232e3c3303d6e"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles de jardín > Conjuntos de muebles de jardín",
+        "awinCategory": "Sheds & Garden Furniture",
+        "awinCategoryId": "458",
+        "productType": "Muebles de jardín > Conjuntos de muebles de jardín",
+        "dimensions": "x  x cm",
+        "specifications": "Tejidos planos,Cerámica",
+        "warranty": null,
+        "keywords": "Conjunto de muebles de exterior, juego de muebles de jardín de 7 piezas, mesa de jardín de aluminio, sillas de jardín resistentes a la intemperie, conjunto de comedor moderno para jardín"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KAB74664672"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386108678",
+      "title": "Silla de comedor KAWOLA LYSSIA, silla giratoria con tapizado de tela verde",
+      "brand": "KAWOLA",
+      "model": "LYSSIA",
+      "category": "sillas-y-sillones",
+      "description": "La silla de comedor LYSSIA de KAWOLA combina un diseño moderno, combinaciones de materiales excepcionales y una gran comodidad de asiento para crear un conjunto elegante. El asiento y la parte interior del respaldo están tapizados con un tejido similar al terciopelo que, gracias a su delicada superficie, resulta agradablemente suave y presenta un aspecto elegante y ligeramente mate. Su tacto recuerda al suave terciopelo y garantiza una sensación de comodidad especial al sentarse. En contraste con ello, destaca el tejido exterior texturizado del respaldo y el borde del asiento: un llamativo tejido bouclé de trama más gruesa con un vivo efecto jaspeado, que aporta profundidad y carácter a la silla. Los diferentes grosores del hilo crean una superficie interesante, ligeramente en relieve, con una textura agradable. El cómodo acolchado de espuma, en combinación con el respaldo especialmente flexible que reacciona suavemente a los movimientos, garantiza un alto nivel de comodidad al sentarse. La base negra de cuatro patas, de acero con recubrimiento en polvo, crea un contraste moderno con los suaves tejidos y garantiza la estabilidad. Además, la base gira 360° y está equipada con una p…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386108678",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Verde",
+        "size": null,
+        "capacity": null,
+        "configuration": "65.0 x 49.0 x 86.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/31a50f02-9c23-49fb-a6c7-356af709e1a9_4472.jpg?v=1781815162",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F31a50f02-9c23-49fb-a6c7-356af709e1a9_4472.jpg%3Fv%3D1781815162&feedId=112474&k=dab82e62dd5bf02a64a35f4cd28ee660453c8bcb",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/1b91d922-bb77-4834-81d4-2b70882974d2_4472.jpg?v=1781815162",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/ea61448b-cd3a-45fe-997b-c584bb966775_4472.jpg?v=1781815162",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/956fac1d-4d38-4279-abfe-c388d2b2d308_4472.jpg?v=1781815161",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F31a50f02-9c23-49fb-a6c7-356af709e1a9_4472.jpg%3Fv%3D1781815162&feedId=112474&k=dab82e62dd5bf02a64a35f4cd28ee660453c8bcb"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sillas > Sillas de comedor",
+        "awinCategory": "Chairs",
+        "awinCategoryId": "448",
+        "productType": "Muebles > Sillas > Sillas de comedor",
+        "dimensions": "65.0 x 49.0 x 86.0cm",
+        "specifications": "Tejido",
+        "warranty": null,
+        "keywords": "Silla de comedor Bouclé, silla giratoria de comedor, silla con retorno automático, silla de comedor de terciopelo, silla tapizada moderna"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA469334F1"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386108685",
+      "title": "Silla de comedor KAWOLA LYSSIA, silla giratoria con tapizado de tela gris",
+      "brand": "KAWOLA",
+      "model": "LYSSIA",
+      "category": "sillas-y-sillones",
+      "description": "La silla de comedor LYSSIA de KAWOLA combina un diseño moderno, combinaciones de materiales excepcionales y una gran comodidad de asiento para crear un conjunto elegante. El asiento y la parte interior del respaldo están tapizados con un tejido similar al terciopelo que, gracias a su delicada superficie, resulta agradablemente suave y presenta un aspecto elegante y ligeramente mate. Su tacto recuerda al suave terciopelo y garantiza una sensación de comodidad especial al sentarse. En contraste con ello, destaca el tejido exterior texturizado del respaldo y el borde del asiento: un llamativo tejido bouclé de trama más gruesa con un vivo efecto jaspeado, que aporta profundidad y carácter a la silla. Los diferentes grosores del hilo crean una superficie interesante, ligeramente en relieve, con una textura agradable. El cómodo acolchado de espuma, en combinación con el respaldo especialmente flexible que reacciona suavemente a los movimientos, garantiza un alto nivel de comodidad al sentarse. La base negra de cuatro patas, de acero con recubrimiento en polvo, crea un contraste moderno con los suaves tejidos y garantiza la estabilidad. Además, la base gira 360° y está equipada con una p…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386108685",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Gris",
+        "size": null,
+        "capacity": null,
+        "configuration": "65.0 x 49.0 x 86.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/baa8e85e-6659-4297-8f68-4a145575dcde_4472.jpg?v=1781815162",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fbaa8e85e-6659-4297-8f68-4a145575dcde_4472.jpg%3Fv%3D1781815162&feedId=112474&k=9743d7d0c42cd9cf45f5c9bcaec65ce30884d5a6",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/98f80364-bff5-479a-a31d-8b1ad77bdb83_4472.jpg?v=1781815161",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/c1a71459-88c6-43a5-9092-ba683499bac9_4472.jpg?v=1781815162",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/fd0a49b0-7623-4192-9aae-8ffd8d272ece_4472.jpg?v=1781815162",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fbaa8e85e-6659-4297-8f68-4a145575dcde_4472.jpg%3Fv%3D1781815162&feedId=112474&k=9743d7d0c42cd9cf45f5c9bcaec65ce30884d5a6"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sillas > Sillas de comedor",
+        "awinCategory": "Chairs",
+        "awinCategoryId": "448",
+        "productType": "Muebles > Sillas > Sillas de comedor",
+        "dimensions": "65.0 x 49.0 x 86.0cm",
+        "specifications": "Tejido",
+        "warranty": null,
+        "keywords": "Silla de comedor Bouclé, silla giratoria de comedor, silla con retorno automático, silla de comedor de terciopelo, silla tapizada moderna"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA469335F1"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386108692",
+      "title": "Silla de comedor KAWOLA EDENIA, silla giratoria con tapizado de tela verde",
+      "brand": "KAWOLA",
+      "model": "EDENIA",
+      "category": "sillas-y-sillones",
+      "description": "La silla de comedor EDENIA de KAWOLA combina un diseño moderno, una gran comodidad y sofisticadas combinaciones de materiales, lo que la convierte en un elemento llamativo y elegante para el comedor. Destaca por la interesante mezcla de diferentes tejidos de tapizado en la parte delantera y trasera, lo que le confiere un aspecto especialmente lujoso y moderno. Las partes interiores del asiento y el respaldo están tapizadas con un tejido suave, similar al terciopelo, que, gracias a su superficie lisa y su agradable tacto, proporciona una sensación de comodidad excepcional al sentarse. Por su parte, las partes exteriores y los reposabrazos destacan por un llamativo tejido bouclé con un vivo efecto jaspeado. La superficie texturizada aporta a la silla profundidad, carácter y un aspecto moderno y acogedor. La generosa forma de la carcasa del asiento, con dos reposabrazos integrados, junto con el cómodo acolchado de espuma, garantiza un alto nivel de comodidad. Además, el respaldo flexible ofrece una agradable sensación al sentarse, ya que reacciona suavemente a los movimientos. La delicada estructura de cuatro patas, de acero con recubrimiento en polvo negro, crea un elegante contrast…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386108692",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Verde",
+        "size": null,
+        "capacity": null,
+        "configuration": "65.0 x 60.0 x 86.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/20700ee0-5598-4fb7-9acb-a21d4dd5af10_4472.jpg?v=1781815161",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F20700ee0-5598-4fb7-9acb-a21d4dd5af10_4472.jpg%3Fv%3D1781815161&feedId=112474&k=1719d3c96f40bdea0313b7f78527dc00acc86969",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/5278d183-ac24-4184-b06d-ee981a7c7676_4472.jpg?v=1781815162",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/7d6f7052-d7cb-4d8e-a2fd-e0e13736945b_4472.jpg?v=1781815161",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/17fba662-0047-4a6f-b280-f587a9309691_4472.jpg?v=1781815162",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F20700ee0-5598-4fb7-9acb-a21d4dd5af10_4472.jpg%3Fv%3D1781815161&feedId=112474&k=1719d3c96f40bdea0313b7f78527dc00acc86969"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sillas > Sillas de comedor",
+        "awinCategory": "Chairs",
+        "awinCategoryId": "448",
+        "productType": "Muebles > Sillas > Sillas de comedor",
+        "dimensions": "65.0 x 60.0 x 86.0cm",
+        "specifications": "Tejido",
+        "warranty": null,
+        "keywords": "Silla de comedor con reposabrazos, silla giratoria de comedor, silla de comedor de bouclé, silla de comedor de terciopelo, silla tapizada moderna"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA470334F1"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386108708",
+      "title": "Silla de comedor KAWOLA EDENIA, silla giratoria con tapizado en tela gris",
+      "brand": "KAWOLA",
+      "model": "EDENIA",
+      "category": "sillas-y-sillones",
+      "description": "La silla de comedor EDENIA de KAWOLA combina un diseño moderno, una gran comodidad y sofisticadas combinaciones de materiales, lo que la convierte en un elemento llamativo y elegante para el comedor. Destaca por la interesante mezcla de diferentes tejidos de tapizado en la parte delantera y trasera, lo que le confiere un aspecto especialmente lujoso y moderno. Las partes interiores del asiento y el respaldo están tapizadas con un tejido suave, similar al terciopelo, que, gracias a su superficie lisa y su agradable tacto, proporciona una sensación de comodidad excepcional al sentarse. Por su parte, las partes exteriores y los reposabrazos destacan por un llamativo tejido bouclé con un vivo efecto jaspeado. La superficie texturizada aporta a la silla profundidad, carácter y un aspecto moderno y acogedor. La generosa forma de la carcasa del asiento, con dos reposabrazos integrados, junto con el cómodo acolchado de espuma, garantiza un alto nivel de comodidad. Además, el respaldo flexible ofrece una agradable sensación al sentarse, ya que reacciona suavemente a los movimientos. La delicada estructura de cuatro patas, de acero con recubrimiento en polvo negro, crea un elegante contrast…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386108708",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Gris",
+        "size": null,
+        "capacity": null,
+        "configuration": "65.0 x 60.0 x 86.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/efd84ff5-e10c-4797-8262-141869a63f48_4472.jpg?v=1781815162",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fefd84ff5-e10c-4797-8262-141869a63f48_4472.jpg%3Fv%3D1781815162&feedId=112474&k=6b7febadcba3c40604ff76d1e1a3be5704baf85f",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/88d282f4-f76a-4155-9cf6-68f521070ad6_4472.jpg?v=1781815162",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/b8d17d71-d3f2-4441-b659-84c6cda97282_4472.jpg?v=1781815162",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/53a6c4b3-df19-47c1-85aa-dc5cbcb67fb2_4472.jpg?v=1781815162",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fefd84ff5-e10c-4797-8262-141869a63f48_4472.jpg%3Fv%3D1781815162&feedId=112474&k=6b7febadcba3c40604ff76d1e1a3be5704baf85f"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sillas > Sillas de comedor",
+        "awinCategory": "Chairs",
+        "awinCategoryId": "448",
+        "productType": "Muebles > Sillas > Sillas de comedor",
+        "dimensions": "65.0 x 60.0 x 86.0cm",
+        "specifications": "Tejido",
+        "warranty": null,
+        "keywords": "Silla de comedor con reposabrazos, silla giratoria de comedor, silla de comedor de bouclé, silla de comedor de terciopelo, silla tapizada moderna"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA470335F1"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386108715",
+      "title": "KAWOLA Taburete de bar LILIANA Taburete giratorio de tela verde",
+      "brand": "KAWOLA",
+      "model": "LILIANA",
+      "category": "sillas-y-sillones",
+      "description": "La silla de bar LILIANA de KAWOLA combina un diseño moderno con una gran comodidad y una elegante mezcla de materiales. Destaca especialmente la combinación de diferentes tejidos de tapizado en la parte delantera y trasera, lo que le confiere a la silla un aspecto elegante y, al mismo tiempo, acogedor. El asiento y la parte interior del respaldo están tapizados con un tejido suave, similar al terciopelo, que destaca por su superficie lisa y su agradable tacto. La parte exterior del respaldo y el borde del asiento aportan toques de estilo gracias a un llamativo tejido bouclé. La superficie, con una textura viva, confiere un aspecto moderno y aporta a la silla de bar un carácter especialmente lujoso. El cómodo acolchado de espuma, en combinación con el respaldo de diseño flexible que reacciona suavemente a los movimientos, garantiza una gran comodidad al sentarse. La estructura negra de acero con recubrimiento en polvo realza el aspecto moderno y, al mismo tiempo, ofrece estabilidad. Especialmente práctico: la estructura gira 360° y está equipada con una función de retorno automático, de modo que la silla vuelve automáticamente a su posición inicial. Además, la silla de bar es regul…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386108715",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Verde",
+        "size": null,
+        "capacity": null,
+        "configuration": "61.0 x 46.0 x 91.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/23cddb30-4407-4cbe-b836-527d9d386a52_4472.jpg?v=1781815161",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F23cddb30-4407-4cbe-b836-527d9d386a52_4472.jpg%3Fv%3D1781815161&feedId=112474&k=32b5813e5ffb1d2037f85ab26b72408265fa4c69",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/1dbfb68f-b798-4bbd-bbed-d1adf56d1141_4472.jpg?v=1781815162",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/bb8980d9-66c0-486e-b509-a31db0bdb4a3_4472.jpg?v=1781815162",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/0b35a120-2138-4f42-ab8c-2ec4be03687a_4472.jpg?v=1781815161",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F23cddb30-4407-4cbe-b836-527d9d386a52_4472.jpg%3Fv%3D1781815161&feedId=112474&k=32b5813e5ffb1d2037f85ab26b72408265fa4c69"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Taburetes > Taburetes y sillas de bar",
+        "awinCategory": "Chairs",
+        "awinCategoryId": "448",
+        "productType": "Muebles > Taburetes > Taburetes y sillas de bar",
+        "dimensions": "61.0 x 46.0 x 91.0cm",
+        "specifications": "Tejido",
+        "warranty": null,
+        "keywords": "Silla de bar Bouclé, silla de bar giratoria, taburete de bar regulable en altura, silla de bar con retorno automático, silla de bar tapizada moderna"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA471324F1"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386108722",
+      "title": "KAWOLA Taburete de bar LILIANA Taburete giratorio de tela gris",
+      "brand": "KAWOLA",
+      "model": "LILIANA",
+      "category": "sillas-y-sillones",
+      "description": "La silla de bar LILIANA de KAWOLA combina un diseño moderno con una gran comodidad y una elegante mezcla de materiales. Destaca especialmente la combinación de diferentes tejidos de tapizado en la parte delantera y trasera, lo que le confiere a la silla un aspecto elegante y, al mismo tiempo, acogedor. El asiento y la parte interior del respaldo están tapizados con un tejido suave, similar al terciopelo, que destaca por su superficie lisa y su agradable tacto. La parte exterior del respaldo y el borde del asiento aportan toques de estilo gracias a un llamativo tejido bouclé. La superficie, con una textura viva, confiere un aspecto moderno y aporta a la silla de bar un carácter especialmente lujoso. El cómodo acolchado de espuma, en combinación con el respaldo de diseño flexible que reacciona suavemente a los movimientos, garantiza una gran comodidad al sentarse. La estructura negra de acero con recubrimiento en polvo realza el aspecto moderno y, al mismo tiempo, ofrece estabilidad. Especialmente práctico: la estructura gira 360° y está equipada con una función de retorno automático, de modo que la silla vuelve automáticamente a su posición inicial. Además, la silla de bar es regul…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386108722",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Gris",
+        "size": null,
+        "capacity": null,
+        "configuration": "61.0 x 46.0 x 91.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/fd3a2b1d-d110-4474-9974-7d5cfe112866_4472.jpg?v=1781815162",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Ffd3a2b1d-d110-4474-9974-7d5cfe112866_4472.jpg%3Fv%3D1781815162&feedId=112474&k=312270286fe032f7d915fec1c66b185d16c1056b",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/9638437e-41a3-44f1-b7de-293a3b361443_4472.jpg?v=1781815162",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/840b8b47-9b6d-4517-971c-2795e97ec25c_4472.jpg?v=1781815163",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/b5d96bae-1077-428e-9dc5-1ea7a8ad56e4_4472.jpg?v=1781815162",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Ffd3a2b1d-d110-4474-9974-7d5cfe112866_4472.jpg%3Fv%3D1781815162&feedId=112474&k=312270286fe032f7d915fec1c66b185d16c1056b"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Taburetes > Taburetes y sillas de bar",
+        "awinCategory": "Chairs",
+        "awinCategoryId": "448",
+        "productType": "Muebles > Taburetes > Taburetes y sillas de bar",
+        "dimensions": "61.0 x 46.0 x 91.0cm",
+        "specifications": "Tejido",
+        "warranty": null,
+        "keywords": "Silla de bar Bouclé, silla de bar giratoria, taburete de bar regulable en altura, silla de bar con retorno automático, silla de bar tapizada moderna"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA471325F1"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386108739",
+      "title": "Silla de comedor KAWOLA ARELLA, tapizada en tela blanco crema",
+      "brand": "KAWOLA",
+      "model": "ARELLA",
+      "category": "sillas-y-sillones",
+      "description": "La silla de comedor ARELLA de KAWOLA cautiva por su extraordinario lenguaje de formas y su diseño moderno y de aspecto suave. El respaldo, con sus armoniosas curvas y reposabrazos integrados, confiere a la silla una silueta elegante y, al mismo tiempo, garantiza una gran comodidad al sentarse. Gracias a sus líneas suavemente redondeadas, ARELLA resulta moderna, acogedora y elegante a la vez. El tapizado destaca por una superficie de tejido finamente texturizada que recuerda visualmente a una chenilla de alta calidad o a un tejido con relieve. La estructura de tejido ligeramente irregular aporta un aspecto vivo y confiere al tejido un aire agradable y acogedor. Al mismo tiempo, la superficie resulta suave y agradable al tacto, lo que subraya el carácter confortable de la silla. El cómodo acolchado de espuma garantiza un alto nivel de comodidad al sentarse, ya que proporciona un acolchado agradablemente suave al asiento, el respaldo y los reposabrazos. La delicada estructura de acero con recubrimiento en polvo crea un contraste moderno con las formas suaves y, al mismo tiempo, garantiza estabilidad y solidez. Con su diseño expresivo, sus suaves curvas y la elegante combinación de ma…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386108739",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Blanco crema",
+        "size": null,
+        "capacity": null,
+        "configuration": "63.0 x 63.0 x 83.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/fdcb6103-7f14-4cba-b970-174db3241809_4472.jpg?v=1781815162",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Ffdcb6103-7f14-4cba-b970-174db3241809_4472.jpg%3Fv%3D1781815162&feedId=112474&k=38a64f4ae95f7a0af044c16955ccdad908911b10",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/0c4411c0-c355-4579-aba5-23343d3228ee_4472.jpg?v=1781815162",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/5cb02f47-05cf-476f-837f-e89bd05fe305_4472.jpg?v=1781815161",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/7f899d5e-7ff8-452a-9c71-0756b268b30a_4472.jpg?v=1781815161",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Ffdcb6103-7f14-4cba-b970-174db3241809_4472.jpg%3Fv%3D1781815162&feedId=112474&k=38a64f4ae95f7a0af044c16955ccdad908911b10"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sillas > Sillas de comedor",
+        "awinCategory": "Chairs",
+        "awinCategoryId": "448",
+        "productType": "Muebles > Sillas > Sillas de comedor",
+        "dimensions": "63.0 x 63.0 x 83.0cm",
+        "specifications": "Tejido plano",
+        "warranty": null,
+        "keywords": "Silla de comedor con reposabrazos, silla de comedor de diseño, silla tapizada moderna, silla de comedor de tela, silla con estructura de acero"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA472330F1"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386108746",
+      "title": "Silla de comedor KAWOLA ARELLA, tela verde",
+      "brand": "KAWOLA",
+      "model": "ARELLA",
+      "category": "sillas-y-sillones",
+      "description": "La silla de comedor ARELLA de KAWOLA cautiva por su extraordinario lenguaje de formas y su diseño moderno y de aspecto suave. El respaldo, con sus armoniosas curvas y reposabrazos integrados, confiere a la silla una silueta elegante y, al mismo tiempo, garantiza una gran comodidad al sentarse. Gracias a sus líneas suavemente redondeadas, ARELLA resulta moderna, acogedora y elegante a la vez. El tapizado destaca por una superficie de tejido finamente texturizada que recuerda visualmente a una chenilla de alta calidad o a un tejido con relieve. La estructura de tejido ligeramente irregular aporta un aspecto vivo y confiere al tejido un aire agradable y acogedor. Al mismo tiempo, la superficie resulta suave y agradable al tacto, lo que subraya el carácter confortable de la silla. El cómodo acolchado de espuma garantiza un alto nivel de comodidad al sentarse, ya que proporciona un acolchado agradablemente suave al asiento, el respaldo y los reposabrazos. La delicada estructura de acero con recubrimiento en polvo crea un contraste moderno con las formas suaves y, al mismo tiempo, garantiza estabilidad y solidez. Con su diseño expresivo, sus suaves curvas y la elegante combinación de ma…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386108746",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Verde",
+        "size": null,
+        "capacity": null,
+        "configuration": "63.0 x 63.0 x 83.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/e386fd48-a2e4-4cd7-a681-c401de8d2f1d_4472.jpg?v=1781815161",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fe386fd48-a2e4-4cd7-a681-c401de8d2f1d_4472.jpg%3Fv%3D1781815161&feedId=112474&k=7dbc2b1e455f9f02af03630c98518dc9755a1906",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/f7600379-f183-426a-9b8f-89f3de177b97_4472.jpg?v=1781815162",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/a024375f-380a-4655-89c9-b4f0dca3957e_4472.jpg?v=1781815162",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/3e80bc66-a9ea-4a32-8b8c-9ba1f12a32dc_4472.jpg?v=1781815161",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2Fe386fd48-a2e4-4cd7-a681-c401de8d2f1d_4472.jpg%3Fv%3D1781815161&feedId=112474&k=7dbc2b1e455f9f02af03630c98518dc9755a1906"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sillas > Sillas de comedor",
+        "awinCategory": "Chairs",
+        "awinCategoryId": "448",
+        "productType": "Muebles > Sillas > Sillas de comedor",
+        "dimensions": "63.0 x 63.0 x 83.0cm",
+        "specifications": "Tejido plano",
+        "warranty": null,
+        "keywords": "Silla de comedor con reposabrazos, silla de comedor de diseño, silla tapizada moderna, silla de comedor de tela, silla con estructura de acero"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA472334F1"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386108753",
+      "title": "Silla de comedor KAWOLA ELARIA, tela gris claro",
+      "brand": "KAWOLA",
+      "model": "ELARIA",
+      "category": "sillas-y-sillones",
+      "description": "La silla de comedor ELARIA de KAWOLA combina un diseño moderno con un acabado textil excepcional y una gran comodidad de asiento. Resulta especialmente característica la interesante combinación de diferentes tejidos de tapizado en la parte delantera y trasera, lo que confiere a la silla un aspecto exclusivo y elegante. La parte interior del asiento está tapizada con un llamativo tejido texturizado que llama la atención de inmediato por su estampado abstracto de aspecto orgánico. La superficie, ligeramente en relieve, proporciona un tacto interesante y confiere al tejido un carácter moderno, casi artístico. Al mismo tiempo, el tejido resulta agradablemente suave y acogedor. La parte exterior contrasta deliberadamente con un tejido más sobrio, de tacto aterciopelado, creando un elegante contraste con la llamativa parte delantera. La carcasa del asiento, suavemente acolchada y con cómodos reposabrazos, garantiza una gran comodidad gracias a su agradable relleno de espuma. La delicada estructura de acero con recubrimiento en polvo negro complementa el expresivo diseño con un aspecto moderno y de líneas rectas, al tiempo que garantiza estabilidad y solidez. Con su extraordinaria combin…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386108753",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Gris claro",
+        "size": null,
+        "capacity": null,
+        "configuration": "65.0 x 60.0 x 80.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/39804043-c410-48b7-9a4f-b74743d3b0b6_4472.jpg?v=1781815162",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F39804043-c410-48b7-9a4f-b74743d3b0b6_4472.jpg%3Fv%3D1781815162&feedId=112474&k=6c06d208a18ff77c9ace1b40b530450ae7a797d1",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/5c0ec5e7-1bd3-43f8-9bc0-6854fcafc285_4472.jpg?v=1781815162",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/8d45fae2-9836-4099-83b8-66be6ea267c7_4472.jpg?v=1781815162",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/53da40bf-8983-4879-a545-d4998ab9f255_4472.jpg?v=1781815162",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F39804043-c410-48b7-9a4f-b74743d3b0b6_4472.jpg%3Fv%3D1781815162&feedId=112474&k=6c06d208a18ff77c9ace1b40b530450ae7a797d1"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sillas > Sillas de comedor",
+        "awinCategory": "Chairs",
+        "awinCategoryId": "448",
+        "productType": "Muebles > Sillas > Sillas de comedor",
+        "dimensions": "65.0 x 60.0 x 80.0cm",
+        "specifications": "Tejido plano",
+        "warranty": null,
+        "keywords": "Silla de comedor estampada, silla de comedor de diseño, silla tapizada con reposabrazos, silla de tejido texturizado, silla de comedor moderna"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA473335F1"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    },
+    {
+      "id": "gtin-04250386108760",
+      "title": "Silla de comedor KAWOLA ELARIA, tela verde",
+      "brand": "KAWOLA",
+      "model": "ELARIA",
+      "category": "sillas-y-sillones",
+      "description": "La silla de comedor ELARIA de KAWOLA combina un diseño moderno con un acabado textil excepcional y una gran comodidad de asiento. Resulta especialmente característica la interesante combinación de diferentes tejidos de tapizado en la parte delantera y trasera, lo que confiere a la silla un aspecto exclusivo y elegante. La parte interior del asiento está tapizada con un llamativo tejido texturizado que llama la atención de inmediato por su estampado abstracto de aspecto orgánico. La superficie, ligeramente en relieve, proporciona un tacto interesante y confiere al tejido un carácter moderno, casi artístico. Al mismo tiempo, el tejido resulta agradablemente suave y acogedor. La parte exterior contrasta deliberadamente con un tejido más sobrio, de tacto aterciopelado, creando un elegante contraste con la llamativa parte delantera. La carcasa del asiento, suavemente acolchada y con cómodos reposabrazos, garantiza una gran comodidad gracias a su agradable relleno de espuma. La delicada estructura de acero con recubrimiento en polvo negro complementa el expresivo diseño con un aspecto moderno y de líneas rectas, al tiempo que garantiza estabilidad y solidez. Con su extraordinaria combin…",
+      "shortDescription": "",
+      "identifiers": {
+        "gtin": null,
+        "ean": "4250386108760",
+        "upc": null,
+        "mpn": null
+      },
+      "variant": {
+        "color": "Verde",
+        "size": null,
+        "capacity": null,
+        "configuration": "65.0 x 60.0 x 80.0cm"
+      },
+      "condition": "new",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/2517c7e9-1d63-4d30-81ca-ae71aaa642ed_4472.jpg?v=1781815161",
+        "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F2517c7e9-1d63-4d30-81ca-ae71aaa642ed_4472.jpg%3Fv%3D1781815161&feedId=112474&k=a90ee2fdd3ac2c955fc0493588624d3c1692d1cf",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/d913fef8-e12c-403d-aeba-cd8c41b3a058_4472.jpg?v=1781815162",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/604bff04-2b5f-4374-9efd-75d39290ecd6_4472.jpg?v=1781815161",
+        "https://cdn.shopify.com/s/files/1/0934/3759/1901/files/6d169ce7-fb49-4c89-bb20-2371b07ed644_4472.jpg?v=1781815161",
+        "https://images2.productserve.com/?w=70&h=70&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0934%2F3759%2F1901%2Ffiles%2F2517c7e9-1d63-4d30-81ca-ae71aaa642ed_4472.jpg%3Fv%3D1781815161&feedId=112474&k=a90ee2fdd3ac2c955fc0493588624d3c1692d1cf"
+      ],
+      "attributes": {
+        "merchantCategory": "Muebles > Sillas > Sillas de comedor",
+        "awinCategory": "Chairs",
+        "awinCategoryId": "448",
+        "productType": "Muebles > Sillas > Sillas de comedor",
+        "dimensions": "65.0 x 60.0 x 80.0cm",
+        "specifications": "Tejido plano",
+        "warranty": null,
+        "keywords": "Silla de comedor estampada, silla de comedor de diseño, silla tapizada con reposabrazos, silla de tejido texturizado, silla de comedor moderna"
+      },
+      "sourceMerchants": [
+        "muebles-style-spain"
+      ],
+      "sourceReferences": {
+        "muebles-style-spain": "KA473334F1"
+      },
+      "sourceUpdatedAt": "2026-07-22T10:58:23.000Z"
+    }
+  ]
 }

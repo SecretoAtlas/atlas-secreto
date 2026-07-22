@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "merchantId": "muebles-style-spain",
+  "awinMerchantId": "122118",
+  "importedAt": "2026-07-22T10:58:23.000Z",
+  "sourceArchive": "122118-112474-es_ES-Muebles_Style___Datafeed_optimised.zip",
+  "sourceFile": "122118-112474-es_ES-Muebles_Style___Datafeed_optimised.csv",
+  "sourceColumns": 77,
+  "mode": "pilot",
+  "limit": 50,
+  "totals": {
+    "feedRows": 3111,
+    "examinedRows": 50,
+    "acceptedRows": 50,
+    "skippedRows": 0,
+    "productsCreated": 50,
+    "productsMatched": 0,
+    "productsUpdated": 0,
+    "offersWritten": 50,
+    "duplicateRowsCollapsed": 0,
+    "orphanProductsRemoved": 0
+  },
+  "skipReasons": {},
+  "conflictRows": [],
+  "skippedExamples": [],
+  "notes": [
+    "La coincidencia exacta usa GTIN/EAN/UPC normalizado y, como respaldo, marca + MPN.",
+    "Las filas sin identificador exacto se omiten para evitar comparaciones incorrectas."
+  ],
+  "output": {
+    "products": 50,
+    "offers": 50,
+    "merchantOffersReplaced": 0
+  }
+}
