@@ -1,4 +1,5 @@
 import { loadSecretShopCatalog } from "./catalog-loader.js";
+import { adaptAwinCatalogToSecretShop } from "./catalog-ui-adapter.js";
 
 const RUNTIME_URL = "./data/catalog/catalog-runtime.json";
 
@@ -19,33 +20,37 @@ export async function bootSecretShopAwinCatalog(options = {}) {
       force: options.force
     });
 
-    const prefix =
-      catalog.runtime?.eventPrefix || "secretshop:awin-catalog";
+    const prefix = catalog.runtime?.eventPrefix || "secretshop:awin-catalog";
+    const uiProducts = adaptAwinCatalogToSecretShop(catalog);
+    const publishedCatalog = { ...catalog, uiProducts };
 
     if (catalog.runtime?.publishToWindow !== false) {
-      window.SecretShopAwinCatalog = catalog;
+      window.SecretShopAwinCatalog = publishedCatalog;
+      window.CATALOG_AWIN = uiProducts;
     }
 
     dispatchCatalogEvent(
       prefix,
       catalog.enabled ? "ready" : "disabled",
-      catalog
+      publishedCatalog
     );
 
     if (catalog.runtime?.debug === true) {
-      console.info("[SecretShop] Catálogo Awin", catalog);
+      console.info("[SecretShop] Catálogo Awin", publishedCatalog);
     }
 
-    return catalog;
+    return publishedCatalog;
   } catch (error) {
     const detail = {
       status: "error",
       enabled: false,
       message: error instanceof Error ? error.message : String(error),
-      error
+      error,
+      uiProducts: []
     };
 
     window.SecretShopAwinCatalog = detail;
+    window.CATALOG_AWIN = [];
     dispatchCatalogEvent("secretshop:awin-catalog", "error", detail);
     console.error("[SecretShop] Error cargando el catálogo Awin", error);
     return detail;

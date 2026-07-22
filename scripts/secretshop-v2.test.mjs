@@ -1,0 +1,13 @@
+import fs from 'node:fs';
+import assert from 'node:assert/strict';
+const fam=JSON.parse(fs.readFileSync('data/catalog/families.json','utf8')).families;
+const offers=JSON.parse(fs.readFileSync('data/catalog/offers.json','utf8')).offers;
+const html=fs.readFileSync('index.html','utf8');
+assert.equal(fam.reduce((n,f)=>n+f.variantCount,0),3110);
+assert.ok(fam.length < 1000);
+assert.ok(fam.filter(f=>f.category==='Sofás').length < 200);
+assert.ok(fam.every(f=>f.variants.length===f.variantCount));
+assert.ok(fam.every(f=>f.variants.every(v=>v.offerId && v.affiliateUrl.includes('awin1.com'))));
+assert.equal(offers.filter(o=>o.affiliateUrl?.includes('awin1.com')).length,3110);
+for (const text of ['SecretShop V2.0','Catálogo inteligente','Ver variantes','go.html?offer=']) assert.ok(html.includes(text));
+console.log(JSON.stringify({families:fam.length,variants:3110,sofaFamilies:fam.filter(f=>f.category==='Sofás').length,awinOffers:3110,tests:'OK'},null,2));

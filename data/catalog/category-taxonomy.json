@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-07-22",
+  "categories": [
+    { "id": "featured", "label": "Destacados", "parent": null, "showOnHome": true, "order": 10 },
+    { "id": "viral", "label": "Virales", "parent": null, "showOnHome": true, "order": 20 },
+    { "id": "under-10", "label": "Menos de 10", "parent": null, "showOnHome": true, "order": 30 },
+    { "id": "technology", "label": "Tecnología", "parent": null, "showOnHome": true, "order": 40 },
+    { "id": "home", "label": "Hogar", "parent": null, "showOnHome": true, "order": 50 },
+    { "id": "home-sofas", "label": "Sofás", "parent": "Hogar", "showOnHome": false, "order": 51 },
+    { "id": "home-chairs", "label": "Sillas y sillones", "parent": "Hogar", "showOnHome": false, "order": 52 },
+    { "id": "home-benches", "label": "Bancos, pufs y reposapiés", "parent": "Hogar", "showOnHome": false, "order": 53 },
+    { "id": "home-bedroom", "label": "Camas y colchones", "parent": "Hogar", "showOnHome": false, "order": 54 },
+    { "id": "home-tables", "label": "Mesas y escritorios", "parent": "Hogar", "showOnHome": false, "order": 55 },
+    { "id": "home-storage", "label": "Almacenaje", "parent": "Hogar", "showOnHome": false, "order": 56 },
+    { "id": "home-lighting", "label": "Iluminación", "parent": "Hogar", "showOnHome": false, "order": 57 },
+    { "id": "home-textiles", "label": "Textiles y cojines", "parent": "Hogar", "showOnHome": false, "order": 58 },
+    { "id": "home-garden", "label": "Jardín y terraza", "parent": "Hogar", "showOnHome": false, "order": 59 },
+    { "id": "home-kitchen", "label": "Cocina y comedor", "parent": "Hogar", "showOnHome": false, "order": 60 },
+    { "id": "home-decor", "label": "Decoración y accesorios", "parent": "Hogar", "showOnHome": false, "order": 61 },
+    { "id": "women-fashion", "label": "Moda mujer", "parent": null, "showOnHome": true, "order": 70 },
+    { "id": "men-fashion", "label": "Moda hombre", "parent": null, "showOnHome": true, "order": 80 },
+    { "id": "women-accessories", "label": "Accesorios mujer", "parent": null, "showOnHome": true, "order": 90 },
+    { "id": "men-accessories", "label": "Accesorios hombre", "parent": null, "showOnHome": true, "order": 100 },
+    { "id": "beauty", "label": "Belleza y cuidado", "parent": null, "showOnHome": true, "order": 110 },
+    { "id": "outdoor", "label": "Aventura y viajes", "parent": null, "showOnHome": true, "order": 120 },
+    { "id": "automotive", "label": "Coche/Moto", "parent": null, "showOnHome": true, "order": 130 },
+    { "id": "vintage", "label": "Moda vintage", "parent": null, "showOnHome": true, "order": 140 }
+  ],
+  "genericRules": [
+    { "department": "Tecnología", "category": "Tecnología", "includeAny": ["electronics", "computer", "laptop", "smartphone", "mobile phone", "tablet", "television", "gaming", "informatica", "electronica", "ordenador", "portatil", "movil"] },
+    { "department": "Belleza y cuidado", "category": "Belleza y cuidado", "includeAny": ["beauty", "cosmetics", "skincare", "makeup", "perfume", "hair care", "belleza", "cosmetica", "maquillaje", "cuidado facial", "perfumeria"] },
+    { "department": "Aventura y viajes", "category": "Aventura y viajes", "includeAny": ["outdoor", "camping", "hiking", "travel", "luggage", "aventura", "senderismo", "viaje", "equipaje"] },
+    { "department": "Coche/Moto", "category": "Coche/Moto", "includeAny": ["automotive", "car accessories", "motorcycle", "coche", "automovil", "moto"] },
+    { "department": "Hogar", "category": "Hogar", "includeAny": ["home", "furniture", "garden furniture", "household", "hogar", "mueble", "decoracion", "cocina"] }
+  ]
+}

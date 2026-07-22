@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "default": {
+    "country": "ES",
+    "currency": "EUR",
+    "fallbackDepartment": "Hogar",
+    "fallbackCategory": "Hogar",
+    "descriptionMaxLength": 900,
+    "shortDescriptionMaxLength": 320,
+    "maximumImages": 6,
+    "requireExactIdentifier": true,
+    "excludeNonCommissionable": true
+  },
+  "merchants": {
+    "muebles-style-spain": {
+      "country": "ES",
+      "currency": "EUR",
+      "department": "Hogar",
+      "fallbackCategory": "Hogar",
+      "categoryRules": [
+        {
+          "category": "Jardín y terraza",
+          "includeAny": [
+            "muebles de jardin",
+            "garden furniture",
+            "sillas de jardin",
+            "mesas de jardin",
+            "conjuntos de muebles de jardin"
+          ]
+        },
+        {
+          "category": "Iluminación",
+          "includeAny": [
+            "iluminacion",
+            "lampara",
+            "lighting"
+          ]
+        },
+        {
+          "category": "Cocina y comedor",
+          "includeAny": [
+            "cocina y comedor",
+            "utensilios de cocina",
+            "articulos para servir",
+            "cuchillo",
+            "bandeja",
+            "cutlery"
+          ]
+        },
+        {
+          "category": "Textiles y cojines",
+          "includeAny": [
+            "textiles",
+            "manta",
+            "cojin",
+            "home textiles",
+            "accesorios para sofas"
+          ]
+        },
+        {
+          "category": "Sofás",
+          "includeAny": [
+            "sofa",
+            "sofas"
+          ]
+        },
+        {
+          "category": "Camas y colchones",
+          "includeAny": [
+            "cama",
+            "camas",
+            "colchon",
+            "colchones",
+            "sobrecolchon",
+            "mattress",
+            "beds",
+            "box spring"
+          ]
+        },
+        {
+          "category": "Bancos, pufs y reposapiés",
+          "includeAny": [
+            "banco",
+            "bancos",
+            "puf",
+            "pufs",
+            "reposapie",
+            "reposapies",
+            "taburete",
+            "taburetes"
+          ]
+        },
+        {
+          "category": "Sillas y sillones",
+          "includeAny": [
+            "silla",
+            "sillas",
+            "sillon",
+            "sillones",
+            "mecedora",
+            "mecedoras",
+            "divan",
+            "divanes",
+            "tumbona",
+            "tumbonas",
+            "chairs"
+          ]
+        },
+        {
+          "category": "Mesas y escritorios",
+          "includeAny": [
+            "mesa",
+            "mesas",
+            "mesita",
+            "mesitas",
+            "escritorio",
+            "escritorios",
+            "tocador",
+            "tocadores",
+            "tables"
+          ]
+        },
+        {
+          "category": "Almacenaje",
+          "includeAny": [
+            "armario",
+            "armarios",
+            "aparador",
+            "aparadores",
+            "estanteria",
+            "estanterias",
+            "vitrina",
+            "vitrinas",
+            "mueble bajo",
+            "mueble para tv",
+            "guardarropa",
+            "storage"
+          ]
+        },
+        {
+          "category": "Decoración y accesorios",
+          "includeAny": [
+            "perchero",
+            "percheros",
+            "house accessories",
+            "furniture accessories",
+            "accesorios para el hogar",
+            "accesorios para muebles"
+          ]
+        }
+      ],
+      "requireGlobalIdentifier": true
+    }
+  }
+}

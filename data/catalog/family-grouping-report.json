@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 2,
+  "report": {
+    "generatedAt": "2026-07-22T20:16:13.585417+00:00",
+    "sourceProducts": 3110,
+    "sourceOffers": 3110,
+    "families": 413,
+    "variants": 3110,
+    "hidden": 0,
+    "sofaProducts": 1620,
+    "sofaFamilies": 107,
+    "largestFamilies": [
+      {
+        "id": "fam-87fc4a29269f",
+        "title": "KAWOLA DELIA",
+        "variants": 112
+      },
+      {
+        "id": "fam-50b48b3e1cff",
+        "title": "KAWOLA NELSON",
+        "variants": 108
+      },
+      {
+        "id": "fam-8acdcd7ea500",
+        "title": "KAWOLA MADELINE",
+        "variants": 102
+      },
+      {
+        "id": "fam-cc347757aac1",
+        "title": "KAWOLA MALTA",
+        "variants": 81
+      },
+      {
+        "id": "fam-ce73c1237282",
+        "title": "KAWOLA ANNY",
+        "variants": 72
+      },
+      {
+        "id": "fam-6a79396cce44",
+        "title": "KAWOLA LETICIA",
+        "variants": 72
+      },
+      {
+        "id": "fam-8cfbf848f8d7",
+        "title": "KAWOLA ELEEN",
+        "variants": 70
+      },
+      {
+        "id": "fam-0f5bc77d2ede",
+        "title": "KAWOLA CHARME",
+        "variants": 68
+      },
+      {
+        "id": "fam-d8da1c407660",
+        "title": "KAWOLA HENRY",
+        "variants": 60
+      },
+      {
+        "id": "fam-9bbd2b8cf8d1",
+        "title": "KAWOLA NEVADA",
+        "variants": 60
+      },
+      {
+        "id": "fam-35987ea58d5c",
+        "title": "KAWOLA CHARME",
+        "variants": 55
+      },
+      {
+        "id": "fam-a0fc4f323985",
+        "title": "KAWOLA CARLO",
+        "variants": 52
+      },
+      {
+        "id": "fam-048c2817761a",
+        "title": "KAWOLA SAMU",
+        "variants": 48
+      },
+      {
+        "id": "fam-ce3db6f40505",
+        "title": "KAWOLA WIOLO SOFT",
+        "variants": 47
+      },
+      {
+        "id": "fam-9df403de82e6",
+        "title": "KAWOLA SAMU",
+        "variants": 42
+      },
+      {
+        "id": "fam-4451881bd766",
+        "title": "KAWOLA CHARME",
+        "variants": 40
+      },
+      {
+        "id": "fam-0bc358644f0c",
+        "title": "KAWOLA LAISKA",
+        "variants": 40
+      },
+      {
+        "id": "fam-4dcdc0ec2d06",
+        "title": "KAWOLA LANA",
+        "variants": 40
+      },
+      {
+        "id": "fam-22bb1daa42d6",
+        "title": "KAWOLA MADELINE",
+        "variants": 40
+      },
+      {
+        "id": "fam-d064ca648e56",
+        "title": "KAWOLA MIKA",
+        "variants": 40
+      }
+    ],
+    "policy": "B como base con selección C moderada; agrupación conservadora por marca, categoría, modelo y tipo."
+  },
+  "hiddenProducts": []
+}

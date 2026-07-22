@@ -95,3 +95,20 @@ test("solo publica merchants aprobados y calcula el precio total", () => {
   assert.equal(catalog.products[0].bestOffer.totalPrice, 105);
   assert.equal(catalog.products[0].bestOffer.merchantId, "approved");
 });
+
+test("excluye por defecto las ofertas no disponibles", () => {
+  const unavailableOffers = structuredClone(offers);
+  unavailableOffers.offers[0].availability = "out_of_stock";
+
+  const catalog = buildCatalog({
+    runtime,
+    config,
+    merchants,
+    products,
+    offers: unavailableOffers,
+    now
+  });
+
+  assert.equal(catalog.stats.products, 0);
+  assert.equal(catalog.stats.offers, 0);
+});

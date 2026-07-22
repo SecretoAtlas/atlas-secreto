@@ -189,6 +189,10 @@ export function buildCatalog({
       offer.availability
     );
 
+    if (isUnavailable && runtime.includeUnavailableOffers !== true) {
+      continue;
+    }
+
     if (
       isUnavailable &&
       ageHours !== null &&

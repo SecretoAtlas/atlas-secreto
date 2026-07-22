@@ -1,77 +1,99 @@
-# Cargador del catálogo Awin
+# Cargador y conexión visual del catálogo Awin
 
-## Estado inicial
+## Estado actual
 
-El cargador queda enlazable, pero desactivado mediante:
+El catálogo está publicado mediante:
+
+```json
+{
+  "enabled": true,
+  "autoStart": true,
+  "includeUnavailableOffers": false
+}
+```
+
+El navegador carga los JSON de `data/catalog`, valida los merchants aprobados, adapta los productos al formato visual de SecretShop y los integra con el catálogo estático existente.
+
+## Flujo de carga
+
+1. `scripts/catalog-bootstrap.js` lee `catalog-runtime.json`.
+2. `scripts/catalog-loader.js` carga `merchants.json`, `products.json` y `offers.json`.
+3. Se conservan únicamente merchants aprobados y ofertas válidas para el país/moneda activos.
+4. `scripts/catalog-ui-adapter.js` convierte el modelo normalizado al modelo de tarjetas de SecretShop.
+5. Se emite `secretshop:awin-catalog-ready` con `detail.uiProducts`.
+6. `index.html` fusiona los productos Awin con las fuentes estáticas y vuelve a renderizar tiendas, categorías, resultados e inventario.
+
+## Archivos
+
+- `data/catalog/catalog-runtime.json`: publicación, país y opciones del cargador.
+- `data/catalog/catalog-config.json`: países, matching, frescura y nombres de archivos auxiliares.
+- `data/catalog/category-taxonomy.json`: categorías y jerarquía.
+- `scripts/catalog-loader.js`: carga y filtrado del catálogo.
+- `scripts/catalog-ui-adapter.js`: adaptación de productos y ofertas a la interfaz.
+- `scripts/catalog-bootstrap.js`: arranque y eventos.
+- `scripts/catalog-loader.test.mjs`: pruebas del cargador.
+- `scripts/catalog-ui-adapter.test.mjs`: pruebas del adaptador.
+- `scripts/validate-catalog.mjs`: validación integral de JSON.
+
+## Categorías de Hogar
+
+La categoría general `Hogar` se mantiene en la portada. Sus subcategorías aparecen en el filtro como:
+
+```text
+Hogar › Sofás
+Hogar › Sillas y sillones
+Hogar › Bancos, pufs y reposapiés
+Hogar › Camas y colchones
+Hogar › Mesas y escritorios
+Hogar › Almacenaje
+Hogar › Iluminación
+Hogar › Textiles y cojines
+Hogar › Jardín y terraza
+Hogar › Cocina y comedor
+Hogar › Decoración y accesorios
+```
+
+Las subcategorías no generan secciones duplicadas en la portada; sirven para filtrar el catálogo con más precisión.
+
+## Seguridad y calidad
+
+- Solo publica merchants con estado `approved`.
+- Exige enlaces afiliados HTTPS.
+- Comprueba país y moneda.
+- Excluye por defecto ofertas agotadas, no disponibles o descatalogadas.
+- Puede marcar ofertas antiguas como `isStale` sin retirarlas inmediatamente.
+- No mezcla productos con identificadores incompatibles.
+- Calcula el precio total con transporte cuando el feed informa el coste.
+- Añade dinámicamente `Menos de 10` cuando el precio total es inferior al umbral.
+
+## Objetos y eventos disponibles
+
+```js
+window.SecretShopAwinCatalog
+window.CATALOG_AWIN
+```
+
+Eventos:
+
+```text
+secretshop:awin-catalog-disabled
+secretshop:awin-catalog-ready
+secretshop:awin-catalog-error
+```
+
+## Desactivación de emergencia
+
+Cambiar en `data/catalog/catalog-runtime.json`:
 
 ```json
 "enabled": false
 ```
 
-en `data/catalog/catalog-runtime.json`. Mientras permanezca así, no carga `merchants.json`, `products.json` ni `offers.json`, y no modifica la interfaz actual.
+El sitio conservará el catálogo estático y dejará de incorporar los productos Awin.
 
-## Archivos
-
-- `data/catalog/catalog-runtime.json`: interruptor de publicación y opciones de ejecución.
-- `scripts/catalog-loader.js`: carga, valida, filtra y agrupa productos y ofertas.
-- `scripts/catalog-bootstrap.js`: arranque seguro en navegador y eventos de estado.
-- `scripts/catalog-loader.test.mjs`: prueba automatizada del filtrado.
-- `scripts/install-catalog-loader.mjs`: añade el módulo a `index.html` sin duplicarlo.
-- `scripts/validate-catalog.mjs`: valida configuración, merchants, productos y ofertas.
-
-## Instalación en index.html
-
-Desde la raíz del repositorio:
+## Verificación
 
 ```bash
-node scripts/install-catalog-loader.mjs
-```
-
-El resultado añade antes de Cloudflare Analytics:
-
-```html
-<script type="module" src="./scripts/catalog-bootstrap.js"></script>
-```
-
-Aunque el módulo quede enlazado, el catálogo Awin continúa desactivado.
-
-## Activación después de una aprobación
-
-1. Cambiar el merchant de `pending` a `approved`.
-2. Importar y validar una muestra en `products.json` y `offers.json`.
-3. Ejecutar:
-
-```bash
+node --test scripts/catalog-loader.test.mjs scripts/catalog-ui-adapter.test.mjs
 node scripts/validate-catalog.mjs
-node --test scripts/catalog-loader.test.mjs
 ```
-
-4. Cambiar `enabled` a `true` en `catalog-runtime.json`.
-5. Publicar y comprobar el evento `secretshop:awin-catalog-ready`.
-
-## Comportamiento de seguridad
-
-- Solo incluye merchants con estado `approved`.
-- Excluye ofertas no comisionables.
-- Exige enlaces afiliados HTTPS.
-- Exige la moneda correspondiente al país.
-- Excluye productos sin identificador global o revisión manual.
-- Marca ofertas antiguas como `isStale`.
-- Retira ofertas no disponibles cuando superan el límite configurado.
-- No mezcla productos similares como si fueran el mismo artículo.
-
-## Acceso desde la interfaz
-
-Cuando se active, el catálogo queda disponible en:
-
-```js
-window.SecretShopAwinCatalog
-```
-
-y genera uno de estos eventos:
-
-- `secretshop:awin-catalog-disabled`
-- `secretshop:awin-catalog-ready`
-- `secretshop:awin-catalog-error`
-
-La conexión visual con las tarjetas actuales se realizará después de validar el primer feed aprobado.

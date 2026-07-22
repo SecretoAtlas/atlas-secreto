@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-22T20:17:55.639Z",
+  "summary": {
+    "totalOffers": 3110,
+    "validAwinTrackingLinks": 3110,
+    "invalidAffiliateLinks": 0,
+    "allOffersCommissionTracked": true,
+    "affiliateIds": [
+      "2996453"
+    ],
+    "advertiserIds": [
+      "122118"
+    ],
+    "hosts": {
+      "www.awin1.com": 3110
+    }
+  },
+  "findings": []
+}

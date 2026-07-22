@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "merchantId": "muebles-style-spain",
+  "merchantName": "Muebles Style Spain",
+  "awinMerchantId": "122118",
+  "importedAt": "2026-07-22T10:58:23.000Z",
+  "sourceArchive": "122118-112474-es_ES-Muebles_Style___Datafeed_optimised.zip",
+  "sourceFile": "122118-112474-es_ES-Muebles_Style___Datafeed_optimised.csv",
+  "sourceColumns": 77,
+  "fieldMapping": {
+    "affiliateUrl": "aw_deep_link",
+    "title": "product_name",
+    "awProductId": "aw_product_id",
+    "merchantProductId": "merchant_product_id",
+    "merchantAdvertiserId": "merchant_id",
+    "merchantName": "merchant_name",
+    "merchantImage": "merchant_image_url",
+    "largeImage": "large_image",
+    "awImage": "aw_image_url",
+    "alternateImage1": "alternate_image",
+    "alternateImage2": "alternate_image_two",
+    "alternateImage3": "alternate_image_three",
+    "alternateImage4": "alternate_image_four",
+    "merchantThumb": "merchant_thumb_url",
+    "awThumb": "aw_thumb_url",
+    "description": "description",
+    "shortDescription": "product_short_description",
+    "merchantCategory": "merchant_category",
+    "categoryName": "category_name",
+    "categoryId": "category_id",
+    "productType": "product_type",
+    "price": "search_price",
+    "storePrice": "store_price",
+    "oldPrice": "product_price_old",
+    "rrpPrice": "rrp_price",
+    "deliveryCost": "delivery_cost",
+    "landingUrl": "merchant_deep_link",
+    "currency": "currency",
+    "lastUpdated": "last_updated",
+    "displayPrice": "display_price",
+    "dataFeedId": "data_feed_id",
+    "brand": "brand_name",
+    "gtin": "product_GTIN",
+    "ean": "ean",
+    "upc": "upc",
+    "mpn": "mpn",
+    "condition": "condition",
+    "model": "product_model",
+    "color": "colour",
+    "size": null,
+    "capacity": null,
+    "dimensions": "dimensions",
+    "keywords": "keywords",
+    "specifications": "specifications",
+    "warranty": "warranty",
+    "commissionGroup": "commission_group",
+    "deliveryTime": "delivery_time",
+    "inStock": "in_stock",
+    "stockQuantity": "stock_quantity",
+    "isForSale": "is_for_sale",
+    "preOrder": "pre_order",
+    "stockStatus": "stock_status",
+    "promotionalText": "promotional_text"
+  },
+  "mode": "dry_run",
+  "limit": null,
+  "totals": {
+    "feedRows": 3111,
+    "examinedRows": 3111,
+    "acceptedRows": 3110,
+    "skippedRows": 1,
+    "productsCreated": 3060,
+    "productsMatched": 50,
+    "productsUpdated": 50,
+    "offersWritten": 3110,
+    "duplicateRowsCollapsed": 0,
+    "orphanProductsRemoved": 0
+  },
+  "matching": {
+    "gtin": 50,
+    "mpn": 0,
+    "brand_model_variant": 0
+  },
+  "categories": {
+    "Sofás": 1620,
+    "Sillas y sillones": 485,
+    "Bancos, pufs y reposapiés": 347,
+    "Camas y colchones": 275,
+    "Mesas y escritorios": 188,
+    "Almacenaje": 107,
+    "Textiles y cojines": 33,
+    "Jardín y terraza": 25,
+    "Iluminación": 25,
+    "Cocina y comedor": 5
+  },
+  "skipReasons": {
+    "missing_exact_identifier": 1
+  },
+  "conflictRows": [],
+  "skippedExamples": [
+    {
+      "rowNumber": 2269,
+      "merchantProductId": "KA110497",
+      "title": "Alfombrilla universal «Billete de 100 DÓLARES» 28 x 20 cm",
+      "reasons": [
+        "missing_exact_identifier"
+      ]
+    }
+  ],
+  "notes": [
+    "La coincidencia exacta usa GTIN/EAN/UPC, marca + MPN y, como último respaldo, marca + modelo + variante completa.",
+    "Las filas sin identificador exacto se omiten salvo que el perfil del merchant permita lo contrario.",
+    "La importación completa reemplaza únicamente las ofertas del merchant procesado."
+  ],
+  "output": {
+    "products": 3110,
+    "offers": 3110,
+    "merchantOffersReplaced": 50
+  }
+}
