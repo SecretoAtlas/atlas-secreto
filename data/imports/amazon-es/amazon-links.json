@@ -1,7 +1,1727 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-23T15:53:57.561Z",
+  "generatedAt": "2026-07-23T17:24:29.198Z",
   "associateTag": "christian0ddd-21",
-  "products": [],
+  "products": [
+    {
+      "asin": "B0GQVT73ZD",
+      "source_input": "https://www.amazon.es/Apple-iPhone-17e-256-autonom%C3%ADa/dp/B0GQVT73ZD/ref=zg_bsnr_g_electronics_d_sccl_11/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0GQVT73ZD",
+      "affiliate_url": "https://www.amazon.es/dp/B0GQVT73ZD/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0H2HZ52C8",
+      "source_input": "https://www.amazon.es/PTHTECHUS-Inteligente-Videollamada-Impermeable-Despertador/dp/B0H2HZ52C8/ref=zg_bsnr_g_electronics_d_sccl_10/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0H2HZ52C8",
+      "affiliate_url": "https://www.amazon.es/dp/B0H2HZ52C8/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0GR5ZBN8Z",
+      "source_input": "https://www.amazon.es/Samsung-Smartphone-Android-Display-Fotocamera/dp/B0GR5ZBN8Z/ref=zg_bsnr_g_electronics_d_sccl_20/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0GR5ZBN8Z",
+      "affiliate_url": "https://www.amazon.es/dp/B0GR5ZBN8Z/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0H3HPFCVR",
+      "source_input": "https://www.amazon.es/NexusGuard-C%C3%A1mara-Oculta-Vigilancia-Cables/dp/B0H3HPFCVR/ref=zg_bsnr_g_electronics_d_sccl_19/258-1924377-2537719?psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B0H3HPFCVR",
+      "affiliate_url": "https://www.amazon.es/dp/B0H3HPFCVR/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0GYDPPJ1S",
+      "source_input": "https://www.amazon.es/WityEye-Adaptador-Inal%C3%A1mbrico-Inalambrico-Bluetooth/dp/B0GYDPPJ1S/ref=zg_bsnr_g_electronics_d_sccl_5/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0GYDPPJ1S",
+      "affiliate_url": "https://www.amazon.es/dp/B0GYDPPJ1S/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0GQQ32CLP",
+      "source_input": "https://www.amazon.es/Tel%C3%A9fono-Personas-MS601-Smartphone-Whatsapp/dp/B0GQQ32CLP/ref=zg_bsnr_g_electronics_d_sccl_30/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0GQQ32CLP",
+      "affiliate_url": "https://www.amazon.es/dp/B0GQQ32CLP/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B08N5S8CB6",
+      "source_input": "https://www.amazon.es/XIAOMI-17-Ultra-Smartphone-Teleobjetivo/dp/B08N5S8CB6/ref=zg_bsnr_g_electronics_d_sccl_84/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B08N5S8CB6",
+      "affiliate_url": "https://www.amazon.es/dp/B08N5S8CB6/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0G4ZFP5NH",
+      "source_input": "https://www.amazon.es/Samsung-Galaxy-S26-Tel%C3%A9fono-Fabricante/dp/B0G4ZFP5NH/ref=zg_bsnr_g_electronics_d_sccl_89/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0G4ZFP5NH",
+      "affiliate_url": "https://www.amazon.es/dp/B0G4ZFP5NH/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0GJFC1Q9Z",
+      "source_input": "https://www.amazon.es/Hisense-40A4S-Pulgadas-Enhancer-Reducci%C3%B3n/dp/B0GJFC1Q9Z/ref=zg_bsnr_g_electronics_d_sccl_87/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0GJFC1Q9Z",
+      "affiliate_url": "https://www.amazon.es/dp/B0GJFC1Q9Z/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0H5CCF9NH",
+      "source_input": "https://www.amazon.es/Localizador-Rastreador-Magn%C3%A9tico-Compatible-Equipaje-Negro/dp/B0H5CCF9NH/ref=zg_bsnr_g_electronics_d_sccl_94/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0H5CCF9NH",
+      "affiliate_url": "https://www.amazon.es/dp/B0H5CCF9NH/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0DJGCX6Q2",
+      "source_input": "https://www.amazon.es/fire-tv-stick-hd/dp/B0DJGCX6Q2/ref=zg_bsnr_g_electronics_d_sccl_1/258-1924377-2537719?psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B0DJGCX6Q2",
+      "affiliate_url": "https://www.amazon.es/dp/B0DJGCX6Q2/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0GS67L6Y6",
+      "source_input": "https://www.amazon.es/XIAOMI-17T-Pro-Smartphone-Teleobjetivo/dp/B0GS67L6Y6/ref=zg_bsnr_g_electronics_d_sccl_2/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0GS67L6Y6",
+      "affiliate_url": "https://www.amazon.es/dp/B0GS67L6Y6/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0H38M92N1",
+      "source_input": "https://www.amazon.es/Inteligente-Smartwatch-Deportivo-Puls%C3%B3metro-Deportivos/dp/B0H38M92N1/ref=zg_bsnr_g_electronics_d_sccl_5/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0H38M92N1",
+      "affiliate_url": "https://www.amazon.es/dp/B0H38M92N1/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0GQL9JZS7",
+      "source_input": "https://www.amazon.es/XIAOMI-Inteligente-Pantalla-Monitoreo-Deportivos/dp/B0GQL9JZS7/ref=zg_bsnr_g_electronics_d_sccl_6/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0GQL9JZS7",
+      "affiliate_url": "https://www.amazon.es/dp/B0GQL9JZS7/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0H8Q5ZM2Y",
+      "source_input": "https://www.amazon.es/Inteligente-Bluetooth-Notificaciones-Smartwatch-Puls%C3%B3metro/dp/B0H8Q5ZM2Y/ref=zg_bsnr_g_electronics_d_sccl_9/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0H8Q5ZM2Y",
+      "affiliate_url": "https://www.amazon.es/dp/B0H8Q5ZM2Y/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0GTV7D8S1",
+      "source_input": "https://www.amazon.es/Metz-Televisor-Chromecast-Integrado-40MQH7000Y/dp/B0GTV7D8S1/ref=zg_bsnr_g_electronics_d_sccl_15/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0GTV7D8S1",
+      "affiliate_url": "https://www.amazon.es/dp/B0GTV7D8S1/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0GGCDV1Q1",
+      "source_input": "https://www.amazon.es/Google-Pixel-10a-actualizaciones-Funciones/dp/B0GGCDV1Q1/ref=zg_bsnr_g_electronics_d_sccl_13/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0GGCDV1Q1",
+      "affiliate_url": "https://www.amazon.es/dp/B0GGCDV1Q1/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0GTRJ4LRS",
+      "source_input": "https://www.amazon.es/LG-43NU800B6LC-Actualizable-Procesador-Reflejos/dp/B0GTRJ4LRS/ref=zg_bsnr_g_electronics_d_sccl_26/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0GTRJ4LRS",
+      "affiliate_url": "https://www.amazon.es/dp/B0GTRJ4LRS/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0GNDPWJV8",
+      "source_input": "https://www.amazon.es/Hisense-50E7S-Pulgadas-Vision-Atmos-Escalador/dp/B0GNDPWJV8/ref=zg_bsnr_g_electronics_d_sccl_27/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0GNDPWJV8",
+      "affiliate_url": "https://www.amazon.es/dp/B0GNDPWJV8/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0H11FLX7C",
+      "source_input": "https://www.amazon.es/Autom%C3%A1tico-Estabilizaci%C3%B3n-Anti-Shake-Pantalla-Abatible/dp/B0H11FLX7C/ref=zg_bsnr_g_electronics_d_sccl_35/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0H11FLX7C",
+      "affiliate_url": "https://www.amazon.es/dp/B0H11FLX7C/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0GTWC2LK8",
+      "source_input": "https://www.amazon.es/AEEZO-Pantalla-Dormitorio-Distancia-Software/dp/B0GTWC2LK8/ref=zg_bsnr_g_electronics_d_sccl_36/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0GTWC2LK8",
+      "affiliate_url": "https://www.amazon.es/dp/B0GTWC2LK8/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0GWTQGPL7",
+      "source_input": "https://www.amazon.es/Blackview-Smartwatch-Notificaci%C3%B3n-Inteligente-Puls%C3%B3metro/dp/B0GWTQGPL7/ref=zg_bsnr_g_electronics_d_sccl_40/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0GWTQGPL7",
+      "affiliate_url": "https://www.amazon.es/dp/B0GWTQGPL7/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0GVYQF9Y6",
+      "source_input": "https://www.amazon.es/Inteligente-Smartwatch-Llamada%EF%BC%9A1-27-Impermeable-Frecuencia/dp/B0GVYQF9Y6/ref=zg_bsnr_g_electronics_d_sccl_41/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0GVYQF9Y6",
+      "affiliate_url": "https://www.amazon.es/dp/B0GVYQF9Y6/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B01MRUKVOW",
+      "source_input": "https://www.amazon.es/SIMON-M%C3%BAltiple-Regleta-Enchufes-Interruptor/dp/B01MRUKVOW/ref=zg_bsnr_g_electronics_d_sccl_47/258-1924377-2537719?psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B01MRUKVOW",
+      "affiliate_url": "https://www.amazon.es/dp/B01MRUKVOW/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B00J28DI7I",
+      "source_input": "https://www.amazon.es/Joma-Combi-Camiseta-Hombre-Blanco/dp/B00J28DI7I/ref=zg_bs_g_fashion_d_sccl_1/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B00J28DI7I",
+      "affiliate_url": "https://www.amazon.es/dp/B00J28DI7I/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B07FJ78GBC",
+      "source_input": "https://www.amazon.es/Adidas-Adilette-Zapatos-Piscina-Footwear/dp/B07FJ78GBC/ref=zg_bs_g_fashion_d_sccl_2/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B07FJ78GBC",
+      "affiliate_url": "https://www.amazon.es/dp/B07FJ78GBC/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0B323S1SB",
+      "source_input": "https://www.amazon.es/Jack-Jones-Jjethan-Camiseta-Hombre/dp/B0B323S1SB/ref=zg_bs_g_fashion_d_sccl_3/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B0B323S1SB",
+      "affiliate_url": "https://www.amazon.es/dp/B0B323S1SB/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B06Y693DG7",
+      "source_input": "https://www.amazon.es/Joma-Treviso-Pantalones-Cortos-Equipamiento/dp/B06Y693DG7/ref=zg_bs_g_fashion_d_sccl_4/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B06Y693DG7",
+      "affiliate_url": "https://www.amazon.es/dp/B06Y693DG7/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B09NMCNJVC",
+      "source_input": "https://www.amazon.es/Crocs-Classic-Clog-Zuecos-Blue/dp/B09NMCNJVC/ref=zg_bs_g_fashion_d_sccl_5/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B09NMCNJVC",
+      "affiliate_url": "https://www.amazon.es/dp/B09NMCNJVC/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B003U378VS",
+      "source_input": "https://www.amazon.es/Calvin-Klein-Cotton-Stretch-B%C3%B3xers/dp/B003U378VS/ref=zg_bs_g_fashion_d_sccl_6/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B003U378VS",
+      "affiliate_url": "https://www.amazon.es/dp/B003U378VS/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B01L412OF2",
+      "source_input": "https://www.amazon.es/Havaianas-Tiras-Chanclas-Dorado-Brazilian/dp/B01L412OF2/ref=zg_bs_g_fashion_d_sccl_7/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B01L412OF2",
+      "affiliate_url": "https://www.amazon.es/dp/B01L412OF2/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B09KHGSLJB",
+      "source_input": "https://www.amazon.es/HAWKERS-Gafas-Polarized-Black-Unisex/dp/B09KHGSLJB/ref=zg_bs_g_fashion_d_sccl_8/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B09KHGSLJB",
+      "affiliate_url": "https://www.amazon.es/dp/B09KHGSLJB/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B07CHR942Q",
+      "source_input": "https://www.amazon.es/Levis-Original-Camiseta-Hombre-Cotton/dp/B07CHR942Q/ref=zg_bs_g_fashion_d_sccl_9/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B07CHR942Q",
+      "affiliate_url": "https://www.amazon.es/dp/B07CHR942Q/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0DBQB5452",
+      "source_input": "https://www.amazon.es/riou-Ba%C3%B1ador-Menstrual-Adolescentes-Menstruales/dp/B0DBQB5452/ref=zg_bs_g_fashion_d_sccl_10/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B0DBQB5452",
+      "affiliate_url": "https://www.amazon.es/dp/B0DBQB5452/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B08S35SDH1",
+      "source_input": "https://www.amazon.es/SAGUARO-Minimalistas-Respirable-Zapatillas-Antideslizante/dp/B08S35SDH1/ref=zg_bs_g_fashion_d_sccl_11/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B08S35SDH1",
+      "affiliate_url": "https://www.amazon.es/dp/B08S35SDH1/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B08285HQTK",
+      "source_input": "https://www.amazon.es/Quiksilver-Everyday-Pantalones-Cortos-Nataci%C3%B3n/dp/B08285HQTK/ref=zg_bs_g_fashion_d_sccl_12/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B08285HQTK",
+      "affiliate_url": "https://www.amazon.es/dp/B08285HQTK/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B07CD1DTNX",
+      "source_input": "https://www.amazon.es/Skechers-Track-Scloric-Zapatillas-Hombre/dp/B07CD1DTNX/ref=zg_bs_g_fashion_d_sccl_13/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B07CD1DTNX",
+      "affiliate_url": "https://www.amazon.es/dp/B07CD1DTNX/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0FG7TPT9X",
+      "source_input": "https://www.amazon.es/Yankony-40x30x20-40x20x30-Bolsillo-Antirrobo/dp/B0FG7TPT9X/ref=zg_bs_g_fashion_d_sccl_14/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0FG7TPT9X",
+      "affiliate_url": "https://www.amazon.es/dp/B0FG7TPT9X/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0D8TCJGVL",
+      "source_input": "https://www.amazon.es/SINGULARU-Pendientes-Acabado-Ovalados-Acabados/dp/B0D8TCJGVL/ref=zg_bs_g_fashion_d_sccl_15/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0D8TCJGVL",
+      "affiliate_url": "https://www.amazon.es/dp/B0D8TCJGVL/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B01M01K39E",
+      "source_input": "https://www.amazon.es/Skechers-Graceful-Get-Connected-Zapatillas-Mujer/dp/B01M01K39E/ref=zg_bs_g_fashion_d_sccl_16/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B01M01K39E",
+      "affiliate_url": "https://www.amazon.es/dp/B01M01K39E/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B07P5JLN81",
+      "source_input": "https://www.amazon.es/Camiseta-Combi-Negro-S-M/dp/B07P5JLN81/ref=zg_bs_g_fashion_d_sccl_17/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B07P5JLN81",
+      "affiliate_url": "https://www.amazon.es/dp/B07P5JLN81/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0DSZF3536",
+      "source_input": "https://www.amazon.es/SAGUARO-Escarpines-Zapatillas-Antideslizante-Transpirable/dp/B0DSZF3536/ref=zg_bs_g_fashion_d_sccl_18/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B0DSZF3536",
+      "affiliate_url": "https://www.amazon.es/dp/B0DSZF3536/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B001BEAWZM",
+      "source_input": "https://www.amazon.es/Calvin-Klein-Trunk_0000U2662G-B%C3%B3xer-Hombre/dp/B001BEAWZM/ref=zg_bs_g_fashion_d_sccl_19/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B001BEAWZM",
+      "affiliate_url": "https://www.amazon.es/dp/B001BEAWZM/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B07YZ2CDZ8",
+      "source_input": "https://www.amazon.es/INNERSY-Delgada-Pantalones-Mujeres-Leggings/dp/B07YZ2CDZ8/ref=zg_bs_g_fashion_d_sccl_20/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B07YZ2CDZ8",
+      "affiliate_url": "https://www.amazon.es/dp/B07YZ2CDZ8/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0FN339YC1",
+      "source_input": "https://www.amazon.es/Hayayu-40x30x20-Mochilas-40x20x30cm-Antirrobo/dp/B0FN339YC1/ref=zg_bs_g_fashion_d_sccl_21/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0FN339YC1",
+      "affiliate_url": "https://www.amazon.es/dp/B0FN339YC1/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B09CZ68WV3",
+      "source_input": "https://www.amazon.es/HM-Halo-Mask-M%C3%A1scara-dormir/dp/B09CZ68WV3/ref=zg_bs_g_fashion_d_sccl_22/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B09CZ68WV3",
+      "affiliate_url": "https://www.amazon.es/dp/B09CZ68WV3/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B07MNX1PQ3",
+      "source_input": "https://www.amazon.es/telesc%C3%B3pico-reforzadas-resistente-compartimentos-organizadores/dp/B07MNX1PQ3/ref=zg_bs_g_fashion_d_sccl_23/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B07MNX1PQ3",
+      "affiliate_url": "https://www.amazon.es/dp/B07MNX1PQ3/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0DPQPNJ8P",
+      "source_input": "https://www.amazon.es/Effeet-Calcetines-Tobilleros-Algod%C3%B3n-Transpirables/dp/B0DPQPNJ8P/ref=zg_bs_g_fashion_d_sccl_24/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B0DPQPNJ8P",
+      "affiliate_url": "https://www.amazon.es/dp/B0DPQPNJ8P/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B004FJJG9I",
+      "source_input": "https://www.amazon.es/Helly-Hansen-New-Driftline-Polo/dp/B004FJJG9I/ref=zg_bs_g_fashion_d_sccl_25/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B004FJJG9I",
+      "affiliate_url": "https://www.amazon.es/dp/B004FJJG9I/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0CQM171MK",
+      "source_input": "https://www.amazon.es/40x20x25-Equipaje-Portatil-Pulgadas-Escuelas/dp/B0CQM171MK/ref=zg_bs_g_fashion_d_sccl_26/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0CQM171MK",
+      "affiliate_url": "https://www.amazon.es/dp/B0CQM171MK/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B09XJFWQKZ",
+      "source_input": "https://www.amazon.es/Havaianas-Pantuflas-unisex-adultos-Negro/dp/B09XJFWQKZ/ref=zg_bs_g_fashion_d_sccl_27/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B09XJFWQKZ",
+      "affiliate_url": "https://www.amazon.es/dp/B09XJFWQKZ/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B08CXFH3FV",
+      "source_input": "https://www.amazon.es/QINCAO-Ajustados-Paquete-Calzoncillos-Interior/dp/B08CXFH3FV/ref=zg_bs_g_fashion_d_sccl_28/258-1924377-2537719?psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B08CXFH3FV",
+      "affiliate_url": "https://www.amazon.es/dp/B08CXFH3FV/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0DCP1MSLW",
+      "source_input": "https://www.amazon.es/SINGULARU-Pulsera-Daylight-Acabado-Cristales/dp/B0DCP1MSLW/ref=zg_bs_g_fashion_d_sccl_29/258-1924377-2537719?psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B0DCP1MSLW",
+      "affiliate_url": "https://www.amazon.es/dp/B0DCP1MSLW/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B00HGSCPXY",
+      "source_input": "https://www.amazon.es/Havaianas-superior-chanclas-unisex-adultos/dp/B00HGSCPXY/ref=zg_bs_g_fashion_d_sccl_30/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B00HGSCPXY",
+      "affiliate_url": "https://www.amazon.es/dp/B00HGSCPXY/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0C5BBT91Q",
+      "source_input": "https://www.amazon.es/DIVABONNA-Pares-Calcetines-Tobilleros-Hombre/dp/B0C5BBT91Q/ref=zg_bs_g_fashion_d_sccl_31/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B0C5BBT91Q",
+      "affiliate_url": "https://www.amazon.es/dp/B0C5BBT91Q/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0CKS1LWTC",
+      "source_input": "https://www.amazon.es/adidas-Runfalcon-Zapatos-Hombre-Black/dp/B0CKS1LWTC/ref=zg_bs_g_fashion_d_sccl_32/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B0CKS1LWTC",
+      "affiliate_url": "https://www.amazon.es/dp/B0CKS1LWTC/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B09R81Y2VC",
+      "source_input": "https://www.amazon.es/Build-Your-Brand-Camiseta-Hombre/dp/B09R81Y2VC/ref=zg_bs_g_fashion_d_sccl_33/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B09R81Y2VC",
+      "affiliate_url": "https://www.amazon.es/dp/B09R81Y2VC/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B00IAO5OVS",
+      "source_input": "https://www.amazon.es/Havaianas-Flash-Sandalias-Dorado-Brazilian/dp/B00IAO5OVS/ref=zg_bs_g_fashion_d_sccl_34/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B00IAO5OVS",
+      "affiliate_url": "https://www.amazon.es/dp/B00IAO5OVS/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0B9BQPLSL",
+      "source_input": "https://www.amazon.es/Skechers-232457-Zapatillas-Hombre-Ribete/dp/B0B9BQPLSL/ref=zg_bs_g_fashion_d_sccl_35/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B0B9BQPLSL",
+      "affiliate_url": "https://www.amazon.es/dp/B0B9BQPLSL/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B097C6WNWR",
+      "source_input": "https://www.amazon.es/PUMA-Leadcat-Sandalias-deslizantes-Unisex/dp/B097C6WNWR/ref=zg_bs_g_fashion_d_sccl_36/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B097C6WNWR",
+      "affiliate_url": "https://www.amazon.es/dp/B097C6WNWR/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0C2VH5RBT",
+      "source_input": "https://www.amazon.es/Pezoneras-Sujetadores-Invisibles-Reutilizable-Impermeables/dp/B0C2VH5RBT/ref=zg_bs_g_fashion_d_sccl_1/258-1924377-2537719?psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B0C2VH5RBT",
+      "affiliate_url": "https://www.amazon.es/dp/B0C2VH5RBT/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0BZYSW4VS",
+      "source_input": "https://www.amazon.es/Calcetines-Invisibles-Antideslizantes-Transpirables-2Negro2Blanco2Gris/dp/B0BZYSW4VS/ref=zg_bs_g_fashion_d_sccl_2/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B0BZYSW4VS",
+      "affiliate_url": "https://www.amazon.es/dp/B0BZYSW4VS/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B00D1SUZHQ",
+      "source_input": "https://www.amazon.es/Culottes-Lavables-Calzoncillos-Postparto-Hipoalerg%C3%A9nicos/dp/B00D1SUZHQ/ref=zg_bs_g_fashion_d_sccl_4/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B00D1SUZHQ",
+      "affiliate_url": "https://www.amazon.es/dp/B00D1SUZHQ/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0CP5DT792",
+      "source_input": "https://www.amazon.es/YouShow-Calcetines-Tobilleros-Transpirables-Antideslizantes/dp/B0CP5DT792/ref=zg_bs_g_fashion_d_sccl_5/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B0CP5DT792",
+      "affiliate_url": "https://www.amazon.es/dp/B0CP5DT792/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0DGXZLJC8",
+      "source_input": "https://www.amazon.es/Kids-Licensing-Autom%C3%A1tico-Pl%C3%A1stico-POK4435/dp/B0DGXZLJC8/ref=zg_bs_g_fashion_d_sccl_6/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0DGXZLJC8",
+      "affiliate_url": "https://www.amazon.es/dp/B0DGXZLJC8/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0CYPZBKV7",
+      "source_input": "https://www.amazon.es/Cirorld-Almohada-Cervical-Viscoel%C3%A1stica-Ajustable/dp/B0CYPZBKV7/ref=zg_bs_g_fashion_d_sccl_7/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0CYPZBKV7",
+      "affiliate_url": "https://www.amazon.es/dp/B0CYPZBKV7/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B09TQ2JJHJ",
+      "source_input": "https://www.amazon.es/Invisible-Adhesivo-Natural-Extrafuerte-Resistente/dp/B09TQ2JJHJ/ref=zg_bs_g_fashion_d_sccl_8/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B09TQ2JJHJ",
+      "affiliate_url": "https://www.amazon.es/dp/B09TQ2JJHJ/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B083FH2W9N",
+      "source_input": "https://www.amazon.es/SAGUARO-Zapatillas-Minimalistas-Descalzos-Escarpines/dp/B083FH2W9N/ref=zg_bs_g_fashion_d_sccl_16/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B083FH2W9N",
+      "affiliate_url": "https://www.amazon.es/dp/B083FH2W9N/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B07SBVWJQD",
+      "source_input": "https://www.amazon.es/PUMA-Unisex-Adults-Fashion-BLACK-PUMA/dp/B07SBVWJQD/ref=zg_bs_g_fashion_d_sccl_13/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B07SBVWJQD",
+      "affiliate_url": "https://www.amazon.es/dp/B07SBVWJQD/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B07LBDMFZ9",
+      "source_input": "https://www.amazon.es/Jack-Jones-NOS-JacLee-Trunks/dp/B07LBDMFZ9/ref=zg_bs_g_fashion_d_sccl_26/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B07LBDMFZ9",
+      "affiliate_url": "https://www.amazon.es/dp/B07LBDMFZ9/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B088JZRQS3",
+      "source_input": "https://www.amazon.es/SINOPHANT-Fitness-Cintura-Pantalones-Leggins/dp/B088JZRQS3/ref=zg_bs_g_fashion_d_sccl_83/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B088JZRQS3",
+      "affiliate_url": "https://www.amazon.es/dp/B088JZRQS3/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0DT976WF2",
+      "source_input": "https://www.amazon.es/jagosen-Noxidable-Quirurgico-Cart%C3%ADlago-Pendientes/dp/B0DT976WF2/ref=zg_bs_g_5874918031_d_sccl_1/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0DT976WF2",
+      "affiliate_url": "https://www.amazon.es/dp/B0DT976WF2/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0BFJ1S9YT",
+      "source_input": "https://www.amazon.es/MILACOLATO-Pendientes-Quir%C3%BArgico-Cart%C3%ADlago-Ajustados/dp/B0BFJ1S9YT/ref=zg_bs_g_5874918031_d_sccl_2/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0BFJ1S9YT",
+      "affiliate_url": "https://www.amazon.es/dp/B0BFJ1S9YT/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0DCFKR8M8",
+      "source_input": "https://www.amazon.es/FIOROYAL-Piercing-Quirurgico-Clicker-Pendientes/dp/B0DCFKR8M8/ref=zg_bs_g_5874918031_d_sccl_22/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0DCFKR8M8",
+      "affiliate_url": "https://www.amazon.es/dp/B0DCFKR8M8/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B075D88YCG",
+      "source_input": "https://www.amazon.es/Amaza-piercing-ombligo-brillante-Multicolor/dp/B075D88YCG/ref=zg_bs_g_5874918031_d_sccl_32/258-1924377-2537719?psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B075D88YCG",
+      "affiliate_url": "https://www.amazon.es/dp/B075D88YCG/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B07DDFH621",
+      "source_input": "https://www.amazon.es/Made-Nami-Pulsera-Surfer-Hombre/dp/B07DDFH621/ref=zg_bs_g_5874918031_d_sccl_37/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B07DDFH621",
+      "affiliate_url": "https://www.amazon.es/dp/B07DDFH621/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0D4HBH5C1",
+      "source_input": "https://www.amazon.es/LOLIAS-Piercing-Quirurgico-Nostril-Pendientes/dp/B0D4HBH5C1/ref=zg_bs_g_5874918031_d_sccl_44/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0D4HBH5C1",
+      "affiliate_url": "https://www.amazon.es/dp/B0D4HBH5C1/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0C9TYJ85B",
+      "source_input": "https://www.amazon.es/ESHIONER-Piercing-Titanio-Pendientes-Inferior/dp/B0C9TYJ85B/ref=zg_bs_g_5874918031_d_sccl_2/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B0C9TYJ85B",
+      "affiliate_url": "https://www.amazon.es/dp/B0C9TYJ85B/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0BYRHPXNB",
+      "source_input": "https://www.amazon.es/Body-CAC-Piezas-1-0mm-Quir%C3%BArgico-Inoxidable/dp/B0BYRHPXNB/ref=zg_bs_g_5874918031_d_sccl_3/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0BYRHPXNB",
+      "affiliate_url": "https://www.amazon.es/dp/B0BYRHPXNB/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B09Y3FV6PC",
+      "source_input": "https://www.amazon.es/MixPiercing-Retenedores-Transparentes-Cart%C3%ADlago-Retenedor/dp/B09Y3FV6PC/ref=zg_bs_g_5874918031_d_sccl_6/258-1924377-2537719?psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B09Y3FV6PC",
+      "affiliate_url": "https://www.amazon.es/dp/B09Y3FV6PC/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B07D3WWLRV",
+      "source_input": "https://www.amazon.es/Iboo-Desechables-Identificaci%C3%B3n-Seguridad-Unidireccional/dp/B07D3WWLRV/ref=zg_bs_g_5874918031_d_sccl_18/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B07D3WWLRV",
+      "affiliate_url": "https://www.amazon.es/dp/B07D3WWLRV/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0848PF7TQ",
+      "source_input": "https://www.amazon.es/Made-Nami-Tobillera-Surferas-Hombre/dp/B0848PF7TQ/ref=zg_bs_g_5874918031_d_sccl_28/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0848PF7TQ",
+      "affiliate_url": "https://www.amazon.es/dp/B0848PF7TQ/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B09JZMMYS6",
+      "source_input": "https://www.amazon.es/Made-Nami-Conjunto-Tobilleras-Surferas/dp/B09JZMMYS6/ref=zg_bs_g_5874918031_d_sccl_89/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B09JZMMYS6",
+      "affiliate_url": "https://www.amazon.es/dp/B09JZMMYS6/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0BFQC4NYB",
+      "source_input": "https://www.amazon.es/SERASAR-Magneticas-Brazalete-Brazaletes-Mu%C3%B1equera/dp/B0BFQC4NYB/ref=zg_bs_g_5874918031_d_sccl_93/258-1924377-2537719?th=1&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B0BFQC4NYB",
+      "affiliate_url": "https://www.amazon.es/dp/B0BFQC4NYB/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B09KN985QQ",
+      "source_input": "https://www.amazon.es/Made-Nami-Tobilleras-Hombres-Mosquet%C3%B3n/dp/B09KN985QQ/ref=zg_bs_g_5874918031_d_sccl_98/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B09KN985QQ",
+      "affiliate_url": "https://www.amazon.es/dp/B09KN985QQ/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0CXHZ9XV5",
+      "source_input": "https://www.amazon.es/MODRSA-Piercing-Dilatador-Expansores-Estiramiento/dp/B0CXHZ9XV5/ref=zg_bs_g_5874918031_d_sccl_100/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0CXHZ9XV5",
+      "affiliate_url": "https://www.amazon.es/dp/B0CXHZ9XV5/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0G6CM3G9G",
+      "source_input": "https://www.amazon.es/YARRAMATE-Pulverizador-Dispensadora-Freidora-Obsidiana/dp/B0G6CM3G9G/ref=sr_1_1?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.wjkHehvXGB5m_lJkYNYlojvYZMkrMFzqXtjHZjebYjUmNWZXExQH6_YftvVHcMxZRLqGnf_1vLWSw6VVbp9O7Ky9r2IsdwnAKIjWm8Jgj1e-CiXEyjigpu9iKdKXt_nc5tDpUm_eBiPODhoEbcbuFs7NTk6RhIer7CPmV9on22TBz3EDzDE83-SkJp1UFLuLLt_8M97c4cqrP1k7WX-eawY2ecMMiztuhl1Ot8xTVrNcTWgs1iHheZdof-2o7BLdj2AV8fHr8uvLUUIsoWPruI72eD-2JpIWIwV_PsoRDaM.H8IHqNhW4dEdytsgRAioSEGQ-sesBa3V5dCLOk00pP0&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825880&refinements=p_72%3A831280031&s=kitchen&sr=1-1&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0G6CM3G9G",
+      "affiliate_url": "https://www.amazon.es/dp/B0G6CM3G9G/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B01D4YVY80",
+      "source_input": "https://www.amazon.es/Orbegozo-SF-0147-Ventilador-velocidades/dp/B01D4YVY80/ref=sr_1_3?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.wjkHehvXGB5m_lJkYNYlojvYZMkrMFzqXtjHZjebYjUmNWZXExQH6_YftvVHcMxZRLqGnf_1vLWSw6VVbp9O7Ky9r2IsdwnAKIjWm8Jgj1e-CiXEyjigpu9iKdKXt_nc5tDpUm_eBiPODhoEbcbuFs7NTk6RhIer7CPmV9on22TBz3EDzDE83-SkJp1UFLuLLt_8M97c4cqrP1k7WX-eawY2ecMMiztuhl1Ot8xTVrNcTWgs1iHheZdof-2o7BLdj2AV8fHr8uvLUUIsoWPruI72eD-2JpIWIwV_PsoRDaM.H8IHqNhW4dEdytsgRAioSEGQ-sesBa3V5dCLOk00pP0&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825880&refinements=p_72%3A831280031&s=kitchen&sr=1-3&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B01D4YVY80",
+      "affiliate_url": "https://www.amazon.es/dp/B01D4YVY80/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0D3VCV459",
+      "source_input": "https://www.amazon.es/edihome-Freidora-Unidades-Desechable-Accesorios/dp/B0D3VCV459/ref=sr_1_4?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.wjkHehvXGB5m_lJkYNYlojvYZMkrMFzqXtjHZjebYjUmNWZXExQH6_YftvVHcMxZRLqGnf_1vLWSw6VVbp9O7Ky9r2IsdwnAKIjWm8Jgj1e-CiXEyjigpu9iKdKXt_nc5tDpUm_eBiPODhoEbcbuFs7NTk6RhIer7CPmV9on22TBz3EDzDE83-SkJp1UFLuLLt_8M97c4cqrP1k7WX-eawY2ecMMiztuhl1Ot8xTVrNcTWgs1iHheZdof-2o7BLdj2AV8fHr8uvLUUIsoWPruI72eD-2JpIWIwV_PsoRDaM.H8IHqNhW4dEdytsgRAioSEGQ-sesBa3V5dCLOk00pP0&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825880&refinements=p_72%3A831280031&s=kitchen&sr=1-4&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0D3VCV459",
+      "affiliate_url": "https://www.amazon.es/dp/B0D3VCV459/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B006T8O2PG",
+      "source_input": "https://www.amazon.es/Milan-BMM9215-Pack-gomas-borrar/dp/B006T8O2PG/ref=sr_1_5?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.wjkHehvXGB5m_lJkYNYlojvYZMkrMFzqXtjHZjebYjUmNWZXExQH6_YftvVHcMxZRLqGnf_1vLWSw6VVbp9O7Ky9r2IsdwnAKIjWm8Jgj1e-CiXEyjigpu9iKdKXt_nc5tDpUm_eBiPODhoEbcbuFs7NTk6RhIer7CPmV9on22TBz3EDzDE83-SkJp1UFLuLLt_8M97c4cqrP1k7WX-eawY2ecMMiztuhl1Ot8xTVrNcTWgs1iHheZdof-2o7BLdj2AV8fHr8uvLUUIsoWPruI72eD-2JpIWIwV_PsoRDaM.H8IHqNhW4dEdytsgRAioSEGQ-sesBa3V5dCLOk00pP0&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825880&refinements=p_72%3A831280031&s=kitchen&sr=1-5&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B006T8O2PG",
+      "affiliate_url": "https://www.amazon.es/dp/B006T8O2PG/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0DVRGD6M1",
+      "source_input": "https://www.amazon.es/Ventilador-techo-mando-aspas-Motor/dp/B0DVRGD6M1/ref=sr_1_6?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.wjkHehvXGB5m_lJkYNYlojvYZMkrMFzqXtjHZjebYjUmNWZXExQH6_YftvVHcMxZRLqGnf_1vLWSw6VVbp9O7Ky9r2IsdwnAKIjWm8Jgj1e-CiXEyjigpu9iKdKXt_nc5tDpUm_eBiPODhoEbcbuFs7NTk6RhIer7CPmV9on22TBz3EDzDE83-SkJp1UFLuLLt_8M97c4cqrP1k7WX-eawY2ecMMiztuhl1Ot8xTVrNcTWgs1iHheZdof-2o7BLdj2AV8fHr8uvLUUIsoWPruI72eD-2JpIWIwV_PsoRDaM.H8IHqNhW4dEdytsgRAioSEGQ-sesBa3V5dCLOk00pP0&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825880&refinements=p_72%3A831280031&s=kitchen&sr=1-6&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0DVRGD6M1",
+      "affiliate_url": "https://www.amazon.es/dp/B0DVRGD6M1/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0BWCVYFLC",
+      "source_input": "https://www.amazon.es/Tapo-TP-Link-C210-2-Pack-Vigilancia/dp/B0BWCVYFLC/ref=sr_1_7?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.wjkHehvXGB5m_lJkYNYlojvYZMkrMFzqXtjHZjebYjUmNWZXExQH6_YftvVHcMxZRLqGnf_1vLWSw6VVbp9O7Ky9r2IsdwnAKIjWm8Jgj1e-CiXEyjigpu9iKdKXt_nc5tDpUm_eBiPODhoEbcbuFs7NTk6RhIer7CPmV9on22TBz3EDzDE83-SkJp1UFLuLLt_8M97c4cqrP1k7WX-eawY2ecMMiztuhl1Ot8xTVrNcTWgs1iHheZdof-2o7BLdj2AV8fHr8uvLUUIsoWPruI72eD-2JpIWIwV_PsoRDaM.H8IHqNhW4dEdytsgRAioSEGQ-sesBa3V5dCLOk00pP0&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825880&refinements=p_72%3A831280031&s=kitchen&sr=1-7&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0BWCVYFLC",
+      "affiliate_url": "https://www.amazon.es/dp/B0BWCVYFLC/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0BY9592V9",
+      "source_input": "https://www.amazon.es/Rowenta-Pure-Pop-DR2022-reversibles/dp/B0BY9592V9/ref=sr_1_8?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.wjkHehvXGB5m_lJkYNYlojvYZMkrMFzqXtjHZjebYjUmNWZXExQH6_YftvVHcMxZRLqGnf_1vLWSw6VVbp9O7Ky9r2IsdwnAKIjWm8Jgj1e-CiXEyjigpu9iKdKXt_nc5tDpUm_eBiPODhoEbcbuFs7NTk6RhIer7CPmV9on22TBz3EDzDE83-SkJp1UFLuLLt_8M97c4cqrP1k7WX-eawY2ecMMiztuhl1Ot8xTVrNcTWgs1iHheZdof-2o7BLdj2AV8fHr8uvLUUIsoWPruI72eD-2JpIWIwV_PsoRDaM.H8IHqNhW4dEdytsgRAioSEGQ-sesBa3V5dCLOk00pP0&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825880&refinements=p_72%3A831280031&s=kitchen&sr=1-8&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0BY9592V9",
+      "affiliate_url": "https://www.amazon.es/dp/B0BY9592V9/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B07KF9TC3J",
+      "source_input": "https://www.amazon.es/Soporte-Pared-Articulado-Inclinable-Giratorio/dp/B07KF9TC3J/ref=sr_1_9?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.wjkHehvXGB5m_lJkYNYlojvYZMkrMFzqXtjHZjebYjUmNWZXExQH6_YftvVHcMxZRLqGnf_1vLWSw6VVbp9O7Ky9r2IsdwnAKIjWm8Jgj1e-CiXEyjigpu9iKdKXt_nc5tDpUm_eBiPODhoEbcbuFs7NTk6RhIer7CPmV9on22TBz3EDzDE83-SkJp1UFLuLLt_8M97c4cqrP1k7WX-eawY2ecMMiztuhl1Ot8xTVrNcTWgs1iHheZdof-2o7BLdj2AV8fHr8uvLUUIsoWPruI72eD-2JpIWIwV_PsoRDaM.H8IHqNhW4dEdytsgRAioSEGQ-sesBa3V5dCLOk00pP0&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825880&refinements=p_72%3A831280031&s=kitchen&sr=1-9&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B07KF9TC3J",
+      "affiliate_url": "https://www.amazon.es/dp/B07KF9TC3J/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0D1KCLVPX",
+      "source_input": "https://www.amazon.es/VACTechPro-V15-Aspiradora-Aspirador-Inal%C3%A1mbrica/dp/B0D1KCLVPX/ref=sr_1_10?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.wjkHehvXGB5m_lJkYNYlojvYZMkrMFzqXtjHZjebYjUmNWZXExQH6_YftvVHcMxZRLqGnf_1vLWSw6VVbp9O7Ky9r2IsdwnAKIjWm8Jgj1e-CiXEyjigpu9iKdKXt_nc5tDpUm_eBiPODhoEbcbuFs7NTk6RhIer7CPmV9on22TBz3EDzDE83-SkJp1UFLuLLt_8M97c4cqrP1k7WX-eawY2ecMMiztuhl1Ot8xTVrNcTWgs1iHheZdof-2o7BLdj2AV8fHr8uvLUUIsoWPruI72eD-2JpIWIwV_PsoRDaM.H8IHqNhW4dEdytsgRAioSEGQ-sesBa3V5dCLOk00pP0&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825880&refinements=p_72%3A831280031&s=kitchen&sr=1-10&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0D1KCLVPX",
+      "affiliate_url": "https://www.amazon.es/dp/B0D1KCLVPX/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0CYQJY6Z6",
+      "source_input": "https://www.amazon.es/wonderlamp-Ventilador-3000-4000-6000K-Intensidad-Silencioso/dp/B0CYQJY6Z6/ref=sr_1_11?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.wjkHehvXGB5m_lJkYNYlojvYZMkrMFzqXtjHZjebYjUmNWZXExQH6_YftvVHcMxZRLqGnf_1vLWSw6VVbp9O7Ky9r2IsdwnAKIjWm8Jgj1e-CiXEyjigpu9iKdKXt_nc5tDpUm_eBiPODhoEbcbuFs7NTk6RhIer7CPmV9on22TBz3EDzDE83-SkJp1UFLuLLt_8M97c4cqrP1k7WX-eawY2ecMMiztuhl1Ot8xTVrNcTWgs1iHheZdof-2o7BLdj2AV8fHr8uvLUUIsoWPruI72eD-2JpIWIwV_PsoRDaM.H8IHqNhW4dEdytsgRAioSEGQ-sesBa3V5dCLOk00pP0&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825880&refinements=p_72%3A831280031&s=kitchen&sr=1-11&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0CYQJY6Z6",
+      "affiliate_url": "https://www.amazon.es/dp/B0CYQJY6Z6/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0C7CVYDYN",
+      "source_input": "https://www.amazon.es/BRITA-600L-Cartucho-recambio-filtro/dp/B0C7CVYDYN/ref=sr_1_12?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.wjkHehvXGB5m_lJkYNYlojvYZMkrMFzqXtjHZjebYjUmNWZXExQH6_YftvVHcMxZRLqGnf_1vLWSw6VVbp9O7Ky9r2IsdwnAKIjWm8Jgj1e-CiXEyjigpu9iKdKXt_nc5tDpUm_eBiPODhoEbcbuFs7NTk6RhIer7CPmV9on22TBz3EDzDE83-SkJp1UFLuLLt_8M97c4cqrP1k7WX-eawY2ecMMiztuhl1Ot8xTVrNcTWgs1iHheZdof-2o7BLdj2AV8fHr8uvLUUIsoWPruI72eD-2JpIWIwV_PsoRDaM.H8IHqNhW4dEdytsgRAioSEGQ-sesBa3V5dCLOk00pP0&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825880&refinements=p_72%3A831280031&s=kitchen&sr=1-12",
+      "canonical_url": "https://www.amazon.es/dp/B0C7CVYDYN",
+      "affiliate_url": "https://www.amazon.es/dp/B0C7CVYDYN/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B01FXNE9S2",
+      "source_input": "https://www.amazon.es/HG-Limpiador-Antimoho-Azulejos-Silicona/dp/B01FXNE9S2/ref=sr_1_13?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.wjkHehvXGB5m_lJkYNYlojvYZMkrMFzqXtjHZjebYjUmNWZXExQH6_YftvVHcMxZRLqGnf_1vLWSw6VVbp9O7Ky9r2IsdwnAKIjWm8Jgj1e-CiXEyjigpu9iKdKXt_nc5tDpUm_eBiPODhoEbcbuFs7NTk6RhIer7CPmV9on22TBz3EDzDE83-SkJp1UFLuLLt_8M97c4cqrP1k7WX-eawY2ecMMiztuhl1Ot8xTVrNcTWgs1iHheZdof-2o7BLdj2AV8fHr8uvLUUIsoWPruI72eD-2JpIWIwV_PsoRDaM.H8IHqNhW4dEdytsgRAioSEGQ-sesBa3V5dCLOk00pP0&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825880&refinements=p_72%3A831280031&s=kitchen&sr=1-13&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B01FXNE9S2",
+      "affiliate_url": "https://www.amazon.es/dp/B01FXNE9S2/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0F43JP31L",
+      "source_input": "https://www.amazon.es/LEDUNI-Ventilador-Techo-Aspas-Retr%C3%A1ctiles/dp/B0F43JP31L/ref=sr_1_14?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.wjkHehvXGB5m_lJkYNYlojvYZMkrMFzqXtjHZjebYjUmNWZXExQH6_YftvVHcMxZRLqGnf_1vLWSw6VVbp9O7Ky9r2IsdwnAKIjWm8Jgj1e-CiXEyjigpu9iKdKXt_nc5tDpUm_eBiPODhoEbcbuFs7NTk6RhIer7CPmV9on22TBz3EDzDE83-SkJp1UFLuLLt_8M97c4cqrP1k7WX-eawY2ecMMiztuhl1Ot8xTVrNcTWgs1iHheZdof-2o7BLdj2AV8fHr8uvLUUIsoWPruI72eD-2JpIWIwV_PsoRDaM.H8IHqNhW4dEdytsgRAioSEGQ-sesBa3V5dCLOk00pP0&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825880&refinements=p_72%3A831280031&s=kitchen&sr=1-14&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0F43JP31L",
+      "affiliate_url": "https://www.amazon.es/dp/B0F43JP31L/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B084H8X4SW",
+      "source_input": "https://www.amazon.es/Amazon-Basics-filtrantes-compatibles-PerfectFit/dp/B084H8X4SW/ref=sr_1_15?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.wjkHehvXGB5m_lJkYNYlojvYZMkrMFzqXtjHZjebYjUmNWZXExQH6_YftvVHcMxZRLqGnf_1vLWSw6VVbp9O7Ky9r2IsdwnAKIjWm8Jgj1e-CiXEyjigpu9iKdKXt_nc5tDpUm_eBiPODhoEbcbuFs7NTk6RhIer7CPmV9on22TBz3EDzDE83-SkJp1UFLuLLt_8M97c4cqrP1k7WX-eawY2ecMMiztuhl1Ot8xTVrNcTWgs1iHheZdof-2o7BLdj2AV8fHr8uvLUUIsoWPruI72eD-2JpIWIwV_PsoRDaM.H8IHqNhW4dEdytsgRAioSEGQ-sesBa3V5dCLOk00pP0&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825880&refinements=p_72%3A831280031&s=kitchen&sr=1-15&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B084H8X4SW",
+      "affiliate_url": "https://www.amazon.es/dp/B084H8X4SW/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0BSXDVQG7",
+      "source_input": "https://www.amazon.es/BRITA-Cartucho-filtro-agua-MAXTRA/dp/B0BSXDVQG7/ref=sr_1_16?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.wjkHehvXGB5m_lJkYNYlojvYZMkrMFzqXtjHZjebYjUmNWZXExQH6_YftvVHcMxZRLqGnf_1vLWSw6VVbp9O7Ky9r2IsdwnAKIjWm8Jgj1e-CiXEyjigpu9iKdKXt_nc5tDpUm_eBiPODhoEbcbuFs7NTk6RhIer7CPmV9on22TBz3EDzDE83-SkJp1UFLuLLt_8M97c4cqrP1k7WX-eawY2ecMMiztuhl1Ot8xTVrNcTWgs1iHheZdof-2o7BLdj2AV8fHr8uvLUUIsoWPruI72eD-2JpIWIwV_PsoRDaM.H8IHqNhW4dEdytsgRAioSEGQ-sesBa3V5dCLOk00pP0&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825880&refinements=p_72%3A831280031&s=kitchen&sr=1-16&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0BSXDVQG7",
+      "affiliate_url": "https://www.amazon.es/dp/B0BSXDVQG7/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B098B7MV31",
+      "source_input": "https://www.amazon.es/GRIFEMA-GB1004-2-Articulado-Inclinable-Pantallas/dp/B098B7MV31/ref=sr_1_17?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.wjkHehvXGB5m_lJkYNYlojvYZMkrMFzqXtjHZjebYjUmNWZXExQH6_YftvVHcMxZRLqGnf_1vLWSw6VVbp9O7Ky9r2IsdwnAKIjWm8Jgj1e-CiXEyjigpu9iKdKXt_nc5tDpUm_eBiPODhoEbcbuFs7NTk6RhIer7CPmV9on22TBz3EDzDE83-SkJp1UFLuLLt_8M97c4cqrP1k7WX-eawY2ecMMiztuhl1Ot8xTVrNcTWgs1iHheZdof-2o7BLdj2AV8fHr8uvLUUIsoWPruI72eD-2JpIWIwV_PsoRDaM.H8IHqNhW4dEdytsgRAioSEGQ-sesBa3V5dCLOk00pP0&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825880&refinements=p_72%3A831280031&s=kitchen&sr=1-17&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B098B7MV31",
+      "affiliate_url": "https://www.amazon.es/dp/B098B7MV31/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B08WL7WJZ7",
+      "source_input": "https://www.amazon.es/HomeFashion-Pantalla-Inoxidable-Alimentos-Multifuncional/dp/B08WL7WJZ7/ref=sr_1_18?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.wjkHehvXGB5m_lJkYNYlojvYZMkrMFzqXtjHZjebYjUmNWZXExQH6_YftvVHcMxZRLqGnf_1vLWSw6VVbp9O7Ky9r2IsdwnAKIjWm8Jgj1e-CiXEyjigpu9iKdKXt_nc5tDpUm_eBiPODhoEbcbuFs7NTk6RhIer7CPmV9on22TBz3EDzDE83-SkJp1UFLuLLt_8M97c4cqrP1k7WX-eawY2ecMMiztuhl1Ot8xTVrNcTWgs1iHheZdof-2o7BLdj2AV8fHr8uvLUUIsoWPruI72eD-2JpIWIwV_PsoRDaM.H8IHqNhW4dEdytsgRAioSEGQ-sesBa3V5dCLOk00pP0&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825880&refinements=p_72%3A831280031&s=kitchen&sr=1-18&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B08WL7WJZ7",
+      "affiliate_url": "https://www.amazon.es/dp/B08WL7WJZ7/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0CP5QXC1H",
+      "source_input": "https://www.amazon.es/HOSHANHO-Cuchillos-16-Japoneses-Profesional/dp/B0CP5QXC1H/ref=sr_1_26_sspa?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.wjkHehvXGB5m_lJkYNYlojvYZMkrMFzqXtjHZjebYjUmNWZXExQH6_YftvVHcMxZRLqGnf_1vLWSw6VVbp9O7Ky9r2IsdwnAKIjWm8Jgj1e-CiXEyjigpu9iKdKXt_nc5tDpUm_eBiPODhoEbcbuFs7NTk6RhIer7CPmV9on22TBz3EDzDE83-SkJp1UFLuLLt_8M97c4cqrP1k7WX-eawY2ecMMiztuhl1Ot8xTVrNcTWgs1iHheZdof-2o7BLdj2AV8fHr8uvLUUIsoWPruI72eD-2JpIWIwV_PsoRDaM.H8IHqNhW4dEdytsgRAioSEGQ-sesBa3V5dCLOk00pP0&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825880&refinements=p_72%3A831280031&s=kitchen&sr=1-26-spons&aref=7u9cXxUM8I&sp_csd=d2lkZ2V0TmFtZT1zcF9idGZfYnJvd3Nl&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0CP5QXC1H",
+      "affiliate_url": "https://www.amazon.es/dp/B0CP5QXC1H/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0D2HYQZGC",
+      "source_input": "https://www.amazon.es/HOSHANHO-Cuchillos-Japoneses-Profesional-Afilado/dp/B0D2HYQZGC/ref=sr_1_27_sspa?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.wjkHehvXGB5m_lJkYNYlojvYZMkrMFzqXtjHZjebYjUmNWZXExQH6_YftvVHcMxZRLqGnf_1vLWSw6VVbp9O7Ky9r2IsdwnAKIjWm8Jgj1e-CiXEyjigpu9iKdKXt_nc5tDpUm_eBiPODhoEbcbuFs7NTk6RhIer7CPmV9on22TBz3EDzDE83-SkJp1UFLuLLt_8M97c4cqrP1k7WX-eawY2ecMMiztuhl1Ot8xTVrNcTWgs1iHheZdof-2o7BLdj2AV8fHr8uvLUUIsoWPruI72eD-2JpIWIwV_PsoRDaM.H8IHqNhW4dEdytsgRAioSEGQ-sesBa3V5dCLOk00pP0&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825880&refinements=p_72%3A831280031&s=kitchen&sr=1-27-spons&aref=Lx7YZhC8hC&sp_csd=d2lkZ2V0TmFtZT1zcF9idGZfYnJvd3Nl&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0D2HYQZGC",
+      "affiliate_url": "https://www.amazon.es/dp/B0D2HYQZGC/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B09TFGQ3XB",
+      "source_input": "https://www.amazon.es/XINZUO-Cuchillos-Profesional-Universal-Multifuncionales/dp/B09TFGQ3XB/ref=sr_1_25_sspa?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.wjkHehvXGB5m_lJkYNYlojvYZMkrMFzqXtjHZjebYjUmNWZXExQH6_YftvVHcMxZRLqGnf_1vLWSw6VVbp9O7Ky9r2IsdwnAKIjWm8Jgj1e-CiXEyjigpu9iKdKXt_nc5tDpUm_eBiPODhoEbcbuFs7NTk6RhIer7CPmV9on22TBz3EDzDE83-SkJp1UFLuLLt_8M97c4cqrP1k7WX-eawY2ecMMiztuhl1Ot8xTVrNcTWgs1iHheZdof-2o7BLdj2AV8fHr8uvLUUIsoWPruI72eD-2JpIWIwV_PsoRDaM.H8IHqNhW4dEdytsgRAioSEGQ-sesBa3V5dCLOk00pP0&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825880&refinements=p_72%3A831280031&s=kitchen&sr=1-25-spons&ufe=app_do%3Aamzn1.fos.4c3f56c3-e485-4a35-9abc-6532b61c3b62&aref=sUKfhMzr0H&sp_csd=d2lkZ2V0TmFtZT1zcF9idGZfYnJvd3Nl&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B09TFGQ3XB",
+      "affiliate_url": "https://www.amazon.es/dp/B09TFGQ3XB/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0CVSFLB4Q",
+      "source_input": "https://www.amazon.es/Universal-Deflector-Acondicionado-Ajustable-Ancianos/dp/B0CVSFLB4Q/ref=sr_1_25?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.Ai8z74RbJ8b-ZRMoBlNz5gIZMh61lnFxpYFsRyTiuoNas9i1D3rWaLT7AyruxVO1K5PoqrBCJKDS481MWxMoFmCiS-m7vD91mM20QpCgj-kie-kPQiDSXqMv2vI1UfD_QeTzneWE0eptwiPPJubk6g.ca8nCAb3eVWdCBztl2R6GiUiMR33DlnxAuAwGGJ4IbQ&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825952&refinements=p_72%3A831280031&s=kitchen&sr=1-25&xpid=xvrQCz0VjDm_1&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0CVSFLB4Q",
+      "affiliate_url": "https://www.amazon.es/dp/B0CVSFLB4Q/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0F2DJV6SZ",
+      "source_input": "https://www.amazon.es/SWEET-VIEW-Spray-Pulverizador-Dispensador/dp/B0F2DJV6SZ/ref=sr_1_26?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.Ai8z74RbJ8b-ZRMoBlNz5gIZMh61lnFxpYFsRyTiuoNas9i1D3rWaLT7AyruxVO1K5PoqrBCJKDS481MWxMoFmCiS-m7vD91mM20QpCgj-kie-kPQiDSXqMv2vI1UfD_QeTzneWE0eptwiPPJubk6g.ca8nCAb3eVWdCBztl2R6GiUiMR33DlnxAuAwGGJ4IbQ&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825952&refinements=p_72%3A831280031&s=kitchen&sr=1-26&xpid=xvrQCz0VjDm_1&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0F2DJV6SZ",
+      "affiliate_url": "https://www.amazon.es/dp/B0F2DJV6SZ/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B00G5YOVZA",
+      "source_input": "https://www.amazon.es/Nespresso-DeLonghi-Inissia-EN-80-B/dp/B00G5YOVZA/ref=sr_1_27?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.Ai8z74RbJ8b-ZRMoBlNz5gIZMh61lnFxpYFsRyTiuoNas9i1D3rWaLT7AyruxVO1K5PoqrBCJKDS481MWxMoFmCiS-m7vD91mM20QpCgj-kie-kPQiDSXqMv2vI1UfD_QeTzneWE0eptwiPPJubk6g.ca8nCAb3eVWdCBztl2R6GiUiMR33DlnxAuAwGGJ4IbQ&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825952&refinements=p_72%3A831280031&s=kitchen&sr=1-27&xpid=xvrQCz0VjDm_1&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B00G5YOVZA",
+      "affiliate_url": "https://www.amazon.es/dp/B00G5YOVZA/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B07LH37K3Y",
+      "source_input": "https://www.amazon.es/Intex-Standard-modelo-Classic-64765/dp/B07LH37K3Y/ref=sr_1_29?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.Ai8z74RbJ8b-ZRMoBlNz5gIZMh61lnFxpYFsRyTiuoNas9i1D3rWaLT7AyruxVO1K5PoqrBCJKDS481MWxMoFmCiS-m7vD91mM20QpCgj-kie-kPQiDSXqMv2vI1UfD_QeTzneWE0eptwiPPJubk6g.ca8nCAb3eVWdCBztl2R6GiUiMR33DlnxAuAwGGJ4IbQ&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825952&refinements=p_72%3A831280031&s=kitchen&sr=1-29&xpid=xvrQCz0VjDm_1&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B07LH37K3Y",
+      "affiliate_url": "https://www.amazon.es/dp/B07LH37K3Y/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0G7JF3V25",
+      "source_input": "https://www.amazon.es/Cecotec-Batidora-Titanium-Cuchillas-Velocidades/dp/B0G7JF3V25/ref=sr_1_28?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.Ai8z74RbJ8b-ZRMoBlNz5gIZMh61lnFxpYFsRyTiuoNas9i1D3rWaLT7AyruxVO1K5PoqrBCJKDS481MWxMoFmCiS-m7vD91mM20QpCgj-kie-kPQiDSXqMv2vI1UfD_QeTzneWE0eptwiPPJubk6g.ca8nCAb3eVWdCBztl2R6GiUiMR33DlnxAuAwGGJ4IbQ&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825952&refinements=p_72%3A831280031&s=kitchen&sr=1-28&xpid=xvrQCz0VjDm_1&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0G7JF3V25",
+      "affiliate_url": "https://www.amazon.es/dp/B0G7JF3V25/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B003KHJO6G",
+      "source_input": "https://www.amazon.es/Honeywell-TurboForce-Refrigeraci%C3%B3n-Funcionamiento-Inclinaci%C3%B3n/dp/B003KHJO6G/ref=sr_1_35?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.k7fFmcd-beYbKWcxjKP_kndx0KgGzg7jGakX8gS9-LhaNPQ_hW941IBk8Hnug7itCzc1dK_LpQXGRfPptu25lNXPwDNrr0GkEalZdGwtGFBVVcq1c3uaB8G1p_VEVEGUKdUwQHU9SNnZPqi-Um3SVGBCBkytFcsq33LlxZGyy00KfnGrepxr5RcTAsoFiTqZqk2Oatky0jcFfckpe8qQKA.eNW8QxN8QhO-jNJGtjwYwwRrIOZCNa0mh9DbaR7cmAI&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825952&refinements=p_72%3A831280031&s=kitchen&sr=1-35&xpid=xvrQCz0VjDm_1&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B003KHJO6G",
+      "affiliate_url": "https://www.amazon.es/dp/B003KHJO6G/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B08J4NMBL2",
+      "source_input": "https://www.amazon.es/Braun-Rasuradora-Eliminador-Superiores-Barbilla/dp/B08J4NMBL2/ref=sr_1_36?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.k7fFmcd-beYbKWcxjKP_kndx0KgGzg7jGakX8gS9-LhaNPQ_hW941IBk8Hnug7itCzc1dK_LpQXGRfPptu25lNXPwDNrr0GkEalZdGwtGFBVVcq1c3uaB8G1p_VEVEGUKdUwQHU9SNnZPqi-Um3SVGBCBkytFcsq33LlxZGyy00KfnGrepxr5RcTAsoFiTqZqk2Oatky0jcFfckpe8qQKA.eNW8QxN8QhO-jNJGtjwYwwRrIOZCNa0mh9DbaR7cmAI&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825952&refinements=p_72%3A831280031&s=kitchen&sr=1-36&xpid=xvrQCz0VjDm_1&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B08J4NMBL2",
+      "affiliate_url": "https://www.amazon.es/dp/B08J4NMBL2/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0812BKN39",
+      "source_input": "https://www.amazon.es/Arcos-859800-Cuchillos-Colores-Stainless/dp/B0812BKN39/ref=sr_1_37?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.k7fFmcd-beYbKWcxjKP_kndx0KgGzg7jGakX8gS9-LhaNPQ_hW941IBk8Hnug7itCzc1dK_LpQXGRfPptu25lNXPwDNrr0GkEalZdGwtGFBVVcq1c3uaB8G1p_VEVEGUKdUwQHU9SNnZPqi-Um3SVGBCBkytFcsq33LlxZGyy00KfnGrepxr5RcTAsoFiTqZqk2Oatky0jcFfckpe8qQKA.eNW8QxN8QhO-jNJGtjwYwwRrIOZCNa0mh9DbaR7cmAI&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825952&refinements=p_72%3A831280031&s=kitchen&sr=1-37&xpid=xvrQCz0VjDm_1&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0812BKN39",
+      "affiliate_url": "https://www.amazon.es/dp/B0812BKN39/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0CPH8B2DN",
+      "source_input": "https://www.amazon.es/EQM-Descalcificador-Cafeteras-Compatible-incrustada/dp/B0CPH8B2DN/ref=sr_1_38?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.k7fFmcd-beYbKWcxjKP_kndx0KgGzg7jGakX8gS9-LhaNPQ_hW941IBk8Hnug7itCzc1dK_LpQXGRfPptu25lNXPwDNrr0GkEalZdGwtGFBVVcq1c3uaB8G1p_VEVEGUKdUwQHU9SNnZPqi-Um3SVGBCBkytFcsq33LlxZGyy00KfnGrepxr5RcTAsoFiTqZqk2Oatky0jcFfckpe8qQKA.eNW8QxN8QhO-jNJGtjwYwwRrIOZCNa0mh9DbaR7cmAI&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825952&refinements=p_72%3A831280031&s=kitchen&sr=1-38&xpid=xvrQCz0VjDm_1&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0CPH8B2DN",
+      "affiliate_url": "https://www.amazon.es/dp/B0CPH8B2DN/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0B3JJH9YW",
+      "source_input": "https://www.amazon.es/Cecotec-Retr%C3%A1ctites-EnergySilence-Temporizador-Verano-Invierno/dp/B0B3JJH9YW/ref=sr_1_41?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.k7fFmcd-beYbKWcxjKP_kndx0KgGzg7jGakX8gS9-LhaNPQ_hW941IBk8Hnug7itCzc1dK_LpQXGRfPptu25lNXPwDNrr0GkEalZdGwtGFBVVcq1c3uaB8G1p_VEVEGUKdUwQHU9SNnZPqi-Um3SVGBCBkytFcsq33LlxZGyy00KfnGrepxr5RcTAsoFiTqZqk2Oatky0jcFfckpe8qQKA.eNW8QxN8QhO-jNJGtjwYwwRrIOZCNa0mh9DbaR7cmAI&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825952&refinements=p_72%3A831280031&s=kitchen&sr=1-41&xpid=xvrQCz0VjDm_1&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0B3JJH9YW",
+      "affiliate_url": "https://www.amazon.es/dp/B0B3JJH9YW/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0C621SPBN",
+      "source_input": "https://www.amazon.es/MEIQIHOME-Juego-Bolsas-Vac%C3%ADo-El%C3%A9ctrica/dp/B0C621SPBN/ref=sr_1_43?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.k7fFmcd-beYbKWcxjKP_kndx0KgGzg7jGakX8gS9-LhaNPQ_hW941IBk8Hnug7itCzc1dK_LpQXGRfPptu25lNXPwDNrr0GkEalZdGwtGFBVVcq1c3uaB8G1p_VEVEGUKdUwQHU9SNnZPqi-Um3SVGBCBkytFcsq33LlxZGyy00KfnGrepxr5RcTAsoFiTqZqk2Oatky0jcFfckpe8qQKA.eNW8QxN8QhO-jNJGtjwYwwRrIOZCNa0mh9DbaR7cmAI&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825952&refinements=p_72%3A831280031&s=kitchen&sr=1-43&xpid=xvrQCz0VjDm_1&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0C621SPBN",
+      "affiliate_url": "https://www.amazon.es/dp/B0C621SPBN/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0FVV76SFF",
+      "source_input": "https://www.amazon.es/DiliDala-Aspirador-Aspiradora-Escobillas-Mascotas/dp/B0FVV76SFF/ref=sr_1_44?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.k7fFmcd-beYbKWcxjKP_kndx0KgGzg7jGakX8gS9-LhaNPQ_hW941IBk8Hnug7itCzc1dK_LpQXGRfPptu25lNXPwDNrr0GkEalZdGwtGFBVVcq1c3uaB8G1p_VEVEGUKdUwQHU9SNnZPqi-Um3SVGBCBkytFcsq33LlxZGyy00KfnGrepxr5RcTAsoFiTqZqk2Oatky0jcFfckpe8qQKA.eNW8QxN8QhO-jNJGtjwYwwRrIOZCNa0mh9DbaR7cmAI&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825952&refinements=p_72%3A831280031&s=kitchen&sr=1-44&xpid=xvrQCz0VjDm_1&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0FVV76SFF",
+      "affiliate_url": "https://www.amazon.es/dp/B0FVV76SFF/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B01EB5XTDY",
+      "source_input": "https://www.amazon.es/Tefal-Secure-Cestillo-Inoxidable-Plateado/dp/B01EB5XTDY/ref=sr_1_49_sspa?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.k7fFmcd-beYbKWcxjKP_kndx0KgGzg7jGakX8gS9-LhaNPQ_hW941IBk8Hnug7itCzc1dK_LpQXGRfPptu25lNXPwDNrr0GkEalZdGwtGFBVVcq1c3uaB8G1p_VEVEGUKdUwQHU9SNnZPqi-Um3SVGBCBkytFcsq33LlxZGyy00KfnGrepxr5RcTAsoFiTqZqk2Oatky0jcFfckpe8qQKA.eNW8QxN8QhO-jNJGtjwYwwRrIOZCNa0mh9DbaR7cmAI&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825952&refinements=p_72%3A831280031&s=kitchen&sr=1-49-spons&xpid=xvrQCz0VjDm_1&aref=jmYhbNsSWN&sp_csd=d2lkZ2V0TmFtZT1zcF9idGZfYnJvd3Nl&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B01EB5XTDY",
+      "affiliate_url": "https://www.amazon.es/dp/B01EB5XTDY/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0F328Y3ZG",
+      "source_input": "https://www.amazon.es/GRIFEMA-Recargable-Ergon%C3%B3mico-Cappuccino-Bulletproof/dp/B0F328Y3ZG/ref=sr_1_45?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.k7fFmcd-beYbKWcxjKP_kndx0KgGzg7jGakX8gS9-LhaNPQ_hW941IBk8Hnug7itCzc1dK_LpQXGRfPptu25lNXPwDNrr0GkEalZdGwtGFBVVcq1c3uaB8G1p_VEVEGUKdUwQHU9SNnZPqi-Um3SVGBCBkytFcsq33LlxZGyy00KfnGrepxr5RcTAsoFiTqZqk2Oatky0jcFfckpe8qQKA.eNW8QxN8QhO-jNJGtjwYwwRrIOZCNa0mh9DbaR7cmAI&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825952&refinements=p_72%3A831280031&s=kitchen&sr=1-45&xpid=xvrQCz0VjDm_1&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0F328Y3ZG",
+      "affiliate_url": "https://www.amazon.es/dp/B0F328Y3ZG/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0C2Z9H9KG",
+      "source_input": "https://www.amazon.es/HOMCA-Almohada-Ergon%C3%B3mico-Ortopedica-Relajaci%C3%B3n/dp/B0C2Z9H9KG/ref=sr_1_46?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.k7fFmcd-beYbKWcxjKP_kndx0KgGzg7jGakX8gS9-LhaNPQ_hW941IBk8Hnug7itCzc1dK_LpQXGRfPptu25lNXPwDNrr0GkEalZdGwtGFBVVcq1c3uaB8G1p_VEVEGUKdUwQHU9SNnZPqi-Um3SVGBCBkytFcsq33LlxZGyy00KfnGrepxr5RcTAsoFiTqZqk2Oatky0jcFfckpe8qQKA.eNW8QxN8QhO-jNJGtjwYwwRrIOZCNa0mh9DbaR7cmAI&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784825952&refinements=p_72%3A831280031&s=kitchen&sr=1-46&xpid=xvrQCz0VjDm_1&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0C2Z9H9KG",
+      "affiliate_url": "https://www.amazon.es/dp/B0C2Z9H9KG/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B07BFD6LHZ",
+      "source_input": "https://www.amazon.es/Tefal-k13304-segundos-picadora-transparente/dp/B07BFD6LHZ/ref=sr_1_51?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9._GaJ4dLU4NjjqfsV-EBS6Ok316VVp7tCezX1ghTihsU6_PX83Rol2oQui0oEaENTkii75Jh3P51xvSCTcdNhs5hO6RyhVhhXp4KoCreAeSNLvvbg8DZl5NxCBoo_abbZJqM_hY_6ND6dYjgLPdaeKQ.szuTm4CLOtkOANzrTo2k6J519vPt4vpExgIzFoeO3d4&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784826029&refinements=p_72%3A831280031&s=kitchen&sr=1-51&xpid=xvrQCz0VjDm_1&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B07BFD6LHZ",
+      "affiliate_url": "https://www.amazon.es/dp/B07BFD6LHZ/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0BQ1HT1HQ",
+      "source_input": "https://www.amazon.es/Cecotec-Cuchillas-Recubrimiento-Velocidad-Montaclaras/dp/B0BQ1HT1HQ/ref=sr_1_58?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9._GaJ4dLU4NjjqfsV-EBS6Ok316VVp7tCezX1ghTihsU6_PX83Rol2oQui0oEaENTkii75Jh3P51xvSCTcdNhs5hO6RyhVhhXp4KoCreAeSNLvvbg8DZl5NxCBoo_abbZJqM_hY_6ND6dYjgLPdaeKQ.szuTm4CLOtkOANzrTo2k6J519vPt4vpExgIzFoeO3d4&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784826029&refinements=p_72%3A831280031&s=kitchen&sr=1-58&xpid=xvrQCz0VjDm_1&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0BQ1HT1HQ",
+      "affiliate_url": "https://www.amazon.es/dp/B0BQ1HT1HQ/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0BFB3Q7SD",
+      "source_input": "https://www.amazon.es/Cecotec-InoxBlack-Tecnolog%C3%ADa-PerfectCook-Termostato/dp/B0BFB3Q7SD/ref=sr_1_70?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.EloAgo_r5xo2yLpHoVI3nQtjGHGAKP2U3kha4wgcKQIUs6JbogLfwm0WfNFRl9T_LersI2IZjPwMCBEb__nhs5hGeLQIguQ274PiebWQXB4DE_BZMswy7GjcOS5cAmJ2Ms09jpmyv3bDp3h-PtxAWa9FYsazvU1oU91JcUFJI0VU7ONfLmsNrrdj2efztpcGYZDFvRPNb4pUoFeCFN-zFA.hwacEeCfFMCOMQbgKW2W7qb7uBIRXkD41u6-RzR1ct8&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784826029&refinements=p_72%3A831280031&s=kitchen&sr=1-70&xpid=xvrQCz0VjDm_1&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0BFB3Q7SD",
+      "affiliate_url": "https://www.amazon.es/dp/B0BFB3Q7SD/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0CXSXJ4X5",
+      "source_input": "https://www.amazon.es/MUUKAIII-Almacenaje-Recipientes-Hermeticos-Contenedores/dp/B0CXSXJ4X5/ref=sr_1_75_sspa?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.EloAgo_r5xo2yLpHoVI3nQtjGHGAKP2U3kha4wgcKQIUs6JbogLfwm0WfNFRl9T_LersI2IZjPwMCBEb__nhs5hGeLQIguQ274PiebWQXB4DE_BZMswy7GjcOS5cAmJ2Ms09jpmyv3bDp3h-PtxAWa9FYsazvU1oU91JcUFJI0VU7ONfLmsNrrdj2efztpcGYZDFvRPNb4pUoFeCFN-zFA.hwacEeCfFMCOMQbgKW2W7qb7uBIRXkD41u6-RzR1ct8&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784826029&refinements=p_72%3A831280031&s=kitchen&sr=1-75-spons&xpid=xvrQCz0VjDm_1&aref=FKzDyHBijM&sp_csd=d2lkZ2V0TmFtZT1zcF9idGZfYnJvd3Nl&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0CXSXJ4X5",
+      "affiliate_url": "https://www.amazon.es/dp/B0CXSXJ4X5/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0085Z9JQI",
+      "source_input": "https://www.amazon.es/MILAN-Caja-gomas-miga-cuadradas/dp/B0085Z9JQI/ref=sr_1_77?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.LMtc8I6v214PVtmiTZGNLwqSEhTM2uCmzf911IATXZldOIlK2U3m0ew5wIEkR922lMjDXnzXwyAo-6QNn5BSw58nesl0DTgA1kZ6WFXD2Pqdi7zplPJneflHrni92R1WO68ZdYDYVDIZ1a3djp_sIQ.X22-uW6jHfrsxjktox6UBsJ9tuxZ3dZqvXZDuVnL6oY&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784826064&refinements=p_72%3A831280031&s=kitchen&sr=1-77&xpid=xvrQCz0VjDm_1&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0085Z9JQI",
+      "affiliate_url": "https://www.amazon.es/dp/B0085Z9JQI/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0C7SBTGYZ",
+      "source_input": "https://www.amazon.es/freidora-PORTENTUM-unidades-Food-Grade-freidoras/dp/B0C7SBTGYZ/ref=sr_1_81?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.LMtc8I6v214PVtmiTZGNLwqSEhTM2uCmzf911IATXZldOIlK2U3m0ew5wIEkR922lMjDXnzXwyAo-6QNn5BSw58nesl0DTgA1kZ6WFXD2Pqdi7zplPJneflHrni92R1WO68ZdYDYVDIZ1a3djp_sIQ.X22-uW6jHfrsxjktox6UBsJ9tuxZ3dZqvXZDuVnL6oY&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784826064&refinements=p_72%3A831280031&s=kitchen&sr=1-81&xpid=xvrQCz0VjDm_1&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0C7SBTGYZ",
+      "affiliate_url": "https://www.amazon.es/dp/B0C7SBTGYZ/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0B7KCK2YV",
+      "source_input": "https://www.amazon.es/Philips-Azur-Serie-Plancha-Vapor/dp/B0B7KCK2YV/ref=sr_1_80?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.LMtc8I6v214PVtmiTZGNLwqSEhTM2uCmzf911IATXZldOIlK2U3m0ew5wIEkR922lMjDXnzXwyAo-6QNn5BSw58nesl0DTgA1kZ6WFXD2Pqdi7zplPJneflHrni92R1WO68ZdYDYVDIZ1a3djp_sIQ.X22-uW6jHfrsxjktox6UBsJ9tuxZ3dZqvXZDuVnL6oY&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784826064&refinements=p_72%3A831280031&s=kitchen&sr=1-80&xpid=xvrQCz0VjDm_1",
+      "canonical_url": "https://www.amazon.es/dp/B0B7KCK2YV",
+      "affiliate_url": "https://www.amazon.es/dp/B0B7KCK2YV/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0D69T4MGW",
+      "source_input": "https://www.amazon.es/GRIFEMA-GB1054-Adjustable-Compatible-Port%C3%A1tiles/dp/B0D69T4MGW/ref=sr_1_79?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.LMtc8I6v214PVtmiTZGNLwqSEhTM2uCmzf911IATXZldOIlK2U3m0ew5wIEkR922lMjDXnzXwyAo-6QNn5BSw58nesl0DTgA1kZ6WFXD2Pqdi7zplPJneflHrni92R1WO68ZdYDYVDIZ1a3djp_sIQ.X22-uW6jHfrsxjktox6UBsJ9tuxZ3dZqvXZDuVnL6oY&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784826064&refinements=p_72%3A831280031&s=kitchen&sr=1-79&xpid=xvrQCz0VjDm_1&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0D69T4MGW",
+      "affiliate_url": "https://www.amazon.es/dp/B0D69T4MGW/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B091TJ7PV1",
+      "source_input": "https://www.amazon.es/Aislamiento-Acondicionado-EGNBU-Port%C3%A1tiles-Instalaci%C3%B3n/dp/B091TJ7PV1/ref=sr_1_86?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.gNU_hh6S9L0AIEFQOOSnmQ5oGEbK1tvufmAuZ01745fJ-cgicC-OBAPBuD2e6lragIxn2k18sfva6GzyujTHDFBMqUFIEcpsq8u8hZbG7jePg20jlx19O6W_cIO-LnD0Qy0gL6KkFQjldPF5AijF29TH1uWc8hyHpykhgb_KqsIZqnncojOhdCfZHNDTNEcjc2K7rbMwHfa4zXNl1EQi1Q.7nbPilimA0Ctwxiz-QeNu-syK8mwz0Q1mhHJ4Us3Vuo&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784826064&refinements=p_72%3A831280031&s=kitchen&sr=1-86&xpid=xvrQCz0VjDm_1&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B091TJ7PV1",
+      "affiliate_url": "https://www.amazon.es/dp/B091TJ7PV1/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B072FGV2YH",
+      "source_input": "https://www.amazon.es/Cuchillos-Mondadores-Inoxidable-Polipropileno-Lavavajillas/dp/B072FGV2YH/ref=sr_1_88?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.gNU_hh6S9L0AIEFQOOSnmQ5oGEbK1tvufmAuZ01745fJ-cgicC-OBAPBuD2e6lragIxn2k18sfva6GzyujTHDFBMqUFIEcpsq8u8hZbG7jePg20jlx19O6W_cIO-LnD0Qy0gL6KkFQjldPF5AijF29TH1uWc8hyHpykhgb_KqsIZqnncojOhdCfZHNDTNEcjc2K7rbMwHfa4zXNl1EQi1Q.7nbPilimA0Ctwxiz-QeNu-syK8mwz0Q1mhHJ4Us3Vuo&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784826064&refinements=p_72%3A831280031&s=kitchen&sr=1-88&xpid=xvrQCz0VjDm_1&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B072FGV2YH",
+      "affiliate_url": "https://www.amazon.es/dp/B072FGV2YH/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B08X14J7VW",
+      "source_input": "https://www.amazon.es/Rowenta-Premiss-BS1400-personal-electr%C3%B3nica/dp/B08X14J7VW/ref=sr_1_93?content-id=amzn1.sym.0e11c271-ea92-4357-ad4f-05e1284bf62f&dib=eyJ2IjoiMSJ9.gNU_hh6S9L0AIEFQOOSnmQ5oGEbK1tvufmAuZ01745fJ-cgicC-OBAPBuD2e6lragIxn2k18sfva6GzyujTHDFBMqUFIEcpsq8u8hZbG7jePg20jlx19O6W_cIO-LnD0Qy0gL6KkFQjldPF5AijF29TH1uWc8hyHpykhgb_KqsIZqnncojOhdCfZHNDTNEcjc2K7rbMwHfa4zXNl1EQi1Q.7nbPilimA0Ctwxiz-QeNu-syK8mwz0Q1mhHJ4Us3Vuo&dib_tag=se&pd_rd_r=7f97d0d1-1107-4c91-b56a-5e26a0509a6d&pd_rd_w=T7I5Q&pd_rd_wg=qbqwz&qid=1784826064&refinements=p_72%3A831280031&s=kitchen&sr=1-93&xpid=xvrQCz0VjDm_1&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B08X14J7VW",
+      "affiliate_url": "https://www.amazon.es/dp/B08X14J7VW/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B00P8XQPY4",
+      "source_input": "https://www.amazon.es/Memoria-flash-SanDisk-velocidad-lectura/dp/B00P8XQPY4?ref_=Oct_d_obs_d_667049031_0&pd_rd_w=Gdbyq&content-id=amzn1.sym.19029339-adfb-42c9-8e0d-71ddb08b1dbd&pf_rd_p=19029339-adfb-42c9-8e0d-71ddb08b1dbd&pf_rd_r=W47WJWCD6FWZ4B96R9KQ&pd_rd_wg=3mJkv&pd_rd_r=83c33ca7-0e65-4b17-98d3-448e350191e4&pd_rd_i=B00P8XQPY4&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B00P8XQPY4",
+      "affiliate_url": "https://www.amazon.es/dp/B00P8XQPY4/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B08GTYFC37",
+      "source_input": "https://www.amazon.es/Port%C3%A1til-velodidad-escritura-Clasificaci%C3%B3n-resistencia/dp/B08GTYFC37?ref_=Oct_d_obs_d_667049031_1&pd_rd_w=Gdbyq&content-id=amzn1.sym.19029339-adfb-42c9-8e0d-71ddb08b1dbd&pf_rd_p=19029339-adfb-42c9-8e0d-71ddb08b1dbd&pf_rd_r=W47WJWCD6FWZ4B96R9KQ&pd_rd_wg=3mJkv&pd_rd_r=83c33ca7-0e65-4b17-98d3-448e350191e4&pd_rd_i=B08GTYFC37&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B08GTYFC37",
+      "affiliate_url": "https://www.amazon.es/dp/B08GTYFC37/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B07YYJRXQR",
+      "source_input": "https://www.amazon.es/SanDisk-conectores-reversibles-smartphones-ordenadores/dp/B07YYJRXQR?ref_=Oct_d_obs_d_667049031_3&pd_rd_w=Gdbyq&content-id=amzn1.sym.19029339-adfb-42c9-8e0d-71ddb08b1dbd&pf_rd_p=19029339-adfb-42c9-8e0d-71ddb08b1dbd&pf_rd_r=W47WJWCD6FWZ4B96R9KQ&pd_rd_wg=3mJkv&pd_rd_r=83c33ca7-0e65-4b17-98d3-448e350191e4&pd_rd_i=B07YYJRXQR&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B07YYJRXQR",
+      "affiliate_url": "https://www.amazon.es/dp/B07YYJRXQR/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B091FS79T8",
+      "source_input": "https://www.amazon.es/UnionSine-Externo-Port%C3%A1til-Almacenamiento-Chromebook/dp/B091FS79T8?ref_=Oct_d_obs_d_667049031_4&pd_rd_w=Gdbyq&content-id=amzn1.sym.19029339-adfb-42c9-8e0d-71ddb08b1dbd&pf_rd_p=19029339-adfb-42c9-8e0d-71ddb08b1dbd&pf_rd_r=W47WJWCD6FWZ4B96R9KQ&pd_rd_wg=3mJkv&pd_rd_r=83c33ca7-0e65-4b17-98d3-448e350191e4&pd_rd_i=B091FS79T8&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B091FS79T8",
+      "affiliate_url": "https://www.amazon.es/dp/B091FS79T8/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0CX9CT3ZF",
+      "source_input": "https://www.amazon.es/Philips-24E1N1100A-Integrado-Respuesta-1920x1080/dp/B0CX9CT3ZF?ref_=Oct_d_obs_d_667049031_5&pd_rd_w=Gdbyq&content-id=amzn1.sym.19029339-adfb-42c9-8e0d-71ddb08b1dbd&pf_rd_p=19029339-adfb-42c9-8e0d-71ddb08b1dbd&pf_rd_r=W47WJWCD6FWZ4B96R9KQ&pd_rd_wg=3mJkv&pd_rd_r=83c33ca7-0e65-4b17-98d3-448e350191e4&pd_rd_i=B0CX9CT3ZF&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0CX9CT3ZF",
+      "affiliate_url": "https://www.amazon.es/dp/B0CX9CT3ZF/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0FT2TYMR6",
+      "source_input": "https://www.amazon.es/ARCTIC-MX-7-MX-Cleaner-procesadores-conductividad/dp/B0FT2TYMR6?ref_=Oct_d_obs_d_667049031_6&pd_rd_w=Gdbyq&content-id=amzn1.sym.19029339-adfb-42c9-8e0d-71ddb08b1dbd&pf_rd_p=19029339-adfb-42c9-8e0d-71ddb08b1dbd&pf_rd_r=W47WJWCD6FWZ4B96R9KQ&pd_rd_wg=3mJkv&pd_rd_r=83c33ca7-0e65-4b17-98d3-448e350191e4&pd_rd_i=B0FT2TYMR6&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0FT2TYMR6",
+      "affiliate_url": "https://www.amazon.es/dp/B0FT2TYMR6/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B08X19VZN8",
+      "source_input": "https://www.amazon.es/TP-Link-RE330-Repetidor-Ethernet-dispositivos/dp/B08X19VZN8?ref_=Oct_d_obs_d_667049031_7&pd_rd_w=Gdbyq&content-id=amzn1.sym.19029339-adfb-42c9-8e0d-71ddb08b1dbd&pf_rd_p=19029339-adfb-42c9-8e0d-71ddb08b1dbd&pf_rd_r=W47WJWCD6FWZ4B96R9KQ&pd_rd_wg=3mJkv&pd_rd_r=83c33ca7-0e65-4b17-98d3-448e350191e4&pd_rd_i=B08X19VZN8",
+      "canonical_url": "https://www.amazon.es/dp/B08X19VZN8",
+      "affiliate_url": "https://www.amazon.es/dp/B08X19VZN8/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0FKH5XJ4G",
+      "source_input": "https://www.amazon.es/Lenovo-Idea-Tab-Dimensity-Altavoces/dp/B0FKH5XJ4G/ref=zg_bs_g_computers_d_sccl_9/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0FKH5XJ4G",
+      "affiliate_url": "https://www.amazon.es/dp/B0FKH5XJ4G/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B095SYK1R9",
+      "source_input": "https://www.amazon.es/TP-Link-RE500X-Repetidor/dp/B095SYK1R9/ref=zg_bs_g_computers_d_sccl_12/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B095SYK1R9",
+      "affiliate_url": "https://www.amazon.es/dp/B095SYK1R9/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0DZ32G7XY",
+      "source_input": "https://www.amazon.es/Mercusys-MB115-4G-Instant%C3%A1neo-Cobertura-Dispositivos/dp/B0DZ32G7XY/ref=zg_bs_g_computers_d_sccl_11/258-1924377-2537719?psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B0DZ32G7XY",
+      "affiliate_url": "https://www.amazon.es/dp/B0DZ32G7XY/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0DZ75RKZH",
+      "source_input": "https://www.amazon.es/Apple-iPad-11-Pulgadas-autonom%C3%ADa/dp/B0DZ75RKZH/ref=zg_bs_g_computers_d_sccl_15/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0DZ75RKZH",
+      "affiliate_url": "https://www.amazon.es/dp/B0DZ75RKZH/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B09VDKSMQL",
+      "source_input": "https://www.amazon.es/ARCTIC-MX-6-Incl-Cleaner-conductividad/dp/B09VDKSMQL/ref=zg_bs_g_computers_d_sccl_16/258-1924377-2537719?psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B09VDKSMQL",
+      "affiliate_url": "https://www.amazon.es/dp/B09VDKSMQL/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0B1JNDZ5J",
+      "source_input": "https://www.amazon.es/Kingston-DataTraveler-Exodia-DTXM-64GB/dp/B0B1JNDZ5J/ref=zg_bs_g_computers_d_sccl_14/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0B1JNDZ5J",
+      "affiliate_url": "https://www.amazon.es/dp/B0B1JNDZ5J/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B07VC68RW1",
+      "source_input": "https://www.amazon.es/TP-Link-LS1005G-Conmutador-Ethernet-Velocidad/dp/B07VC68RW1/ref=zg_bs_g_computers_d_sccl_13/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B07VC68RW1",
+      "affiliate_url": "https://www.amazon.es/dp/B07VC68RW1/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0CPPKNRLJ",
+      "source_input": "https://www.amazon.es/Epson-Impresora-multifunci%C3%B3n-dep%C3%B3sito-conexi%C3%B3n/dp/B0CPPKNRLJ/ref=zg_bs_g_computers_d_sccl_20/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0CPPKNRLJ",
+      "affiliate_url": "https://www.amazon.es/dp/B0CPPKNRLJ/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0FL366VPN",
+      "source_input": "https://www.amazon.es/LG-27G411A-B-Ultragear-1920x1080-FreeSync/dp/B0FL366VPN/ref=zg_bs_g_computers_d_sccl_24/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0FL366VPN",
+      "affiliate_url": "https://www.amazon.es/dp/B0FL366VPN/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0FCSSNXT4",
+      "source_input": "https://www.amazon.es/HP-Impresora-Multifunci%C3%B3n-inyecci%C3%B3n-inal%C3%A1mbrica/dp/B0FCSSNXT4/ref=zg_bs_g_computers_d_sccl_23/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0FCSSNXT4",
+      "affiliate_url": "https://www.amazon.es/dp/B0FCSSNXT4/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B098K3H92Z",
+      "source_input": "https://www.amazon.es/%E3%80%90Nuevo%E3%80%91-TP-Link-UB500-Auriculares-Compatible/dp/B098K3H92Z/ref=zg_bs_g_computers_d_sccl_26/258-1924377-2537719?psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B098K3H92Z",
+      "affiliate_url": "https://www.amazon.es/dp/B098K3H92Z/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B00RM1EC1S",
+      "source_input": "https://www.amazon.es/Sandisk-Cruzer-Blade-Memoria-Negro/dp/B00RM1EC1S/ref=zg_bs_g_computers_d_sccl_27/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B00RM1EC1S",
+      "affiliate_url": "https://www.amazon.es/dp/B00RM1EC1S/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B09BC44T8K",
+      "source_input": "https://www.amazon.es/ORIGBELIE-grabadora-ultradelgada-Tarjetas-computadora/dp/B09BC44T8K/ref=zg_bs_g_computers_d_sccl_31/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B09BC44T8K",
+      "affiliate_url": "https://www.amazon.es/dp/B09BC44T8K/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0DFZSGN7J",
+      "source_input": "https://www.amazon.es/Canon-TS3750i-Impresora-Multifunci%C3%B3n-Compatible/dp/B0DFZSGN7J/ref=zg_bs_g_computers_d_sccl_34/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0DFZSGN7J",
+      "affiliate_url": "https://www.amazon.es/dp/B0DFZSGN7J/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0G14W2ZWW",
+      "source_input": "https://www.amazon.es/Samsung-Galaxy-Tab-A11-Cu%C3%A1druples/dp/B0G14W2ZWW/ref=zg_bs_g_computers_d_sccl_43/258-1924377-2537719?psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B0G14W2ZWW",
+      "affiliate_url": "https://www.amazon.es/dp/B0G14W2ZWW/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0G157R16T",
+      "source_input": "https://www.amazon.es/Samsung-Galaxy-Tab-A11-Cu%C3%A1druples/dp/B0G157R16T/ref=zg_bs_g_computers_d_sccl_40/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0G157R16T",
+      "affiliate_url": "https://www.amazon.es/dp/B0G157R16T/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0DC8VPSHV",
+      "source_input": "https://www.amazon.es/Crucial-Compatible-Ordenador-Port%C3%A1til-Sobremesa/dp/B0DC8VPSHV/ref=zg_bs_g_computers_d_sccl_41/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0DC8VPSHV",
+      "affiliate_url": "https://www.amazon.es/dp/B0DC8VPSHV/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0FH9YQ462",
+      "source_input": "https://www.amazon.es/AF12X2-Ventiladores-Funcionamiento-Ultrasilencioso-Antivibraciones/dp/B0FH9YQ462/ref=zg_bs_g_computers_d_sccl_46/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0FH9YQ462",
+      "affiliate_url": "https://www.amazon.es/dp/B0FH9YQ462/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0B9C3ZVHR",
+      "source_input": "https://www.amazon.es/SAMSUNG-Unidad-estado-s%C3%B3lido-Express/dp/B0B9C3ZVHR/ref=zg_bs_g_computers_d_sccl_48/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0B9C3ZVHR",
+      "affiliate_url": "https://www.amazon.es/dp/B0B9C3ZVHR/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0DGLXK3B9",
+      "source_input": "https://www.amazon.es/HP-Impresora-Multifunci%C3%B3n-Envy-6120e/dp/B0DGLXK3B9/ref=zg_bs_g_computers_d_sccl_50/258-1924377-2537719?psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B0DGLXK3B9",
+      "affiliate_url": "https://www.amazon.es/dp/B0DGLXK3B9/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0B2K3ZCHH",
+      "source_input": "https://www.amazon.es/Kingspec-Unidad-Interna-Estado-s%C3%B3lido/dp/B0B2K3ZCHH/ref=zg_bs_g_computers_d_sccl_49/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0B2K3ZCHH",
+      "affiliate_url": "https://www.amazon.es/dp/B0B2K3ZCHH/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0B9MCP5YY",
+      "source_input": "https://www.amazon.es/RUIZHI-Unidades-Grabadora-Reproductor-Compatible/dp/B0B9MCP5YY/ref=zg_bs_g_computers_d_sccl_45/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0B9MCP5YY",
+      "affiliate_url": "https://www.amazon.es/dp/B0B9MCP5YY/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0DDNTYYF3",
+      "source_input": "https://www.amazon.es/Pulgadas-Escritura-Electight-Pantalla-Educativo/dp/B0DDNTYYF3/ref=zg_bs_g_computers_d_sccl_3/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0DDNTYYF3",
+      "affiliate_url": "https://www.amazon.es/dp/B0DDNTYYF3/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B00C2ICYPC",
+      "source_input": "https://www.amazon.es/TP-Link-TL-WPA4220KIT-Extensor-Powerlines-HomePlug/dp/B00C2ICYPC/ref=zg_bs_g_computers_d_sccl_4/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B00C2ICYPC",
+      "affiliate_url": "https://www.amazon.es/dp/B00C2ICYPC/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B08FST3H95",
+      "source_input": "https://www.amazon.es/KODAK-Retro-Impresora-Port%C3%A1til-Blanco/dp/B08FST3H95/ref=zg_bs_g_computers_d_sccl_6/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B08FST3H95",
+      "affiliate_url": "https://www.amazon.es/dp/B08FST3H95/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0DN6NHW6F",
+      "source_input": "https://www.amazon.es/ASUS-VY249HGR-SmoothMotion-Tratamiento-Antibacterial/dp/B0DN6NHW6F/ref=zg_bs_g_computers_d_sccl_7/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0DN6NHW6F",
+      "affiliate_url": "https://www.amazon.es/dp/B0DN6NHW6F/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0BYJ79PHH",
+      "source_input": "https://www.amazon.es/Monitor-Port%C3%A1til-Pantalla-Portatil-Computadora/dp/B0BYJ79PHH/ref=zg_bs_g_computers_d_sccl_8/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0BYJ79PHH",
+      "affiliate_url": "https://www.amazon.es/dp/B0BYJ79PHH/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0DMTN5WLB",
+      "source_input": "https://www.amazon.es/CORSAIR-alimentaci%C3%B3n-Totalmente-Modular-12V-2x6/dp/B0DMTN5WLB/ref=zg_bs_g_computers_d_sccl_12/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0DMTN5WLB",
+      "affiliate_url": "https://www.amazon.es/dp/B0DMTN5WLB/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0CK5ZQQXJ",
+      "source_input": "https://www.amazon.es/Brother-HLL2400DWE-Impresora-Monocromo-impresi%C3%B3n/dp/B0CK5ZQQXJ/ref=zg_bs_g_computers_d_sccl_11/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0CK5ZQQXJ",
+      "affiliate_url": "https://www.amazon.es/dp/B0CK5ZQQXJ/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0GR6CC1CZ",
+      "source_input": "https://www.amazon.es/Apple-MacBook-Pulgadas-Chip-Almacenamiento/dp/B0GR6CC1CZ/ref=zg_bs_g_computers_d_sccl_9/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0GR6CC1CZ",
+      "affiliate_url": "https://www.amazon.es/dp/B0GR6CC1CZ/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0CKRVB58D",
+      "source_input": "https://www.amazon.es/LG-32MR50C-B-Velocidad-Resolution-Clasificaci%C3%B3n/dp/B0CKRVB58D/ref=zg_bs_g_computers_d_sccl_14/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0CKRVB58D",
+      "affiliate_url": "https://www.amazon.es/dp/B0CKRVB58D/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0H7BK6WNL",
+      "source_input": "https://www.amazon.es/Repetidor-Amplificador-Ethernet-Extensor-Compatible/dp/B0H7BK6WNL/ref=zg_bs_g_computers_d_sccl_15/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0H7BK6WNL",
+      "affiliate_url": "https://www.amazon.es/dp/B0H7BK6WNL/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B07BCP3PYL",
+      "source_input": "https://www.amazon.es/Disco-Duro-Externo-500GB-Chromebook/dp/B07BCP3PYL/ref=zg_bs_g_computers_d_sccl_16/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B07BCP3PYL",
+      "affiliate_url": "https://www.amazon.es/dp/B07BCP3PYL/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0DNMCJHJP",
+      "source_input": "https://www.amazon.es/Lexar-Interno-Velocidad-Intensivas-Rendimiento/dp/B0DNMCJHJP/ref=zg_bs_g_computers_d_sccl_17/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0DNMCJHJP",
+      "affiliate_url": "https://www.amazon.es/dp/B0DNMCJHJP/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0GN48XQ33",
+      "source_input": "https://www.amazon.es/ASUS-Vivobook-15-M1502NAQ-BQ045W-Ordenador/dp/B0GN48XQ33/ref=zg_bs_g_computers_d_sccl_20/258-1924377-2537719?psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B0GN48XQ33",
+      "affiliate_url": "https://www.amazon.es/dp/B0GN48XQ33/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0CS3W1DMF",
+      "source_input": "https://www.amazon.es/MSI-27C6F-Monitor-Sincronizaci%C3%B3n-adaptativa/dp/B0CS3W1DMF/ref=zg_bs_g_computers_d_sccl_22/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0CS3W1DMF",
+      "affiliate_url": "https://www.amazon.es/dp/B0CS3W1DMF/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0GRGK5D4F",
+      "source_input": "https://www.amazon.es/Whitedeer-Pulgadas-Pantalla-1280x800-Widevine/dp/B0GRGK5D4F/ref=zg_bs_g_computers_d_sccl_25/258-1924377-2537719?psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B0GRGK5D4F",
+      "affiliate_url": "https://www.amazon.es/dp/B0GRGK5D4F/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0CJCCDV65",
+      "source_input": "https://www.amazon.es/ARZOPA-Portatil-1920%C3%971080-Protecci%C3%B3n-Computadora/dp/B0CJCCDV65/ref=zg_bs_g_computers_d_sccl_30/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0CJCCDV65",
+      "affiliate_url": "https://www.amazon.es/dp/B0CJCCDV65/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0FCS4D6L2",
+      "source_input": "https://www.amazon.es/ARZOPA-Portatil-100sRGB-Protecci%C3%B3n-Computadora/dp/B0FCS4D6L2/ref=zg_bs_g_computers_d_sccl_86/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0FCS4D6L2",
+      "affiliate_url": "https://www.amazon.es/dp/B0FCS4D6L2/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0FJ9234ZX",
+      "source_input": "https://www.amazon.es/XIAOMI-REDMI-Pad-Pro-Snapdragon/dp/B0FJ9234ZX/ref=zg_bs_g_computers_d_sccl_82/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0FJ9234ZX",
+      "affiliate_url": "https://www.amazon.es/dp/B0FJ9234ZX/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B00M2X5IPA",
+      "source_input": "https://www.amazon.es/Intenso-Conector-Negro-unidad-flash/dp/B00M2X5IPA/ref=zg_bs_g_computers_d_sccl_87/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B00M2X5IPA",
+      "affiliate_url": "https://www.amazon.es/dp/B00M2X5IPA/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0DSG3H6Y1",
+      "source_input": "https://www.amazon.es/Samsung-Essential-Refresco-Flickering-LS27D304GAUXEN/dp/B0DSG3H6Y1/ref=zg_bs_g_computers_d_sccl_92/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0DSG3H6Y1",
+      "affiliate_url": "https://www.amazon.es/dp/B0DSG3H6Y1/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0CXM2P4F8",
+      "source_input": "https://www.amazon.es/Pendrive-Wooolken-Memorias-Windows-Unidades/dp/B0CXM2P4F8/ref=zg_bs_g_computers_d_sccl_98/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0CXM2P4F8",
+      "affiliate_url": "https://www.amazon.es/dp/B0CXM2P4F8/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0GXNBTR8P",
+      "source_input": "https://www.amazon.es/Pulgadas-Octa-Core-Certified-Widevine-Funda-Rosa/dp/B0GXNBTR8P/ref=zg_bs_g_computers_d_sccl_95/258-1924377-2537719?th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0GXNBTR8P",
+      "affiliate_url": "https://www.amazon.es/dp/B0GXNBTR8P/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0D6NN6TM7",
+      "source_input": "https://www.amazon.es/AMD-Procesador-9600X-Arquitectura-Frecuencia/dp/B0D6NN6TM7/ref=pd_rhf_ee_s_pd_crcd_d_sccl_1_1/258-1924377-2537719?pd_rd_w=gpYTM&content-id=amzn1.sym.fefa772b-6540-4186-be83-3322ed57acee&pf_rd_p=fefa772b-6540-4186-be83-3322ed57acee&pf_rd_r=9PC19KZR3TMHN1MSKE1P&pd_rd_wg=aEwr5&pd_rd_r=84ea8fe4-7fe3-45b0-974b-547309c449e0&pd_rd_i=B0D6NN6TM7&psc=1",
+      "canonical_url": "https://www.amazon.es/dp/B0D6NN6TM7",
+      "affiliate_url": "https://www.amazon.es/dp/B0D6NN6TM7/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B09NSTR7JZ",
+      "source_input": "https://www.amazon.es/Enfriador-Thermalright-enfriador-ventilador-tecnolog%C3%ADa/dp/B09NSTR7JZ/ref=pd_rhf_ee_s_pd_crcd_d_sccl_1_4/258-1924377-2537719?pd_rd_w=gpYTM&content-id=amzn1.sym.fefa772b-6540-4186-be83-3322ed57acee&pf_rd_p=fefa772b-6540-4186-be83-3322ed57acee&pf_rd_r=9PC19KZR3TMHN1MSKE1P&pd_rd_wg=aEwr5&pd_rd_r=84ea8fe4-7fe3-45b0-974b-547309c449e0&pd_rd_i=B09NSTR7JZ&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B09NSTR7JZ",
+      "affiliate_url": "https://www.amazon.es/dp/B09NSTR7JZ/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B09VH29PR1",
+      "source_input": "https://www.amazon.es/ARCTIC-ACOTH00001A-M2-Pro-negro/dp/B09VH29PR1/ref=pd_rhf_ee_s_pd_crcd_d_sccl_1_6/258-1924377-2537719?pd_rd_w=gpYTM&content-id=amzn1.sym.fefa772b-6540-4186-be83-3322ed57acee&pf_rd_p=fefa772b-6540-4186-be83-3322ed57acee&pf_rd_r=9PC19KZR3TMHN1MSKE1P&pd_rd_wg=aEwr5&pd_rd_r=84ea8fe4-7fe3-45b0-974b-547309c449e0&pd_rd_i=B09VH29PR1&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B09VH29PR1",
+      "affiliate_url": "https://www.amazon.es/dp/B09VH29PR1/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B07RW6Z692",
+      "source_input": "https://www.amazon.es/CORSAIR-VENGEANCE-CL16-20-20-38-Ordenador-Sobremesa/dp/B07RW6Z692/ref=pd_rhf_ee_s_pd_crcd_d_sccl_1_3/258-1924377-2537719?pd_rd_w=gpYTM&content-id=amzn1.sym.fefa772b-6540-4186-be83-3322ed57acee&pf_rd_p=fefa772b-6540-4186-be83-3322ed57acee&pf_rd_r=9PC19KZR3TMHN1MSKE1P&pd_rd_wg=aEwr5&pd_rd_r=84ea8fe4-7fe3-45b0-974b-547309c449e0&pd_rd_i=B07RW6Z692&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B07RW6Z692",
+      "affiliate_url": "https://www.amazon.es/dp/B07RW6Z692/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0CSKH1NJF",
+      "source_input": "https://www.amazon.es/Gigabyte-Placa-Eagle-AX-B650/dp/B0CSKH1NJF/ref=pd_rhf_ee_s_pd_crcd_d_sccl_1_8/258-1924377-2537719?pd_rd_w=gpYTM&content-id=amzn1.sym.fefa772b-6540-4186-be83-3322ed57acee&pf_rd_p=fefa772b-6540-4186-be83-3322ed57acee&pf_rd_r=9PC19KZR3TMHN1MSKE1P&pd_rd_wg=aEwr5&pd_rd_r=84ea8fe4-7fe3-45b0-974b-547309c449e0&pd_rd_i=B0CSKH1NJF&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0CSKH1NJF",
+      "affiliate_url": "https://www.amazon.es/dp/B0CSKH1NJF/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B0DFHNV7TK",
+      "source_input": "https://www.amazon.es/CORSAIR-Frame-4000D-Modular-Mid-Tower/dp/B0DFHNV7TK/ref=pd_rhf_ee_s_pd_crcd_d_sccl_1_9/258-1924377-2537719?pd_rd_w=gpYTM&content-id=amzn1.sym.fefa772b-6540-4186-be83-3322ed57acee&pf_rd_p=fefa772b-6540-4186-be83-3322ed57acee&pf_rd_r=9PC19KZR3TMHN1MSKE1P&pd_rd_wg=aEwr5&pd_rd_r=84ea8fe4-7fe3-45b0-974b-547309c449e0&pd_rd_i=B0DFHNV7TK&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B0DFHNV7TK",
+      "affiliate_url": "https://www.amazon.es/dp/B0DFHNV7TK/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B07W7KGYN1",
+      "source_input": "https://www.amazon.es/Logitech-MK295-Combo-Teclado-Inal%C3%A1mbricos/dp/B07W7KGYN1/ref=pd_rhf_ee_s_pd_crcd_d_sccl_1_5/258-1924377-2537719?pd_rd_w=gpYTM&content-id=amzn1.sym.fefa772b-6540-4186-be83-3322ed57acee&pf_rd_p=fefa772b-6540-4186-be83-3322ed57acee&pf_rd_r=9PC19KZR3TMHN1MSKE1P&pd_rd_wg=aEwr5&pd_rd_r=84ea8fe4-7fe3-45b0-974b-547309c449e0&pd_rd_i=B07W7KGYN1&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B07W7KGYN1",
+      "affiliate_url": "https://www.amazon.es/dp/B07W7KGYN1/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    },
+    {
+      "asin": "B07PDBYX48",
+      "source_input": "https://www.amazon.es/Grabadora-Rodzon-Unidades-Port%C3%A1til-Quemador/dp/B07PDBYX48/ref=pd_rhf_ee_s_pd_sbs_rvi_d_sccl_2_3/258-1924377-2537719?pd_rd_w=akxmM&content-id=amzn1.sym.6ad1d31a-2b05-44ca-b80b-8098fd101e89&pf_rd_p=6ad1d31a-2b05-44ca-b80b-8098fd101e89&pf_rd_r=9PC19KZR3TMHN1MSKE1P&pd_rd_wg=aEwr5&pd_rd_r=84ea8fe4-7fe3-45b0-974b-547309c449e0&pd_rd_i=B07PDBYX48&th=1",
+      "canonical_url": "https://www.amazon.es/dp/B07PDBYX48",
+      "affiliate_url": "https://www.amazon.es/dp/B07PDBYX48/ref=nosim?tag=christian0ddd-21",
+      "marketplace": "amazon.es",
+      "country": "ES",
+      "generated_at": "2026-07-23T17:24:29.198Z"
+    }
+  ],
   "rejected": []
 }

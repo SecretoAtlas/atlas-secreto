@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build:catalog": "python3 scripts/build-product-families.py && node scripts/build-marketplace-catalog.mjs && node scripts/build-affiliate-links.mjs",
+    "build:catalog": "python scripts/build-product-families.py && node scripts/build-marketplace-catalog.mjs && node scripts/build-affiliate-links.mjs",
     "test": "node --test tests/*.test.mjs scripts/import-awin.test.mjs",
     "test:browser": "node tests/browser-smoke.mjs",
     "validate:catalog": "node scripts/validate-catalog.mjs && node scripts/audit-affiliate-links.mjs",
