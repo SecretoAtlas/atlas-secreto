@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "merchantId": "muebles-style-spain",
+  "awinMerchantId": "122118",
+  "importedAt": "2026-07-22T10:58:23.000Z",
+  "sourceArchive": "122118-112474-es_ES-Muebles_Style___Datafeed_optimised.zip",
+  "sourceFile": "122118-112474-es_ES-Muebles_Style___Datafeed_optimised.csv",
+  "sourceColumns": 77,
+  "mode": "dry_run",
+  "limit": null,
+  "totals": {
+    "feedRows": 3111,
+    "examinedRows": 3111,
+    "acceptedRows": 3110,
+    "skippedRows": 1,
+    "productsCreated": 3110,
+    "productsMatched": 0,
+    "productsUpdated": 0,
+    "offersWritten": 3110,
+    "duplicateRowsCollapsed": 0,
+    "orphanProductsRemoved": 0
+  },
+  "skipReasons": {
+    "missing_exact_identifier": 1,
+    "missing_product_id": 1
+  },
+  "conflictRows": [],
+  "skippedExamples": [
+    {
+      "rowNumber": 2269,
+      "merchantProductId": "KA110497",
+      "title": "Alfombrilla universal «Billete de 100 DÓLARES» 28 x 20 cm",
+      "reasons": [
+        "missing_exact_identifier",
+        "missing_product_id"
+      ]
+    }
+  ],
+  "notes": [
+    "La coincidencia exacta usa GTIN/EAN/UPC normalizado y, como respaldo, marca + MPN.",
+    "Las filas sin identificador exacto se omiten para evitar comparaciones incorrectas."
+  ],
+  "output": {
+    "products": 3110,
+    "offers": 3110,
+    "merchantOffersReplaced": 0
+  }
+}
