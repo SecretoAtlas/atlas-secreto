@@ -8,6 +8,12 @@ const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 
 const definitions = [
   {
+    code: "ES",
+    source: "data/aliexpress-es-source.json",
+    cache: "data/aliexpress-es-metadata-cache.json",
+    output: "data/catalog/aliexpress-es.json"
+  },
+  {
     code: "MX",
     source: "data/aliexpress-mx-source.json",
     cache: "data/aliexpress-mx-metadata-cache.json",

@@ -30,6 +30,13 @@ const DATA_SOURCES = [
     merchantName: "Muebles Style"
   },
   {
+    id: "catalog-aliexpress-es",
+    url: "./data/catalog/aliexpress-es.json",
+    country: "ES",
+    merchantId: "aliexpress",
+    merchantName: "AliExpress"
+  },
+  {
     id: "catalog-mx",
     url: "./data/catalog/aliexpress-mx.json",
     country: "MX",

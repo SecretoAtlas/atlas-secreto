@@ -56,18 +56,22 @@ function validateUrl(value, offerId, merchant) {
 
 const [
   families,
+  spainAliExpressCatalog,
   mexicoCatalog,
   colombiaCatalog,
   offersPayload,
+  spainAliExpressSource,
   mexicoSource,
   colombiaSource,
   curatedPayload,
   merchantsPayload
 ] = await Promise.all([
   readJson("data/catalog/families.json"),
+  readJson("data/catalog/aliexpress-es.json"),
   readJson("data/catalog/aliexpress-mx.json"),
   readJson("data/catalog/aliexpress-co.json"),
   readJson("data/catalog/offers.json"),
+  readJson("data/aliexpress-es-source.json"),
   readJson("data/aliexpress-mx-source.json"),
   readJson("data/aliexpress-co-source.json"),
   readJson("data/sources/curated-products.json"),
@@ -79,6 +83,7 @@ const merchants = new Map(
 );
 const referencedOfferIds = new Set([
   ...collectOfferIds(families),
+  ...collectOfferIds(spainAliExpressCatalog),
   ...collectOfferIds(mexicoCatalog),
   ...collectOfferIds(colombiaCatalog)
 ]);
@@ -89,6 +94,14 @@ for (const offer of offersPayload.offers || []) {
     url: offer.affiliateUrl,
     merchantId: offer.merchantId,
     country: offer.country
+  });
+}
+
+for (const record of spainAliExpressSource) {
+  candidates.set(`aliexpress-es:${record.product_id}`, {
+    url: record.tracking_url,
+    merchantId: "aliexpress",
+    country: "ES"
   });
 }
 

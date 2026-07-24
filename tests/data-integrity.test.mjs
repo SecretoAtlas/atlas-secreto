@@ -11,6 +11,7 @@ async function readJson(path) {
 
 const [
   spain,
+  spainAliExpress,
   mexico,
   colombia,
   links,
@@ -19,6 +20,7 @@ const [
   curated
 ] = await Promise.all([
   readJson("data/catalog/families.json"),
+  readJson("data/catalog/aliexpress-es.json"),
   readJson("data/catalog/aliexpress-mx.json"),
   readJson("data/catalog/aliexpress-co.json"),
   readJson("data/catalog/affiliate-links.json"),
@@ -27,7 +29,7 @@ const [
   readJson("data/sources/curated-products.json")
 ]);
 
-const catalogs = [spain, mexico, colombia];
+const catalogs = [spain, spainAliExpress, mexico, colombia];
 const families = catalogs.flatMap((catalog) => catalog.families);
 const publicOffers = families.flatMap((family) =>
   family.variants.flatMap((variant) => variant.offers)
@@ -46,6 +48,7 @@ test("los catálogos públicos usan el esquema definitivo", () => {
   );
   assert.ok(mexico.families.length > 0);
   assert.ok(colombia.families.length > 0);
+  assert.equal(spainAliExpress.families.length, 411);
 });
 
 test("familias, variantes y ofertas tienen IDs únicos", () => {

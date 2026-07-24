@@ -36,6 +36,7 @@ test("incluye la estructura funcional definitiva", () => {
   assert.ok(app.includes("secretshop:recent:v1"));
   assert.ok(app.includes("secretshop:searches:v1"));
   assert.ok(app.includes("const MAX_COMPARE = 4"));
+  assert.ok(app.includes("./data/catalog/aliexpress-es.json"));
 });
 
 test("incluye modo oscuro, foco, reducción de movimiento y diseño adaptable", () => {

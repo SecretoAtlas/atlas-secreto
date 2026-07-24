@@ -48,11 +48,12 @@ function validateAliExpress(value) {
   }
 }
 
-const [offersPayload, merchantsPayload, linksPayload, families, mexico, colombia] = await Promise.all([
+const [offersPayload, merchantsPayload, linksPayload, families, spainAliExpress, mexico, colombia] = await Promise.all([
   readJson("offers.json"),
   readJson("merchants.json"),
   readJson("affiliate-links.json"),
   readJson("families.json"),
+  readJson("aliexpress-es.json"),
   readJson("aliexpress-mx.json"),
   readJson("aliexpress-co.json")
 ]);
@@ -83,6 +84,7 @@ for (const offer of offersPayload.offers) {
 
 const publishedIds = new Set([
   ...publicOfferIds(families),
+  ...publicOfferIds(spainAliExpress),
   ...publicOfferIds(mexico),
   ...publicOfferIds(colombia)
 ]);
