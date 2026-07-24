@@ -7,6 +7,7 @@ import {
   displayOfferPrice,
   filterAndSortFamilies,
   getSuggestions,
+  isRealImage,
   mergeCatalogPayloads,
   normalizeText,
   offerTotal,
@@ -161,6 +162,16 @@ test("no convierte precios ausentes en 0,00 €", () => {
   assert.equal(offerTotal(offer), null);
   assert.equal(displayOfferPrice(offer), "Consultar precio en Amazon");
   assert.equal(offerTotal({ price: "", totalPrice: "" }), null);
+});
+
+test("permite solo la ficha provisional oficial de Amazon", () => {
+  assert.equal(
+    isRealImage("https://secretshops.github.io/assets/brand/amazon-placeholder.svg"),
+    true
+  );
+  assert.equal(isRealImage("https://example.com/placeholder.svg"), false);
+  assert.equal(isRealImage("https://placehold.co/900x900"), false);
+  assert.equal(isRealImage("https://example.com/no-image.jpg"), false);
 });
 
 test("genera sugerencias de producto y categoría", () => {

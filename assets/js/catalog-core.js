@@ -184,6 +184,9 @@ export function isRealImage(value) {
   ) {
     return false;
   }
+  if (/\/assets\/brand\/amazon-placeholder\.svg(?:[?#].*)?$/i.test(value)) {
+    return true;
+  }
   return !/(placehold\.co|placeholder|no[-_ ]?image)/i.test(value);
 }
 
